@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Unit #1 Newly Builded- Cute and Cozy Home in Safe Location</h2><p>Furnished &nbsp; <img src='/images/Furniture_Icon.png' alt='Furnished Rental' title='Furnished Rental' /></p>",
+    "image": "https://static.furnishedfinder.comhttps://staticproperties.furnishedfinder.com/371782/2/371782_2_38701736-full.jpg",
+    "description": "Nicely furnished private bedroom with shared bathroom for rent in 4 bedroom ...<br />",
+    "mpn": "371782",
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "900"
+    }
+}

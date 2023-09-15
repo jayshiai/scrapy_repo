@@ -1,0 +1,3178 @@
+city,enroll,name,rate,state
+Parkville,8782,Park University,42.1%,MO
+Ann Arbor,1135,Concordia University Ann Arbor,42.7%,MI
+Minden,957,Northwest Louisiana Technical College,42.4%,LA
+Boston,15637,University of Massachusetts Boston,42.2%,MA
+Columbus,2477,Mississippi University for Women,43%,MS
+Moorhead,5088,Minnesota State University Moorhead,42.7%,MN
+Louisville,2541,Sullivan University,42%,KY
+Dodge City,1731,Dodge City Community College,40.3%,KS
+Lindsborg,737,Bethany College,40.2%,KS
+Mason City,2482,North Iowa Area Community College,40.9%,IA
+Fairfield,2403,Maharishi University of Management,40%,IA
+Terre Haute,9459,Indiana State University,40.7%,IN
+Evansville,9756,University of Southern Indiana,40.8%,IN
+Canton,1273,Spoon River College,40.1%,IL
+Boca Raton,301,Digital Media Arts College,36.2%,FL
+Joplin,31,Messenger College,36.2%,TX
+Orange,12159,Santiago Canyon College,37%,CA
+Clarksville,387,Daymar College Clarksville,36.4%,TN
+Appleton,11664,Fox Valley Technical College,36.4%,WI
+Athens,1749,Concord University,36%,WV
+Walla Walla,3084,Walla Walla Community College,36.4%,WA
+Monsey,989,Yeshivath Viznitz,88.9%,NY
+Northfield,2988,St Olaf College,88.1%,MN
+Waltham,5558,Brandeis University,88.6%,MA
+Waltham,5158,Bentley University,88.5%,MA
+Lewiston,1821,Bates College,88.1%,ME
+Claremont,1116,Scripps College,89%,CA
+Temecula,82,Professional Golfers Career College,87.4%,CA
+Lincoln,744,BryanLGH College of Health Sciences,79.2%,NE
+Springfield,956,Cox College,79.3%,MO
+Boston,5900,Emerson College,79.8%,MA
+St. Mary's City,1544,St Mary's College of Maryland,79.9%,MD
+Decorah,1744,Luther College,79.5%,IA
+Dubuque,193,Emmaus Bible College,79%,IA
+Indianapolis,224,International Business College Indianapolis,79.9%,IN
+Pittsburgh,352,Bradford School,76.9%,PA
+Meadville,1575,Allegheny College,76.5%,PA
+Cincinnati,104,Cincinnati College of Mortuary Science,76.7%,OH
+New York,299,Wood Tobe Coburn School,76.3%,NY
+Ithaca,5239,Ithaca College,76.8%,NY
+Annandale-On-Hudson,2591,Bard College,76.6%,NY
+St. Benedict,114,Saint Joseph Seminary College,76.3%,LA
+Denver,14130,University of Denver,76.8%,CO
+Anaheim,521,Southern California Institute of Technology,75.4%,CA
+Des Moines,4875,Drake University,76.6%,IA
+Golden,7187,Colorado School of Mines,76.3%,CO
+Amherst,32045,University of Massachusetts Amherst,76.5%,MA
+Kansas City,5,Pinnacle Career Institute North Kansas City,76%,MO
+Fort Collins,409,Institute of Business and Medical Careers,75.4%,CO
+Spokane,2681,Whitworth University,75.1%,WA
+Fort Worth,11938,Texas Christian University,75.5%,TX
+Washington,1157,Washington & Jefferson College,75.5%,PA
+Tallahassee,45130,Florida State University,79.3%,FL
+Appleton,1483,Lawrence University,78.1%,WI
+Philadelphia,6464,Saint Joseph's University,75.8%,PA
+Sewanee,1820,Sewanee The University of the South,78.5%,TN
+Seattle,7268,Seattle University,78.1%,WA
+DuBois,98,Triangle Tech Inc Dubois,78.6%,PA
+Smithfield,3441,Bryant University,78.5%,RI
+Grantham,3276,Messiah College,78.4%,PA
+Salem,1785,Willamette University,78.4%,OR
+Cincinnati,879,The Christ College of Nursing and Health Sciences,77.3%,OH
+Erdenheim,71,Antonelli Institute,78.1%,PA
+Loudonville,3634,Siena College,77.5%,NY
+Durham,14001,University of New Hampshire Main Campus,77.7%,NH
+Wooster,1968,The College of Wooster,78.6%,OH
+Minneapolis,52376,University of Minnesota Twin Cities,77.8%,MN
+Indianapolis,5559,Butler University,77%,IN
+Bloomington,45328,Indiana University Bloomington,77.3%,IN
+Terre Haute,2101,Rose Hulman Institute of Technology,77.6%,IN
+Chicago,2606,Moody Bible Institute,77.5%,IL
+Holland,3132,Hope College,78%,MI
+Bedford Park,308,Fox College Inc,77.7%,IL
+Santa Barbara,1238,Westmont College,77.3%,CA
+San Diego,9041,University of San Diego,77.9%,CA
+Santa Cruz,19841,University of California Santa Cruz,77.8%,CA
+Orange,9991,Chapman University,77%,CA
+Houma,160,Blue Cliff College Houma,76.5%,LA
+Burlington,13826,University of Vermont,76.2%,VT
+Watertown,2190,Lake Area Technical Institute,76.5%,SD
+Monessen,206,Douglas Education Center,76.3%,PA
+Phoenix,129,CollegeAmerica Phoenix,39.5%,AZ
+Augusta,505,Miller Motte Technical College,39.7%,GA
+Rogers,15,Bryan University,39.2%,AR
+Richmond,440,Virginia College,39.2%,VA
+Cedar Hill,255,Northwood University Texas,39.6%,TX
+Madison,2939,Herzing University Madison,39.3%,WI
+Fond du Lac,3269,Moraine Park Technical College,39.8%,WI
+Joplin,140,Vatterott College Joplin,39.4%,MO
+Manitowoc,444,Silver Lake College of the Holy Family,39.7%,WI
+Madison,3219,Dakota State University,39.5%,SD
+Vidalia,1673,Southeastern Technical College,39.3%,GA
+Spartanburg,5438,University of South Carolina Upstate,39.3%,SC
+Misenheimer,1122,Pfeiffer University,39.1%,NC
+Cleveland,15308,Cleveland State University,39%,OH
+Winston Salem,691,Piedmont International University,39.2%,NC
+Greenville,845,Thiel College,39.1%,PA
+Elizabeth City,2054,Elizabeth City State University,39%,NC
+Dayton,10295,Wright State University Main Campus,39.4%,OH
+Santa Paula,497,Thomas Aquinas College,80.1%,CA
+New Brunswick,50804,Rutgers University New Brunswick,80.6%,NJ
+Worcester,3350,Clark University,80.2%,MA
+Bronx,16986,Fordham University,80.3%,NY
+Fairfield,5826,Fairfield University,80.8%,CT
+Geneva,1684,Hobart William Smith Colleges,80.1%,NY
+Notre Dame,1527,Saint Mary's College,80.1%,IN
+Houston,55,Texas County Technical College,79.1%,MO
+Syosset,327,New York College of Health Professions,79.4%,NY
+Milwaukee,11320,Marquette University,79.5%,WI
+Provo,34811,Brigham Young University Provo,79.7%,UT
+College Station,72530,Texas A & M University College Station,79.1%,TX
+Spartanburg,1765,Wofford College,79.4%,SC
+Collegeville,1556,Ursinus College,79.2%,PA
+Johnstown,89,Commonwealth Technical Institute,79.2%,PA
+Portland,4033,University of Portland,79.2%,OR
+New York,348,Jewish Theological Seminary of America,82.6%,NY
+New York,936,Cooper Union for the Advancement of Science and Art,82.7%,NY
+Kalamazoo,1241,Kalamazoo College,82.5%,MI
+Geneseo,4535,SUNY at Geneseo,79.9%,NY
+Oxford,19264,Miami University,79.5%,OH
+South Hadley,2342,Mount Holyoke College,82.8%,MA
+El Paso,1432,Southwest Career College,81.8%,TX
+Richmond,177,Centura College Richmond Main,81.6%,VA
+Beloit,1011,Beloit College,81%,WI
+Lakewood,22,Colorado School of Healing Arts,81.4%,CO
+San Antonio,2704,Trinity University,81.9%,TX
+North Hollywood,2581,West Coast University Los Angeles,81%,CA
+Brooklyn,462,Rabbinical College Bobover Yeshiva Bnei Zion,81.3%,NY
+Memphis,2073,Rhodes College,81.4%,TN
+Clemson,27341,Clemson University,81.5%,SC
+Elon,7127,Elon University,82%,NC
+Hoboken,8287,Stevens Institute of Technology,81.9%,NJ
+Troy,6774,Rensselaer Polytechnic Institute,81.7%,NY
+Pittsburgh,33230,University of Pittsburgh Pittsburgh Campus,81.8%,PA
+Anaheim,366,Bethesda University of California,79.2%,CA
+Davis,40050,University of California Davis,84.2%,CA
+Saint Peter,2251,Gustavus Adolphus College,81.7%,MN
+Greenville,2463,Furman University,83.5%,SC
+Seattle,52434,University of Washington Seattle Campus,83.9%,WA
+Gettysburg,2401,Gettysburg College,83.6%,PA
+Malibu,10446,Pepperdine University,84.1%,CA
+Bryn Mawr,1778,Bryn Mawr College,83.4%,PA
+Saint Joseph,1557,College of Saint Benedict,83.1%,MN
+New York,58226,New York University,83.5%,NY
+New Orleans,14047,Tulane University,83.1%,LA
+Boston,28167,Northeastern University,83%,MA
+Atlanta,43859,Georgia Institute of Technology Main Campus,83.2%,GA
+Aliso Viejo,445,Soka University of America,82.3%,CA
+New London,1829,Connecticut College,83.1%,CT
+Spokane,7381,Gonzaga University,82.9%,WA
+Knoxville,88,Fountainhead College of Technology,82.5%,TN
+Harrisonburg,22166,James Madison University,82.5%,VA
+Blacksburg,37279,Virginia Tech,83%,VA
+Bronxville,1766,Sarah Lawrence College,78.3%,NY
+Steubenville,3415,Franciscan University of Steubenville,78%,OH
+Ramsey,680,Eastwick College,78.4%,NJ
+Poughkeepsie,6396,Marist College,78.2%,NY
+Omaha,8735,Creighton University,78.3%,NE
+Collegeville,1643,Saint Johns University,78.6%,MN
+East Lansing,49659,Michigan State University,78%,MI
+Newark,23996,University of Delaware,78.9%,DE
+Norton,1701,Wheaton College,78.2%,MA
+Galesburg,1156,Knox College,78.9%,IL
+Colchester,1573,Saint Michael's College,77.6%,VT
+Dallas,12385,Southern Methodist University,78%,TX
+Dayton,11971,University of Dayton,77.3%,OH
+Los Angeles,10184,Loyola Marymount University,78.5%,CA
+Tacoma,2173,University of Puget Sound,77.2%,WA
+Virginia Beach,113,Centura College Virginia Beach,77.7%,VA
+Orlando,77,Centura Institute,77.8%,FL
+Columbus,324,Bradford School,77.1%,OH
+Baltimore,5140,Loyola University Maryland,81.4%,MD
+Greencastle,1724,DePauw University,81%,IN
+Bloomington,1653,Illinois Wesleyan University,81.7%,IL
+Coral Gables,19096,University of Miami,81.3%,FL
+Washington,26457,George Washington University,81.3%,DC
+Washington,14852,American University,81.4%,DC
+Storrs,26876,University of Connecticut,81.9%,CT
+Santa Barbara,26124,University of California Santa Barbara,81.1%,CA
+Draper,2173,AmeriTech College Draper,80.1%,UT
+Jacksonville,20,Southeastern College,80%,FL
+Austin,51991,The University of Texas at Austin,80.1%,TX
+San Antonio,1549,Career Point College,81%,TX
+Scranton,4692,University of Scranton,80.2%,PA
+Cleveland,12142,Case Western Reserve University,80.9%,OH
+Syracuse,21772,Syracuse University,80.9%,NY
+Vestal,18055,SUNY at Binghamton,80.9%,NY
+Granville,2321,Denison University,80.8%,OH
+Lincoln,14,Myotherapy Institute,87.5%,NE
+Portland,1566,Reed College,80.6%,OR
+Signal Hill,504,American University of Health Sciences,87%,CA
+Oberlin,2953,Oberlin College,87.7%,OH
+Chandler,107,Golf Academy of America Chandler,87.1%,AZ
+Albuquerque,49,Southwest University of Visual Arts Albuquerque,87.8%,NM
+Walla Walla,1559,Whitman College,87.3%,WA
+Providence,2576,Rhode Island School of Design,87.9%,RI
+Bethlehem,7263,Lehigh University,87.5%,PA
+New York,979,The Juilliard School,87.7%,NY
+Myrtle Beach,160,Golf Academy of America Myrtle Beach,84%,SC
+Gainesville,55781,University of Florida,87%,FL
+Boston,827,The New England Conservatory of Music,85.6%,MA
+Grinnell,1748,Grinnell College,87.7%,IA
+College Park,41272,University of Maryland College Park,85.6%,MD
+Jeffersonville,271,Mid America College of Funeral Service,85.5%,IN
+Madison,47016,University of Wisconsin Madison,84.3%,WI
+Amityville,52,Island Drafting and Technical Institute,84.5%,NY
+Memphis,353,William Moore College of Technology,84.6%,TN
+Carlisle,2186,Dickinson College,84.5%,PA
+Worcester,7230,Worcester Polytechnic Institute,85%,MA
+Roseville,135,Minneapolis Business College,85%,MN
+Easton,2479,Stonehill College,84.6%,MA
+Boston,36104,Boston University,85%,MA
+Athens,40118,University of Georgia,84.9%,GA
+Danville,1320,Centre College,84.3%,KY
+Hartford,2190,Trinity College,84.9%,CT
+Carlsbad,118,Golf Academy of America Carlsbad,84.4%,CA
+Champaign,56607,University of Illinois at Urbana Champaign,84.7%,IL
+Santa Clara,8918,Santa Clara University,84.8%,CA
+Claremont,1168,Pitzer College,87%,CA
+Hialeah,133,College of Business and Technology Hialeah,86.1%,FL
+Irvine,36505,University of California Irvine,87.2%,CA
+Lancaster,2145,Franklin and Marshall College,86.8%,PA
+Schenectady,2096,Union College,86.8%,NY
+University of Richmond,3890,University of Richmond,86.2%,VA
+Northampton,2924,Smith College,86.7%,MA
+Colorado Springs,2266,Colorado College,86.9%,CO
+New York,5501,Yeshiva University,86.5%,NY
+Saratoga Springs,2686,Skidmore College,86.4%,NY
+Providence,4671,Providence College,85.5%,RI
+Los Angeles,1964,Occidental College,86.5%,CA
+University Park,88914,Penn State Main Campus,85.9%,PA
+La Jolla,41885,University of California San Diego,86.7%,CA
+Rochester,12039,University of Rochester,86%,NY
+Canton,2279,St Lawrence University,85.7%,NY
+Parkersburg,20,Mountain State College,89.8%,WV
+Lexington,2238,Washington and Lee University,89.3%,VA
+Ewing,7589,The College of New Jersey,85.6%,NJ
+Allentown,2095,Muhlenberg College,85.6%,PA
+Claremont,905,Harvey Mudd College,91%,CA
+Villanova,10870,Villanova University,89.9%,PA
+Easton,2725,Lafayette College,90%,PA
+Pittsburgh,146,Dean Institute of Technology,89.4%,PA
+New York,3043,Barnard College,89.8%,NY
+Lewisburg,3757,Bucknell University,89.2%,PA
+Saint Paul,2244,Macalester College,89.8%,MN
+Wellesley,3684,Babson College,89.5%,MA
+Wheaton,3047,Wheaton College,89.2%,IL
+Apopka,115,Golf Academy of America Altamonte Springs,88.9%,FL
+Atlanta,14779,Emory University,89.1%,GA
+Miami,123,College of Business and Technology Flagler,88.3%,FL
+Greensburg,133,Triangle Tech Inc Greensburg,88.4%,PA
+Chicago,18832,University of Chicago,92.3%,IL
+Pittsburgh,15057,Carnegie Mellon University,88%,PA
+Gambier,1875,Kenyon College,88.3%,OH
+Winston Salem,8947,Wake Forest University,88.2%,NC
+Brunswick,1951,Bowdoin College,92.9%,ME
+Tucson,125,Southwest University of Visual Arts Tucson,92.4%,AZ
+Houston,8285,Rice University,91.6%,TX
+Poughkeepsie,2516,Vassar College,91.2%,NY
+Clinton,2055,Hamilton College,91.6%,NY
+Cambridge,11934,Massachusetts Institute of Technology,91.6%,MA
+Chestnut Hill,15577,Boston College,91.9%,MA
+Los Angeles,49318,University of Southern California,91.6%,CA
+Claremont,1422,Claremont McKenna College,91.2%,CA
+Los Angeles,46116,University of California Los Angeles,91%,CA
+Berkeley,45036,University of California Berkeley,91.1%,CA
+Pasadena,2397,California Institute of Technology,91.2%,CA
+Williamsburg,9517,College of William and Mary,90.3%,VA
+Chapel Hill,31641,University of North Carolina at Chapel Hill,90.2%,NC
+Hamilton,3176,Colgate University,91%,NY
+Ann Arbor,50278,University of Michigan,90.5%,MI
+Washington,20935,Georgetown University,94.4%,DC
+Needham,382,Olin College of Engineering,93.8%,MA
+Charlottesville,26005,University of Virginia Main Campus,93.7%,VA
+Davidson,1973,Davidson College,93.1%,NC
+Ithaca,25582,Cornell University,93.3%,NY
+Saint Louis,16973,Washington University in St Louis,93.8%,MO
+Northfield,2044,Carleton College,93.8%,MN
+Middletown,3581,Wesleyan University,93.6%,CT
+Claremont,1764,Pomona College,93.5%,CA
+Nashville,13796,Vanderbilt University,92.4%,TN
+Haverford,1420,Haverford College,92%,PA
+New York,900,Swedish Institute a College of Health Sciences,92.2%,NY
+Baltimore,32049,Johns Hopkins University,93.4%,MD
+Evanston,23409,Northwestern University,93%,IL
+Waterville,2262,Colby College,92.1%,ME
+Arundel,53,Landing School of Boat Building and Design,100%,ME
+Medford,13293,Tufts University,92.9%,MA
+Wellesley,2461,Wellesley College,92.3%,MA
+Worcester,3029,College of the Holy Cross,92%,MA
+Cambridge,31345,Harvard University,97.6%,MA
+Omaha,14,Universal College of Healing Arts,98.1%,NE
+Notre Dame,13139,University of Notre Dame,96.1%,IN
+Providence,10696,Brown University,96%,RI
+Princeton,8478,Princeton University,96.8%,NJ
+Philadelphia,28038,University of Pennsylvania,95.5%,PA
+Williamstown,2224,Williams College,95.5%,MA
+New Haven,14567,Yale University,96.5%,CT
+Middlebury,2937,Middlebury College,94.2%,VT
+Durham,554,Apex School of Theology,94%,NC
+Stanford,17680,Stanford University,94.2%,CA
+Swarthmore,1651,Swarthmore College,94%,PA
+Amherst,1971,Amherst College,94.6%,MA
+New York,33776,Columbia University in the City of New York,94.9%,NY
+Big Stone Gap,2079,Mountain Empire Community College,36%,VA
+Hanover,6761,Dartmouth College,94.7%,NH
+Durham,17620,Duke University,94.9%,NC
+Lyndonville,1147,Lyndon State College,36.7%,VT
+Odessa,5534,The University of Texas of the Permian Basin,36.8%,TX
+Greeneville,1494,Tusculum College,36.1%,TN
+Clarksville,9609,Austin Peay State University,36.4%,TN
+Charleston,3341,Charleston Southern University,36.7%,SC
+Philadelphia,875,Peirce College,36.1%,PA
+Media,549,Pennsylvania Institute of Technology,37%,PA
+Newark,2730,Ohio State University Newark Campus,36.5%,OH
+Rio Grande,1868,University of Rio Grande,36.8%,OH
+Pembroke,8318,University of North Carolina at Pembroke,36.4%,NC
+Buffalo,452,Villa Maria College,36.7%,NY
+Albany,363,Bryant and Stratton College Albany,36.5%,NY
+Flushing,1290,Vaughn College of Aeronautics and Technology,36.9%,NY
+Peru,2067,Peru State College,36.6%,NE
+Lexington,704,Wentworth Military Academy & Junior College,36%,MO
+Scooba,3277,East Mississippi Community College,36.8%,MS
+Hancock,424,Finlandia University,36.8%,MI
+Ironwood,857,Gogebic Community College,36.2%,MI
+Brookline,636,Newbury College Brookline,36.5%,MA
+Austin,3276,Riverland Community College,36.5%,MN
+Boston,1038,Laboure College,36.2%,MA
+Thief River Falls,2716,Northland Community and Technical College,36.2%,MN
+Paxton,1521,Anna Maria College,36.4%,MA
+Liberal,1664,Seward County Community College and Area Technical School,37%,KS
+Ephraim,6106,Snow College,37.8%,UT
+Bowie,6308,Bowie State University,36.9%,MD
+Owensboro,14,Daymar College Owensboro,36.6%,KY
+Madisonville,3239,Madisonville Community College,36.4%,KY
+San Antonio,2550,Our Lady of the Lake University San Antonio,37.5%,TX
+Williamsburg,19272,University of the Cumberlands,36.4%,KY
+Gallipolis,54,Gallipolis Career College,37.2%,OH
+Orangeburg,2374,South Carolina State University,37.3%,SC
+Austin,2137,Concordia University Texas,37.2%,TX
+Corpus Christi,10762,Texas A & M University Corpus Christi,37.4%,TX
+Urbana,587,Urbana University,37.5%,OH
+Elizabeth City,145,Mid Atlantic Christian University,37.1%,NC
+Cleveland,1522,Notre Dame College,37.7%,OH
+Banner Elk,873,Lees McRae College,37.3%,NC
+Greensboro,875,Greensboro College,37.8%,NC
+Bronx,14392,CUNY Lehman College,37.4%,NY
+Forest Hills,471,Bramson ORT College,37.3%,NY
+Alcorn State,3074,Alcorn State University,37.2%,MS
+Lodi,2411,Felician College,37.5%,NJ
+New York,15210,CUNY John Jay College of Criminal Justice,37%,NY
+Rochester,96,Crossroads College,37.9%,MN
+Virginia,885,Mesabi Range Community and Technical College,37.2%,MN
+Campbellsville,10238,Campbellsville University,38%,KY
+Wichita,1692,Friends University,38.1%,KS
+Leavenworth,1280,University of Saint Mary,38%,KS
+Hilo,3243,University of Hawaii at Hilo,38.6%,HI
+Creston,1542,Southwestern Community College,38%,IA
+Lake Wales,907,Warner University,38.7%,FL
+Niceville,4697,Northwest Florida State College,38.6%,FL
+Palatka,6318,Saint Johns River State College,38.3%,FL
+Miami Gardens,5921,St. Thomas University,38.6%,FL
+Sanford,15315,Seminole State College of Florida,38.1%,FL
+Miami Gardens,1028,Florida Memorial University,39%,FL
+Trinidad,1500,Trinidad State Junior College,38.8%,CO
+Columbus,61677,Ohio State University,83.3%,OH
+Middletown,5862,Lord Fairfax Community College,37.4%,VA
+Madisonville,16,Daymar College Madisonville,37.4%,KY
+Mountain Home,1246,Arkansas State University Mountain Home,37.2%,AR
+Florence,8526,University of North Alabama,38.3%,AL
+Pleasant Hill,17123,Diablo Valley College,38.3%,CA
+Altamonte Springs,218,City College Altamonte Springs,37.5%,FL
+Brookline,94,The New England Institute of Art,37%,MA
+Pikeville,2269,University of Pikeville,37.3%,KY
+Takoma Park,785,Washington Adventist University,37.6%,MD
+Baltimore,3710,University of Baltimore,37.4%,MD
+Hammond,13456,Southeastern Louisiana University,37.5%,LA
+Natchitoches,10735,Northwestern State University of Louisiana,37.9%,LA
+Laurel,796,Capitol College,37.1%,MD
+New Orleans,1202,Dillard University,37.6%,LA
+Ottawa,879,Ottawa University Ottawa,37.9%,KS
+Fort Pierce,14461,Indian River State College,37.6%,FL
+Danville,2032,Danville Area Community College,37.7%,IL
+Boise,25794,Boise State University,37.1%,ID
+Valdosta,11557,Valdosta State University,37.6%,GA
+Lamar,696,Lamar Community College,37.2%,CO
+Vancleve,81,Kentucky Mountain Bible College,37.8%,KY
+Rancho Palos Verdes,514,Marymount California University,37.9%,CA
+Mobile,13992,University of South Alabama,37.1%,AL
+McKeesport,462,Penn State Greater Allegheny,38.2%,PA
+Ashland,5179,Southern Oregon University,38.4%,OR
+Bethany,482,Southwestern Christian University,38.2%,OK
+Edmond,13250,University of Central Oklahoma,38.1%,OK
+Tiffin,2934,Tiffin University,38.2%,OH
+Williston,908,Williston State College,38.2%,ND
+Devils Lake,1621,Lake Region State College,39%,ND
+Raleigh,742,William Peace University,38.8%,NC
+Saint Clairsville,1204,Ohio University Eastern Campus,38.2%,OH
+Old Westbury,4381,SUNY College at Old Westbury,38.9%,NY
+New Boston,26,Daymar College New Boston,38.6%,OH
+Concord,557,Cabarrus College of Health Sciences,38.1%,NC
+New York,457,Mandl The College of Allied Health,38%,NY
+Woodbury,547,Globe University Woodbury,38.4%,MN
+Highland Heights,15979,Northern Kentucky University,38.1%,KY
+Ypsilanti,15340,Eastern Michigan University,38.3%,MI
+East Hartford,3258,Goodwin College,39.2%,CT
+Grayson,674,Kentucky Christian University,38.6%,KY
+Great Falls,888,University of Great Falls,38.4%,MT
+Gunnison,3689,Western State Colorado University,39.1%,CO
+Durango,3567,Fort Lewis College,39.4%,CO
+Little Rock,710,Philander Smith College,39.4%,AR
+Macon,298,Virginia College,38.8%,GA
+Macon,249,Miller Motte Technical College Macon,38.1%,GA
+Jonesboro,12863,Arkansas State University Main Campus,39.7%,AR
+Saint Louis,130,L'Ecole Culinaire,38%,MO
+Bakersfield,10972,California State University Bakersfield,39.9%,CA
+Brooklyn,411,Yeshiva of Machzikai Hadas,38.9%,NY
+Charleston,240,Miller Motte Technical College North Charleston,38.9%,SC
+Fort Myers,1294,Southwest Florida College,38.9%,FL
+Milwaukee,1822,Alverno College,38.5%,WI
+Orchard Park,195,Bryant and Stratton College Southtowns,38.2%,NY
+El Paso,24003,The University of Texas at El Paso,38.9%,TX
+Rutland,227,College of St Joseph,38.2%,VT
+Fort Worth,2531,Texas Wesleyan University,38%,TX
+Belmont,1517,Belmont Abbey College,40.8%,NC
+Brevard,780,Brevard College,40.4%,NC
+Mount Olive,2288,Mount Olive College,40.9%,NC
+Houston,4120,Houston Baptist University,39%,TX
+New York,11222,Touro College,40.9%,NY
+New York,399,New York Career Institute,40.5%,NY
+Florissant,62,Saint Louis Christian College,40.7%,MO
+Miles City,555,Miles Community College,40.1%,MT
+Saint Louis,4983,Missouri Baptist University,40.7%,MO
+Brainerd,4448,Central Lakes College Brainerd,40.4%,MN
+University Center,7523,Saginaw Valley State University,40.2%,MI
+Newton,1555,Mount Ida College,40.1%,MA
+Louisville,1562,Spalding University,40.4%,KY
+Presque Isle,596,Northern Maine Community College,40.5%,ME
+Monroe,8718,University of Louisiana Monroe,40.7%,LA
+Owensboro,811,Kentucky Wesleyan College,40.1%,KY
+Sterling,700,Sterling College,41%,KS
+Emporia,5615,Emporia State University,40.2%,KS
+Pippa Passes,613,Alice Lloyd College,40.1%,KY
+Lincoln University,1916,Lincoln University of Pennsylvania,41.9%,PA
+Media,1351,Penn State Brandywine,41.9%,PA
+Lancaster,228,Pennsylvania College of Art and Design,41.1%,PA
+Erie,194,Fortis Institute Erie,41%,PA
+Celina,1444,Wright State University Lake Campus,42%,OH
+Dillon,1399,The University of Montana Western,41.7%,MT
+Wahpeton,2802,North Dakota State College of Science,41.5%,ND
+Minot,2836,Minot State University,41.6%,ND
+White Plains,873,The College of Westchester,41.2%,NY
+Delhi,2634,SUNY College of Technology at Delhi,41.4%,NY
+Tucumcari,745,Mesalands Community College,41.2%,NM
+Butte,1683,Montana Tech of the University of Montana,41.3%,MT
+Akron,14498,University of Akron Main Campus,41.2%,OH
+Saint Louis,15189,University of Missouri St Louis,41.3%,MO
+Hannibal,714,Hannibal LaGrange University,41.3%,MO
+Conception,27,Conception Seminary College,41.8%,MO
+Columbia,6765,Columbia College,41.3%,MO
+Jackson,7080,Jackson State University,41.5%,MS
+Carlinville,414,Blackburn College,40.1%,IL
+Jacksonville,365,Trinity Baptist College,40.6%,FL
+West Palm Beach,345,Lincoln College of Technology West Palm Beach,40.4%,FL
+Lakeland,9365,Southeastern University,40.6%,FL
+Franklin Springs,918,Emmanuel College,40.7%,GA
+Lake City,2792,Florida Gateway College,40.5%,FL
+Jacksonville,3995,Jacksonville University,40.9%,FL
+Costa Mesa,16779,Orange Coast College,40.1%,CA
+Ocala,5331,College of Central Florida,40%,FL
+Flagstaff,7,College America Flagstaff,40.2%,AZ
+Madison,30,Miller Motte Technical College Madison,41.7%,TN
+Moorhead,97,Minnesota School of Business Moorhead,41.1%,MN
+Sharonville,34,Miami Jacobs Career College Sharonville,41.7%,OH
+Talladega,1203,Talladega College,40.5%,AL
+Springfield,2244,American International College,37.7%,MA
+Saint Paul,376,McNally Smith College of Music,41%,MN
+Bettendorf,48,Brown Mackie College Quad Cities,41.3%,IA
+Elkins,661,Davis & Elkins College,41%,WV
+Green Bay,10088,Northeast Wisconsin Technical College,42%,WI
+Superior,2613,University of Wisconsin Superior,41.7%,WI
+Philippi,828,Alderson Broaddus College,41.4%,WV
+Kerrville,1103,Schreiner University,41.4%,TX
+Chattanooga,11457,The University of Tennessee at Chattanooga,41.8%,TN
+Nashville,335,Free Will Baptist Bible College,41%,TN
+Aberdeen,577,Presentation College,41.7%,SD
+Lebanon,2540,Cumberland University,41.1%,TN
+Pulaski,876,Martin Methodist College,41.3%,TN
+Aiken,3869,University of South Carolina Aiken,41%,SC
+Florence,3923,Francis Marion University,41.5%,SC
+Willmar,2846,Ridgewater College,41.7%,MN
+Marshall,6986,Southwest Minnesota State University,41.3%,MN
+New Orleans,3604,Xavier University of Louisiana,41.5%,LA
+Olivet,885,Olivet College,41.5%,MI
+Big Rapids,10361,Ferris State University,41.9%,MI
+Thibodaux,6225,Nicholls State University,41.7%,LA
+Lake Charles,6454,McNeese State University,41.1%,LA
+Morehead,8982,Morehead State University,41.4%,KY
+Marianna,1756,Chipola College,41.2%,FL
+Richmond,13984,Eastern Kentucky University,41.4%,KY
+Irvine,11045,Irvine Valley College,41.7%,CA
+San Dimas,551,Life Pacific College,41.8%,CA
+Hayward,15189,California State University East Bay,41.7%,CA
+Atherton,745,Menlo College,41.7%,CA
+Camden,984,Southern Arkansas University Tech,42%,AR
+Batesville,579,Lyon College,41.5%,AR
+Walnut Ridge,629,Williams Baptist College,41.4%,AR
+Troy,18,Miami Jacobs Career College Troy,40.9%,OH
+Onalaska,145,Globe University La Crosse,40.8%,WI
+Birmingham,615,Herzing University Birmingham,41.2%,AL
+Waite Park,141,Minnesota School of Business Waite Park,40.7%,MN
+Charles Town,48298,American Public University System,40.9%,WV
+Statesboro,2167,Ogeechee Technical College,40.4%,GA
+Bridgeview,474,Northwestern College Southwestern Campus,40.4%,IL
+Kansas City,260,Vatterott College Kansas City,40.9%,MO
+Saint Joseph,66,Vatterott College Saint Joseph,40.1%,MO
+Charleston,2926,University of Charleston,40.6%,WV
+Staunton,2142,Mary Baldwin College,40.2%,VA
+Canyon,9602,West Texas A & M University,40%,TX
+Nashville,8077,Tennessee State University,40.2%,TN
+Waxahachie,1843,Southwestern Assemblies of God University,40.9%,TX
+Sioux Falls,2381,Southeast Technical Institute,40.9%,SD
+Edinburg,31940,The University of Texas Pan American,40.7%,TX
+Newberry,1242,Newberry College,40.1%,SC
+Chambersburg,1405,Wilson College,40%,PA
+Haverhill,250,Zion Bible College,40.6%,MA
+York,648,York College,39.5%,NE
+Las Vegas,30679,University of Nevada Las Vegas,39.8%,NV
+Chadron,2250,Chadron State College,39.3%,NE
+Moberly,170,Central Christian College of the Bible,39.3%,MO
+Rochester Hills,1114,Rochester College,39.4%,MI
+Grand Rapids,5384,Davenport University,39.2%,MI
+Boston,42,Boston Baptist College,39.5%,MA
+Hagerstown,494,Purdue Global Hagerstown Campus,39.3%,MD
+Pineville,1135,Louisiana College,39.4%,LA
+Paducah,4869,West Kentucky Community and Technical College,39.6%,KY
+Coffeyville,1402,Coffeyville Community College,39.2%,KS
+McPherson,570,Central Christian College of Kansas,39.7%,KS
+Iola,2090,Allen County Community College,39.4%,KS
+Tallahassee,9000,Florida Agricultural and Mechanical University,39.2%,FL
+Carrollton,12687,University of West Georgia,39.9%,GA
+Fayette,3031,Upper Iowa University,39.8%,IA
+Atlanta,4055,Clark Atlanta University,39.9%,GA
+Daytona Beach,2624,Bethune Cookman University,40%,FL
+Chicago,6736,Columbia College Chicago,42.4%,IL
+Avon Park,2777,South Florida Community College,42%,FL
+Denver,24267,University of Colorado Denver,42.8%,CO
+Dover,5200,Delaware State University,42.3%,DE
+Huntsville,1452,Oakwood University,42.8%,AL
+Marion,229,Judson College,42.3%,AL
+Mobile,1911,University of Mobile,42.7%,AL
+Boca Raton,3385,Lynn University,42.3%,FL
+Boise,77,Stevens Henager College,41.1%,ID
+Morrisville,89,Harrison College,41.2%,NC
+Greenville,140,Miller Motte College Greenville,41.4%,NC
+Lexington,1652,Virginia Military Institute,72.7%,VA
+Columbia,35471,University of South Carolina Columbia,72.7%,SC
+Loretto,3034,Saint Francis University,72%,PA
+Philadelphia,2420,University of the Sciences,72.9%,PA
+Cincinnati,6632,Xavier University,72.9%,OH
+Oneonta,5918,SUNY College at Oneonta,72.7%,NY
+Buffalo,32332,University at Buffalo,72.8%,NY
+Irving,2538,University of Dallas,70.3%,TX
+Sioux Falls,2022,Augustana University,70.7%,SD
+Las Cruces,2945,Computer Career Center,70.6%,TX
+Center Valley,3101,DeSales University,70.5%,PA
+Eugene,22257,University of Oregon,70.1%,OR
+Saint Benedict,119,Mount Angel Seminary,70%,OR
+Wilmington,18030,University of North Carolina at Wilmington,70.9%,NC
+Buffalo,2630,Canisius College,68.8%,NY
+Warner,67,Northeast Catholic College,68.6%,NH
+Point Lookout,1479,College of the Ozarks,68.1%,MO
+Saint Louis,10596,Maryville University of Saint Louis,68.8%,MO
+Saint Louis,1826,Ranken Technical College,68.1%,MO
+Albion,1523,Albion College,68.8%,MI
+Wilkes-Barre,2130,King's College,63.4%,PA
+Bloomsburg,7739,Bloomsburg University of Pennsylvania,63.4%,PA
+Plattsburgh,4738,SUNY College at Plattsburgh,63.3%,NY
+Corvallis,33193,Oregon State University,63.7%,OR
+Millersville,7191,Millersville University of Pennsylvania,63%,PA
+Cedar Rapids,1580,Mount Mercy University,68.3%,IA
+Allentown,1440,Cedar Crest College,63.7%,PA
+Marshall,1688,East Texas Baptist University,42%,TX
+Albany,3307,The College of Saint Rose,63%,NY
+Harrisonburg,1342,Eastern Mennonite University,61.4%,VA
+Kingston,17511,University of Rhode Island,61%,RI
+Pittsburgh,484,Rosedale Technical Institute,61.9%,PA
+Abilene,4912,Abilene Christian University,61.4%,TX
+Milwaukee,1147,Wisconsin Lutheran College,61.9%,WI
+Stevens Point,8129,University of Wisconsin Stevens Point,61.9%,WI
+Hastings,946,Hastings College,58.5%,NE
+Detroit,5227,University of Detroit Mercy,58.5%,MI
+Anderson,1345,Anderson University,58.3%,IN
+Stevenson,3454,Stevenson University,58.4%,MD
+Lincoln,537,Lincoln Christian University,58.9%,IL
+Baldwin City,2364,Baker University,58.9%,KS
+Bridgewater,9942,Bridgewater State University,58.5%,MA
+Charleston,8608,Eastern Illinois University,58.6%,IL
+Tampa,10794,The University of Tampa,58.7%,FL
+Rexburg,44304,Brigham Young University Idaho,58.8%,ID
+Fresno,3524,Fresno Pacific University,58.3%,CA
+Fullerton,40738,California State University Fullerton,58.6%,CA
+Riverside,11489,California Baptist University,58.2%,CA
+Irvine,3710,Concordia University Irvine,58.1%,CA
+Prescott,3071,Embry Riddle Aeronautical University Prescott,58.6%,AZ
+Anchorage,554,Alaska Pacific University,58%,AK
+Salt Lake City,490,Fortis College Salt Lake City,57.3%,UT
+Alexandria,548,Blue Cliff College Alexandria,57.4%,LA
+Alliance,2133,University of Mount Union,62%,OH
+Saint Davids,4429,Eastern University,61.2%,PA
+Raleigh,1711,Meredith College,61.9%,NC
+Stillwater,24577,Oklahoma State University Main Campus,61.2%,OK
+New Rochelle,3617,Iona College,61.9%,NY
+Linn,1855,Linn State Technical College,61.4%,MO
+University,21203,University of Mississippi,61.2%,MS
+Alma,1353,Alma College,61.3%,MI
+Biddeford,6642,University of New England,61.2%,ME
+Oakland City,867,Oakland City University,61.5%,IN
+Marion,2862,Indiana Wesleyan University,61.4%,IN
+River Forest,3066,Dominican University,61%,IL
+Broomfield,316,Redstone College,61.4%,CO
+Macon,9009,Mercer University,62%,GA
+La Verne,6201,University of La Verne,61.4%,CA
+San Diego,259,Coleman University,61.4%,CA
+Chico,15702,California State University Chico,61.4%,CA
+Siloam Springs,2459,John Brown University,61.3%,AR
+Arkadelphia,1764,Ouachita Baptist University,61.4%,AR
+Palm Springs,58,Medvance Institute West Palm,60.1%,FL
+Uniontown,285,Laurel Business Institute,60.7%,PA
+Manassas,244,Aviation Institute of Maintenance Manassas,60.4%,VA
+Forty Fort,172,Fortis Institute Forty Fort,60.9%,PA
+Madison,1894,Edgewood College,60.9%,WI
+Richmond,28594,Virginia Commonwealth University,60.6%,VA
+Moon Township,3764,Robert Morris University,60.1%,PA
+Salt Lake City,1535,Westminster College,60.9%,UT
+Waynesburg,1470,Waynesburg University,60.5%,PA
+Minneapolis,3166,Augsburg College,59.4%,MN
+Springfield,1615,Drury University,59.2%,MO
+Duluth,9884,University of Minnesota Duluth,59.6%,MN
+Boston,890,Wheelock College,59.2%,MA
+Cincinnati,40329,University of Cincinnati Main Campus,60.8%,OH
+Great Barrington,328,Bard College at Simon's Rock,59.9%,MA
+Springfield,3635,Western New England University,59.2%,MA
+Davenport,2913,Saint Ambrose University,59.8%,IA
+Muncie,20319,Ball State University,59.5%,IN
+Palos Heights,985,Trinity Christian College,59.6%,IL
+Bourbonnais,3462,Olivet Nazarene University,59%,IL
+Chicago,3559,School of the Art Institute of Chicago,59.9%,IL
+Chamblee,702,Interactive College of Technology Chamblee,59.2%,GA
+Stockton,352,Humphreys College Stockton and Modesto Campuses,59.6%,CA
+Los Altos Hills,12438,Foothill College,59.1%,CA
+Chicago,34199,University of Illinois at Chicago,59.7%,IL
+Pomona,29456,California State Polytechnic University Pomona,59.7%,CA
+Columbus,2820,Capital University,60.9%,OH
+Saint Augustine,2652,Flagler College St Augustine,59.7%,FL
+Rocklin,1685,William Jessup University,59.6%,CA
+Hackettstown,1551,Centenary University,60%,NJ
+Liberty,805,William Jewell College,60.7%,MO
+Kansas City,726,Kansas City Art Institute,60.4%,MO
+Greenville,28021,East Carolina University,60.3%,NC
+Saint Louis,97,Stevens Institute of Business & Arts,60.4%,MO
+Greensboro,1198,Guilford College,60%,NC
+Crete,2060,Doane University,60.4%,NE
+Manhattan,20229,Kansas State University,60.1%,KS
+Lawrence,26780,University of Kansas,60.6%,KS
+Standish,1235,Saint Joseph's College of Maine,60.6%,ME
+Mississippi State,23086,Mississippi State University,60.2%,MS
+Longmeadow,2745,Bay Path University,60.1%,MA
+Franklin,962,Franklin College,60.5%,IN
+Philadelphia,1557,The University of the Arts,61.9%,PA
+Alexandria,2586,Alexandria Technical & Community College,60.9%,MN
+Decatur,1906,Millikin University,60.7%,IL
+Charleston,211,West Virginia Junior College Charleston,59.8%,WV
+Joliet,3426,University of St Francis,60.8%,IL
+Radford,8998,Radford University,59%,VA
+Milledgeville,6763,Georgia College & State University,60.8%,GA
+Ashland,1501,Randolph Macon College,59.9%,VA
+Roanoke,855,Hollins University,59.7%,VA
+Marlboro,142,Marlboro College,59.9%,VT
+Lubbock,40542,Texas Tech University,59.5%,TX
+Greensburg,2012,Seton Hill University,59.8%,PA
+Philadelphia,245,The Restaurant School at Walnut Hill College,59.4%,PA
+Westerville,2605,Otterbein University,59.9%,OH
+Reading,2578,Penn State Berks,59.4%,PA
+Eugene,686,Northwest Christian University,59.5%,OR
+Lawrence,287,Sh'or Yoshuv Rabbinical College,59.5%,NY
+Mount Vernon,2064,Mount Vernon Nazarene University,59.1%,OH
+Troy,2266,The Sage Colleges,59.4%,NY
+Purchase,2350,Manhattanville College,59%,NY
+Hempstead,10243,Hofstra University,60%,NY
+Salt Lake City,517,Neumont College of Computer Science,58.1%,UT
+Cookeville,214,Fortis Institute,58.7%,TN
+Charlotte,1262,Johnson & Wales University Charlotte,58.9%,NC
+Newark,11901,New Jersey Institute of Technology,59.6%,NJ
+Glendale,1094,Arizona College of Allied Health,58.4%,AZ
+Whitewater,11446,University of Wisconsin Whitewater,58.8%,WI
+Tacoma,5027,University of Washington Tacoma Campus,59%,WA
+Nashville,4778,Lipscomb University,58.6%,TN
+Rock Hill,153,Clinton Junior College,58.3%,SC
+Pittsburgh,3505,Point Park University,58.3%,PA
+York,3852,York College Pennsylvania,58.7%,PA
+Sharon,144,Laurel Technical Institute,58.5%,PA
+West Mifflin,609,Pittsburgh Institute of Aeronautics,58.2%,PA
+Queens,19658,St John's University New York,58.4%,NY
+Oklahoma City,2551,Oklahoma City University,58.5%,OK
+Glenside,3064,Arcadia University,58.9%,PA
+Staten Island,710,St Paul's School of Nursing Staten Island,58.6%,NY
+Melville,128,SBI Campus An Affiliate of Sanford Brown,58.2%,NY
+Newburgh,1941,Mount Saint Mary College,58.8%,NY
+Miami,45,Saint John Vianney College Seminary,60%,FL
+Lookout Mountain,914,Covenant College,60.3%,GA
+Gainesville,12830,Santa Fe College,60.4%,FL
+Bridgeport,485,St Vincent's College,60%,CT
+Washington,12065,Howard University,60.5%,DC
+Cupertino,16706,De Anza College,60.7%,CA
+Lakeland,3386,Florida Southern College,60.8%,FL
+Louisville,286,ATA College,59.8%,KY
+Tucson,48274,University of Arizona,60.6%,AZ
+Ft. Wayne,390,MedTech College Ft Wayne Campus,59.4%,IN
+Mobile,295,Remington College Mobile Campus,59.2%,AL
+Kenosha,2746,Carthage College,59.8%,WI
+Milwaukee,2747,Milwaukee School of Engineering,59.7%,WI
+Mequon,5204,Concordia University Wisconsin,59.4%,WI
+Camarillo,6966,California State University Channel Islands,59.1%,CA
+Hialeah,3529,Florida National University,59.2%,FL
+Layton,230,Eagle Gate College Layton,59.6%,UT
+Boston,1950,Emmanuel College,63.9%,MA
+Waukesha,3397,Carroll University,59.8%,WI
+Niagara University,3708,Niagara University,63.5%,NY
+Omaha,1180,Clarkson College,63.9%,NE
+Brooklyn,5370,Pratt Institute Main,63.9%,NY
+Helena,1121,Carroll College,63.4%,MT
+Lawrenceville,4204,Rider University,63.6%,NJ
+Santa Maria,99,Santa Barbara Business College Santa Maria,63%,CA
+Stockton,6066,University of the Pacific,63.3%,CA
+Caldwell,1145,The College of Idaho,63.8%,ID
+Boston,798,The Boston Conservatory,63.1%,MA
+Wilmore,1720,Asbury University,65.3%,KY
+Cedar Falls,9217,University of Northern Iowa,65.8%,IA
+Castine,888,Maine Maritime Academy,63.6%,ME
+Orange City,1513,Northwestern College,65.1%,IA
+Dubuque,888,Clarke University,65.3%,IA
+Naperville,2728,North Central College,65%,IL
+Savannah,15636,Savannah College of Art and Design,65.9%,GA
+Saint Petersburg,2036,Eckerd College,65.2%,FL
+Fairfield,9785,Sacred Heart University,65.3%,CT
+Fort Collins,32586,Colorado State University Fort Collins,65.9%,CO
+Whittier,1387,Whittier College,65.5%,CA
+Los Angeles,522,Southern California Institute of Architecture,65.8%,CA
+Santa Clarita,2435,The Master's College and Seminary,65.6%,CA
+Long Beach,40190,California State University Long Beach,66%,CA
+Landover,541,Fortis College Landover,64.9%,MD
+Little Rock,39,Remington College Little Rock Campus,64.4%,AR
+Phoenix,54,Fortis College Phoenix,64.5%,AZ
+Poulsbo,103,Northwest College of Art,64.1%,WA
+Jefferson City,48,Metro Business College Jefferson City,64.3%,MO
+West Covina,139,East San Gabriel Valley Regional Occupational Program,65%,CA
+Sweet Briar,454,Sweet Briar College,64.5%,VA
+Austin,3577,Saint Edward's University,64.9%,TX
+Chattanooga,216,Chattanooga College Medical Dental and Technical Careers,64.7%,TN
+Columbia,2338,Columbia International University,64.9%,SC
+Jackson,2930,Union University,64.9%,TN
+Philadelphia,4043,La Salle University,64.3%,PA
+Salem,1863,Roanoke College,64.9%,VA
+Beaver Falls,1315,Geneva College,64.4%,PA
+Erie,227,Erie Institute of Technology Inc,64%,PA
+Marietta,1265,Marietta College,64.7%,OH
+Oswego,7058,SUNY College at Oswego,64.8%,NY
+Jackson Heights,896,Plaza College,64.9%,NY
+Rolla,7241,Missouri University of Science and Technology,64.4%,MO
+South Orange,9881,Seton Hall University,64.7%,NJ
+Winona Lake,1919,Grace College and Theological Seminary,62.7%,IN
+Montclair,20744,Montclair State University,64.6%,NJ
+Huntington,1350,Huntington University,62.3%,IN
+Saint Paul,2931,Hamline University,64%,MN
+Mount Berry,2303,Berry College,62.7%,GA
+DeLand,4257,Stetson University,62.4%,FL
+San Francisco,442,San Francisco Conservatory of Music,63%,CA
+Hobe Sound,160,Hobe Sound Bible College,63%,FL
+Fayetteville,29068,University of Arkansas,62.4%,AR
+Birmingham,1058,Birmingham Southern College,62.7%,AL
+Baton Rouge,627,Virginia College,61.5%,LA
+Greenwood,320,MedTech College Greenwood Campus,61.3%,IN
+Webster,99,Remington College Houston Southeast Campus,61.3%,TX
+Bridgeport,115,West Virginia Junior College Bridgeport,61.2%,WV
+Wilmington,108,Delaware College of Art and Design,61.2%,DE
+Martinsburg,621,Valley College Martinsburg,61.1%,WV
+Brooklyn,201,Yeshiva Gedolah Imrei Yosef D'spinka,61.8%,NY
+Lawrence,72,Pinnacle Career Institute Lawrence,61.2%,KS
+Houghton,7008,Michigan Technological University,64.1%,MI
+Atchison,2287,Benedictine College,64.1%,KS
+Grand Rapids,127,Kuyper College,64.2%,MI
+Ankeny,446,Faith Baptist Bible College and Theological Seminary,64.8%,IA
+New Orleans,4570,Loyola University New Orleans,64%,LA
+Rolla,32,Metro Business College Rolla,61.2%,MO
+Shreveport,341,Remington College Shreveport Campus,63.4%,LA
+Houston,223,Remington College North Houston Campus,63.1%,TX
+Tempe,77881,Arizona State University,64.5%,AZ
+Sunset Hills,316,Vatterott College Sunset Hills,63.1%,MO
+Romeoville,6183,Lewis University,64.5%,IL
+San Diego,292,John Paul the Great Catholic University,63.8%,CA
+Omaha,24,The Creative Center,63.2%,NE
+Salt Lake City,34464,University of Utah,63.1%,UT
+Norfolk,222,Centura College Norfolk,63.2%,VA
+Wynnewood,174,Saint Charles Borromeo Seminary Overbrook,63.9%,PA
+Fort Worth,264,Remington College Fort Worth Campus,63.7%,TX
+Raleigh,203,Living Arts College,63.9%,NC
+Los Angeles,2625,Mount St. Mary's College,63.7%,CA
+Bristol,4529,Roger Williams University,63.1%,RI
+Valencia,1444,California Institute of the Arts,63.4%,CA
+San Rafael,1855,Dominican University of California,63.1%,CA
+Los Angeles,217,American Academy of Dramatic Arts Los Angeles,63.7%,CA
+Los Angeles,124,American Jewish University,63.3%,CA
+Searcy,4973,Harding University,63.2%,AR
+Memphis,379,Remington College Memphis Campus,62.4%,TN
+Shreveport,51,Blue Cliff College Shreveport,62.3%,LA
+Green Bay,697,Bellin College,62.3%,WI
+Langhorne,1116,Cairn University,62.5%,PA
+Cutler Bay,39,CBT College Cutler Bay,62.5%,FL
+Knoxville,942,Johnson University,62%,TN
+Monroe,2399,Uta Mesivta of Kiryas Joel,62.2%,NY
+Philadelphia,382,Moore College of Art and Design,62.4%,PA
+Williamsport,1089,Lycoming College,62.8%,PA
+Wilsonville,892,Pioneer Pacific College,62.5%,OR
+Toledo,354,Professional Skills Institute,62%,OH
+Hiram,1335,Hiram College,62%,OH
+Winston-Salem,1119,University of North Carolina School of the Arts,62.3%,NC
+Winston Salem,496,Salem College,62.5%,NC
+Rochester,1662,Roberts Wesleyan College,62.5%,NY
+New York,10493,The New School,62.3%,NY
+Purchase,3522,SUNY at Purchase College,62.7%,NY
+Asheville,3233,University of North Carolina at Asheville,62.1%,NC
+New York,181,American Academy of Dramatic Arts New York,62.9%,NY
+Keene,3100,Keene State College,62.9%,NH
+Caldwell,2098,Caldwell University,62.9%,NJ
+Minneapolis,775,Minneapolis College of Art and Design,62.1%,MN
+East Liverpool,133,Ohio Valley College of Technology,59.6%,OH
+Seward,2989,Concordia University Seward,62.4%,NE
+Saint Louis,6779,Webster University,62.9%,MO
+Winona,4701,Saint Mary's University of Minnesota,62.8%,MN
+Lexington,30390,University of Kentucky,62.1%,KY
+Westfield,5013,Westfield State University,62.7%,MA
+Baltimore,13638,University of Maryland Baltimore County,62.2%,MD
+Cedar Rapids,1371,Coe College,68.6%,IA
+Chicago,6486,Illinois Institute of Technology,68.7%,IL
+North Newton,485,Bethel College North Newton,62.4%,KS
+Oakland,817,Mills College,69%,CA
+Colorado Springs,56,Colorado Academy of Veterinary Technology,67.6%,CO
+Houston,303,Culinary Institute Inc,67.1%,TX
+Mount Braddock,54,Pennsylvania Institute of Health and Technology,67.9%,PA
+Bennington,884,Bennington College,67.5%,VT
+Tacoma,2706,Pacific Lutheran University,68%,WA
+Houston,80,Remington College Houston Campus,67.2%,TX
+Fredonia,3764,SUNY at Fredonia,66%,NY
+Cleveland,580,Cleveland Institute of Art,66.7%,OH
+Glassboro,19052,Rowan University,66.6%,NJ
+Clinton,1231,Presbyterian College,67.4%,SC
+Saint Bonaventure,2594,Saint Bonaventure University,66.3%,NY
+Albany,17075,SUNY at Albany,67%,NY
+Newark,12168,Rutgers University Newark,66.9%,NJ
+Saint Louis,119,St Louis College of Health Careers St Louis,66.4%,MO
+Lincoln,24431,University of Nebraska Lincoln,66.9%,NE
+Nevada,303,Cottey College,66.4%,MO
+Saint Paul,3398,Northwestern College,66.4%,MN
+Morris,1286,University of Minnesota Morris,66%,MN
+Salisbury,7570,Salisbury University,66.8%,MD
+Emmitsburg,2570,Mount St Mary's University,66.8%,MD
+Dubuque,1386,Loras College,66.8%,IA
+Baltimore,1917,Goucher College,66.5%,MD
+Mount Vernon,1055,Cornell College,66.9%,IA
+Erie,4596,Gannon University,65.5%,PA
+Valparaiso,2924,Valparaiso University,67%,IN
+Evansville,2078,University of Evansville,66.6%,IN
+Philadelphia,8,Metropolitan Career Center Computer Technology Institute,65.3%,PA
+Immaculata,2478,Immaculata University,65%,PA
+Scranton,530,Johnson College,65.3%,PA
+Kettering,195,School of Advertising Art Inc,65.9%,OH
+Toledo,1311,Mercy College of Ohio,65.7%,OH
+Rochester,16790,Rochester Institute of Technology,65%,NY
+Ossining,175,Kehilath Yakov Rabbinical Seminary,65.3%,NY
+Garden City,7520,Adelphi University,65.5%,NY
+Forest Grove,3751,Pacific University,65.2%,OR
+Staten Island,1958,Wagner College,65.1%,NY
+Lincoln,1816,Nebraska Wesleyan University,65.8%,NE
+Boston,4163,Wentworth Institute of Technology,65.3%,MA
+Fulton,654,Westminster College,65.9%,MO
+Jackson,666,Millsaps College,65.3%,MS
+Madison,2244,Drew University,65%,NJ
+Allendale,22406,Grand Valley State University,65.8%,MI
+Duluth,3512,The College of Saint Scholastica,65.5%,MN
+Los Angeles,1252,Otis College of Art and Design,66.7%,CA
+Mishawaka,1339,Bethel College Mishawaka,66.7%,IN
+Denver,5566,Regis University,66.9%,CO
+San Diego,36484,San Diego State University,67%,CA
+Tuscaloosa,38316,The University of Alabama,66.4%,AL
+Thousand Oaks,3766,California Lutheran University,66%,CA
+Orange Park,442,Fortis College,65.6%,FL
+Salt Lake City,11578,Independence University,65.7%,UT
+Merced,9093,University of California Merced,65.1%,CA
+Pasadena,123,Providence Christian College,65.6%,CA
+Leesburg,460,Beacon College,65.4%,FL
+Newport News,174,Centura College Newport News,65.6%,VA
+Hampton,3317,Hampton University,65.8%,VA
+Philadelphia,3746,Philadelphia University,65.7%,PA
+Middletown,4933,Penn State Harrisburg,65.8%,PA
+Tampa,49708,University of South Florida Main Campus,67.8%,FL
+Hampden-Sydney,851,Hampden Sydney College,65.4%,VA
+Sarasota,1663,Ringling College of Art and Design,67.8%,FL
+Azusa,8126,Azusa Pacific University,67.8%,CA
+Ontario,502,Platt College Ontario,66.8%,CA
+Eau Claire,10569,University of Wisconsin Eau Claire,66.4%,WI
+Pasadena,2319,Art Center College of Design,67.8%,CA
+Washington,5059,Catholic University of America,67.8%,DC
+Minneapolis,128,Institute of Production and Recording,66.4%,MN
+Dallas,595,Dallas Institute of Funeral Service,66.7%,TX
+Farmville,4612,Longwood University,66.2%,VA
+Pittsburgh,125,Triangle Tech Inc Pittsburgh,66.7%,PA
+Erie,3041,Mercyhurst College,66.6%,PA
+Norman,28042,University of Oklahoma Norman Campus,66.8%,OK
+Greenville,3155,Bob Jones University,66.5%,SC
+Springfield,1326,Wittenberg University,66.1%,OH
+Altoona,3244,Penn State Altoona,66.5%,PA
+Athens,24797,Ohio University Main Campus,66.9%,OH
+Westerville,2541,Hondros College,66.4%,OH
+Charleston,10941,College of Charleston,67.3%,SC
+Slippery Rock,8405,Slippery Rock University of Pennsylvania,67.7%,PA
+Philadelphia,23216,Drexel University,67.7%,PA
+Lancaster,1967,Lancaster Bible College,67.6%,PA
+McMinnville,1297,Linfield University,67%,OR
+Newberg,4285,George Fox University,67.4%,OR
+Columbus,150,Pontifical College Josephinum,67.9%,OH
+Berea,3325,Baldwin Wallace College,67.5%,OH
+Brooklyn,4687,Saint Joseph's College New York,67.8%,NY
+New York,19969,CUNY Bernard M Baruch College,67.7%,NY
+Frederick,2095,Hood College,67.3%,MD
+Baton Rouge,35912,Louisiana State University,67.3%,LA
+Sioux Center,1784,Dordt College,67.3%,IA
+Pella,1139,Central College,67.5%,IA
+West Long Branch,5436,Monmouth University,67.3%,NJ
+Louisville,3149,Bellarmine University,67.3%,KY
+Decatur,297,Gupton Jones College of Funeral Service,67.3%,GA
+Richmond,736,Earlham College,69.6%,IN
+Lauderdale Lakes,40,Medvance Institute Fort Lauderdale,68.2%,FL
+Hanover,1083,Hanover College,68%,IN
+La Mirada,5551,Biola University,69.4%,CA
+Bothell,6052,University of Washington Bothell Campus,68.7%,WA
+Fairfax,38628,George Mason University,68.1%,VA
+Ripon,810,Ripon College,68.3%,WI
+Newport News,4584,Christopher Newport University,68.8%,VA
+Richardson,29696,The University of Texas at Dallas,68.4%,TX
+La Crosse,10337,University of Wisconsin La Crosse,68.3%,WI
+Erie,4312,Penn State Erie Behrend College,68.8%,PA
+Charleston,3693,Citadel Military College of South Carolina,68.1%,SC
+Bethlehem,2560,Moravian University,68.9%,PA
+Erie,15,Triangle Tech Inc Erie,68.1%,PA
+Mitchell,1193,Mitchell Technical Institute,68.8%,SD
+Delaware,1339,Ohio Wesleyan University,68.1%,OH
+Columbus,790,Mount Carmel College of Nursing,68.7%,OH
+Brockport,6991,SUNY College at Brockport,68.5%,NY
+Stony Brook,26608,Stony Brook University,68.5%,NY
+Boone,20641,Appalachian State University,70.3%,NC
+Syracuse,387,St Joseph's College of Nursing at St Joseph's Hospital Health Center,71%,NY
+Rockville Centre,4910,Molloy College,70.5%,NY
+Boston,5984,Simmons University,70.2%,MA
+Kansas City,3626,Rockhurst University,70.3%,MO
+Laurel,90,Southeastern Baptist College,70.7%,MS
+Springfield,2965,Springfield College,70.5%,MA
+Galloway,9352,The Richard Stockton College of New Jersey,70.1%,NJ
+Buzzards Bay,1538,Massachusetts Maritime Academy,70.9%,MA
+Wenham,1804,Gordon College,70.5%,MA
+Bar Harbor,376,College of the Atlantic,70.3%,ME
+Dallas,117,KD Conservatory College of Film and Dramatic Arts,73.9%,TX
+New Wilmington,1225,Westminster College,73.4%,PA
+Selinsgrove,2202,Susquehanna University,73.6%,PA
+North Wales,131,Lansdale School of Business,73.7%,PA
+Kew Gardens,82,Yeshiva Shaar Hatorah,73.1%,NY
+Elizabethtown,1933,Elizabethtown College,73.8%,PA
+Goshen,811,Goshen College,68.8%,IN
+Riverdale,3694,Manhattan College,73.6%,NY
+Hyde Park,2965,Culinary Institute of America,73.5%,NY
+Crawfordsville,840,Wabash College,73.5%,IN
+Chicopee,1379,College of Our Lady of the Elms,73.3%,MA
+New Paltz,7075,State University of New York at New Paltz,73.4%,NY
+Grand Rapids,3257,Calvin College,73.6%,MI
+Peoria,5588,Bradley University,73.8%,IL
+Chicago,17498,Loyola University Chicago,73.5%,IL
+Jacksonville,1097,Illinois College,73.1%,IL
+Philadelphia,8,Jna Institute of Culinary Arts,72.7%,PA
+Indiana,81,Cambria Rowe Business College Indiana,72.3%,PA
+Waverly,1541,Wartburg College,70.4%,IA
+Indianola,1218,Simpson College,70.1%,IA
+Decatur,1109,Agnes Scott College,70.1%,GA
+Elmhurst,3518,Elmhurst College,70.3%,IL
+Ames,30708,Iowa State University,70.1%,IA
+Chicago,252,VanderCook College of Music,70%,IL
+Winter Park,3057,Rollins College,70.9%,FL
+San Francisco,10034,University of San Francisco,70.9%,CA
+Hamden,213,Paier College of Art Inc,70.4%,CT
+Boulder,39000,University of Colorado Boulder,70.6%,CO
+Moraga,3165,Saint Marys College of California,70.1%,CA
+Orlando,70310,University of Central Florida,70%,FL
+Redlands,4059,University of Redlands,70.5%,CA
+Oakland,370,Lincoln University,70.9%,CA
+Conway,1120,Hendrix College,70.5%,AR
+Birmingham,5758,Samford University,70.1%,AL
+Fenton,440,St Louis College of Health Careers Fenton,69.2%,MO
+Chicago,21670,DePaul University,72%,IL
+Metairie,822,Blue Cliff College Metairie,69.1%,LA
+Port Hadlock,52,Northwest School of Wooden Boat Building,71%,WA
+Columbus,496,American Institute of Alternative Medicine,71.1%,OH
+Charlotte,314,King's College,71.7%,NC
+Provo,684,Provo College Provo,71.3%,UT
+De Pere,2009,Saint Norbert College,71.7%,WI
+Fort Pierce,128,Aviator College of Aeronautical Science and Technology,71%,FL
+Bellingham,15125,Western Washington University,71.4%,WA
+Garland,427,Remington College Dallas Campus,71.4%,TX
+Dallas,2239,Misericordia University,71.4%,PA
+Fredericksburg,3956,University of Mary Washington,71.5%,VA
+Waco,20626,Baylor University,71.3%,TX
+Latrobe,1592,Saint Vincent College,71.5%,PA
+University Heights,3171,John Carroll University,72%,OH
+Syracuse,2012,SUNY College of Environmental Science and Forestry,71.3%,NY
+Cedarville,4643,Cedarville University,71%,OH
+Sarasota,659,New College of Florida,69.9%,FL
+Potsdam,3953,Clarkson University,71.7%,NY
+Rochester,3539,Saint John Fisher College,71.8%,NY
+Nashville,8696,Belmont University,69.3%,TN
+Knoxville,31701,The University of Tennessee,69.8%,TN
+Franklin,157,O'More College of Design,69.9%,TN
+Pullman,29843,Washington State University,65.7%,WA
+Philadelphia,35626,Temple University,69.9%,PA
+West Chester,17614,West Chester University of Pennsylvania,69%,PA
+Newport,2828,Salve Regina University,69.7%,RI
+Scranton,2647,Marywood University,69.6%,PA
+Tulsa,3832,University of Tulsa,69.2%,OK
+Cortland,6658,SUNY College at Cortland,69.7%,NY
+Ada,3116,Ohio Northern University,69.2%,OH
+Pittsburgh,280,Vet Tech Institute,69.6%,PA
+Syracuse,3301,Le Moyne College,69.8%,NY
+Omaha,1229,Nebraska Methodist College of Nursing & Allied Health,69.5%,NE
+Columbia,31401,University of Missouri Columbia,69.1%,MO
+North Andover,5452,Merrimack College,69.2%,MA
+Westminster,3053,McDaniel College,69%,MD
+Saint Louis,13474,Saint Louis University Main Campus,71.5%,MO
+Cape Girardeau,45,Metro Business College Cape Girardeau,71.9%,MO
+Kirksville,4225,Truman State University,71.7%,MO
+Towson,20856,Towson University,69.2%,MD
+Boston,7304,Massachusetts College of Pharmacy and Health Sciences,71.7%,MA
+Lexington,970,Transylvania University,71.5%,KY
+Annapolis,540,St John's College,71.6%,MD
+Boston,1907,Massachusetts College of Art and Design,71.2%,MA
+Amherst,472,Hampshire College,71.7%,MA
+Worcester,2284,Assumption College,71.5%,MA
+Alexandria,2087,Central Louisiana Technical College Alexandria Campus,71.8%,LA
+Morrison,74,Morrison Institute of Technology,73.4%,IL
+Iowa City,29909,University of Iowa,71%,IA
+Salina,852,Salina Area Technical College,71.5%,KS
+Riverside,26847,University of California Riverside,71.2%,CA
+Auburn University,31526,Auburn University,71.9%,AL
+Belleview,298,Taylor College,70.7%,FL
+Lancaster,1816,Pennsylvania College of Health Sciences,70.1%,PA
+Gulfport,345,Blue Cliff College Gulfport,70%,MS
+Saint Louis,799,St Louis College of Pharmacy,72.6%,MO
+Mahwah,5732,Ramapo College of New Jersey,73%,NJ
+Beverly,3982,Endicott College,72.2%,MA
+New Ulm,920,Martin Luther College,72.2%,MN
+Moorhead,1919,Concordia College at Moorhead,72.9%,MN
+Saint Louis,246,Hickey College,72.7%,MO
+Baltimore,2147,Maryland Institute College of Art,72.8%,MD
+Lake Charles,47,Delta School of Business and Technology,72.8%,LA
+Davenport,103,Hamilton Technical College,72.1%,IA
+Lake Forest,1690,Lake Forest College,72.7%,IL
+Normal,20233,Illinois State University,72.5%,IL
+New York,8150,Fashion Institute of Technology,74.9%,NY
+Albany,1078,Albany College of Pharmacy and Health Sciences,74.1%,NY
+Manchester,1977,Saint Anselm College,74.1%,NH
+Saint Paul,9336,University of St Thomas,74%,MN
+Saint Paul,3731,Bethel University,74.1%,MN
+Chestertown,1026,Washington College,74.4%,MD
+Beloit,884,North Central Kansas Technical College,74.9%,KS
+Waterloo,552,Allen College,74.7%,IA
+Fort Wayne,186,International Business College,74.5%,IN
+Atlanta,2417,Spelman College,74.9%,GA
+Miami,5,College of Business and Technology Kendall,73.8%,FL
+Alhambra,670,Platt College Los Angeles,73.7%,CA
+Bethlehem,154,Triangle Tech Inc Bethlehem,73.2%,PA
+Sunbury,54,Triangle Tech Inc Sunbury,73.5%,PA
+West Lafayette,50344,Purdue University Main Campus,73.7%,IN
+San Diego,64,Platt College San Diego,74.8%,CA
+San Diego,4445,Point Loma Nazarene University,74.2%,CA
+Seattle,3443,Seattle Pacific University,73.3%,WA
+Cleveland,343,Cleveland Institute of Music,75%,OH
+Portland,3499,Lewis & Clark College,76%,OR
+Huntingdon,1290,Juniata College,75.9%,PA
+Pittsburgh,8300,Duquesne University,75.9%,PA
+Raleigh,36831,North Carolina State University at Raleigh,75.1%,NC
+Upland,1982,Taylor University,75.7%,IN
+Rock Island,2367,Augustana College,75.1%,IL
+Virginia Beach,466,Advanced Technology Institute,74.2%,VA
+San Luis Obispo,22231,California Polytechnic State University San Luis Obispo,75.4%,CA
+Fairfield,2337,Illinois Eastern Community Colleges Frontier Community Coll,74%,IL
+Georgetown,1504,Southwestern University,74%,TX
+Hamden,9217,Quinnipiac University,75.9%,CT
+Sherman,1228,Austin College,74.6%,TX
+Dayton,55,International College of Broadcasting,74.7%,OH
+Rochester,2639,Nazareth College,74.2%,NY
+New York,1047,Manhattan School of Music,74.9%,NY
+Annville,2041,Lebanon Valley College,74.9%,PA
+Houghton,895,Houghton College,74.4%,NY
+Hattiesburg,155,Antonelli College Hattiesburg,57.5%,MS
+Wheeling,700,Wheeling Jesuit University,57.9%,WV
+Mount Hope,199,Appalachian Bible College,57.9%,WV
+Morgantown,25474,West Virginia University,57.2%,WV
+Morgantown,558,West Virginia Junior College Morgantown,57.7%,WV
+Bridgewater,1463,Bridgewater College,57.1%,VA
+Burlington,3825,Champlain College,57.7%,VT
+Chester,5875,Widener University Main Campus,55.2%,PA
+Shippensburg,5667,Shippensburg University of Pennsylvania,55.8%,PA
+East Stroudsburg,5129,East Stroudsburg University of Pennsylvania,55%,PA
+Reading,1465,Albright College,55.4%,PA
+Due West,825,Erskine College,55.6%,SC
+Bryn Athyn,258,Bryn Athyn College of the New Church,55.3%,PA
+Tulsa,4711,Oral Roberts University,55.7%,OK
+Aurora,222,Platt College Aurora,50%,CO
+Arlington,3555,Marymount University,50.4%,VA
+Emory,1372,Emory and Henry College,50.9%,VA
+Bellingham,1915,Bellingham Technical College,50.7%,WA
+Denton,42441,University of North Texas,51%,TX
+Harrogate,5118,Lincoln Memorial University,50%,TN
+Seguin,1468,Texas Lutheran University,45.3%,TX
+Brownwood,931,Howard Payne University,45.8%,TX
+Belton,3732,University of Mary Hardin Baylor,45.3%,TX
+Petersburg,4300,Virginia State University,45.2%,VA
+Memphis,935,Baptist Memorial College of Health Sciences,50.9%,TN
+Cheney,10892,Eastern Washington University,45.8%,WA
+Nashville,942,Fisk University,45.9%,TN
+Bemidji,4279,Bemidji State University,45.7%,MN
+Milton,2242,Curry College,45.8%,MA
+Haviland,199,Barclay College,45.9%,KS
+Presque Isle,1590,University of Maine at Presque Isle,45.2%,ME
+Manhattan,158,Manhattan Christian College,45.3%,KS
+Lafayette,16225,University of Louisiana at Lafayette,46.9%,LA
+Estherville,1803,Iowa Lakes Community College,45.4%,IA
+Honolulu,4586,Hawaii Pacific University,45.5%,HI
+Rome,1460,Shorter University,45.7%,GA
+Clarksville,784,University of the Ozarks,45.8%,AR
+Deerfield,1330,Trinity International University,45.7%,IL
+Colorado Springs,12031,University of Colorado Colorado Springs,45.7%,CO
+Saint Leo,9523,Saint Leo University,45.2%,FL
+Bellevue,6,Daymar College Bellevue,44.6%,KY
+Shepherdstown,3015,Shepherd University,44.1%,WV
+Watertown,1066,Maranatha Baptist Bible College,44.3%,WI
+West Liberty,2291,West Liberty University,44.2%,WV
+Huntington,11023,Marshall University,44.6%,WV
+Des Moines,1757,Grand View University,46.9%,IA
+Centralia,2282,Kaskaskia College,46.3%,IL
+Craftsbury Common,126,Sterling College,44.2%,VT
+Washington,1433,Gallaudet University,46.2%,DC
+Danbury,4802,Western Connecticut State University,46.5%,CT
+Madison,1182,North Florida Community College,46.5%,FL
+Bakersfield,9,Santa Barbara Business College Bakersfield,46.7%,CA
+Greenwood,3825,Lander University,45.4%,SC
+Monmouth,4029,Western Oregon University,45.3%,OR
+Anchorage,2215,Charter College Anchorage,46.2%,WA
+Orangeburg,1866,Claflin University,45.6%,SC
+Fullerton,1138,Hope International University,46.1%,CA
+Jackson,14,Daymar College Jackson,45.3%,OH
+Rosemont,635,Rosemont College,45.2%,PA
+Defiance,585,Defiance College,45%,OH
+Greensboro,13322,North Carolina A & T State University,45.7%,NC
+Old Westbury,6696,New York Institute of Technology,45.4%,NY
+Omaha,15328,University of Nebraska at Omaha,45.6%,NE
+Fremont,1671,Midland University,46%,NE
+Canton,932,Culver Stockton College,45.7%,MO
+Minneapolis,1034,North Central University,45.3%,MN
+Bethany,2159,Southern Nazarene University,46.2%,OK
+Jamestown,1276,Jamestown College,46.8%,ND
+Winston-Salem,5226,Winston Salem State University,46%,NC
+Montreat,1013,Montreat College,46.8%,NC
+Brooklyn,3069,United Talmudical Seminary,46.5%,NY
+Buffalo,7173,SUNY College at Buffalo,46.8%,NY
+Klamath Falls,4910,Oregon Institute of Technology,46.6%,OR
+Granite Falls,3347,Minnesota West Community and Technical College,46.6%,MN
+Utica,2850,SUNY Institute of Technology at Utica Rome,46.1%,NY
+Farmingdale,9348,Farmingdale State College,46.2%,NY
+Flushing,620,Rabbinical Seminary of America,46%,NY
+Brooklyn,378,Rabbinical Academy Mesivta Rabbi Chaim Berlin,46.2%,NY
+Missoula,10106,The University of Montana,46.2%,MT
+Crookston,2304,University of Minnesota Crookston,46.2%,MN
+Saint Paul,5545,Concordia University Saint Paul,46.5%,MN
+North Dartmouth,7717,University of Massachusetts Dartmouth,46.5%,MA
+Weston,3599,Regis College,46.4%,MA
+Dudley,1434,Nichols College,46.2%,MA
+Tuskegee,2654,Tuskegee University,46.3%,AL
+Birmingham,539,Tri State Institute,45.1%,AL
+Montgomery,264,Fortis College Montgomery,45.6%,AL
+Cary,377,Miller Motte College Cary,45.5%,NC
+North Miami,676,Johnson & Wales University North Miami,45.2%,FL
+Richmond,455,Fortis College Richmond,45.1%,VA
+Williamsport,4240,Pennsylvania College of Technology,45.8%,PA
+Fort Lauderdale,85,City College Fort Lauderdale,45.5%,FL
+Rock Springs,2453,Western Wyoming Community College,45.1%,WY
+Honolulu,2214,Chaminade University of Honolulu,47.6%,HI
+Greeley,10348,University of Northern Colorado,47%,CO
+Huntsville,9636,University of Alabama at Huntsville,47.8%,AL
+Phoenix,581,National Paralegal College,46%,AZ
+Gainesville,2551,Brenau University,47.5%,GA
+Demorest,2060,Piedmont College,47.8%,GA
+Boca Raton,30155,Florida Atlantic University,47.6%,FL
+Denver,1849,Rocky Mountain College of Art and Design,47.1%,CO
+Ave Maria,1302,Ave Maria University,46.3%,FL
+Pasadena,251,Los Angeles College of Music,46.2%,CA
+Fort Myers,15909,Florida Gulf Coast University,46.1%,FL
+Highland Heights,181,ATS Institute of Technology,46.7%,OH
+Brooklyn,225,Rabbinical College of Ohr Shimon Yisroel,46%,NY
+Des Moines,34,Vatterott College Des Moines,46.7%,IA
+Milwaukee,1273,Mount Mary College,46.5%,WI
+Martin,6712,The University of Tennessee Martin,46.4%,TN
+Commerce,11504,Texas A & M University Commerce,46.8%,TX
+Jefferson City,2835,Carson Newman College,46.8%,TN
+Norfolk,1324,Virginia Wesleyan College,47.7%,VA
+Nashville,191,John A Gupton College,47.9%,TN
+San Antonio,7508,University of the Incarnate Word,47.6%,TX
+Warwick,1907,New England Institute of Technology,47.1%,RI
+Abington,3746,Penn State Abington,47.8%,PA
+Pepper Pike,1079,Ursuline College,47.3%,OH
+Albuquerque,22139,University of New Mexico Main Campus,47.9%,NM
+Uniontown,640,Penn State Fayette Eberly Campus,47.9%,PA
+Socorro,1734,New Mexico Institute of Mining and Technology,47.1%,NM
+Boston,492,School of the Museum of Fine Arts Boston,47.7%,MA
+Norfolk,5345,Northeast Community College,47.2%,NE
+Tougaloo,713,Tougaloo College,47.2%,MS
+Nashua,2424,Rivier College,47.2%,NH
+Salem,7131,Salem State University,47.8%,MA
+Crestview Hills,1980,Thomas More College,47.3%,KY
+Epworth,67,Divine Word College,47.4%,IA
+Sioux City,1000,Briar Cliff University,47.3%,IA
+Springfield,3944,University of Illinois at Springfield,48.3%,IL
+Saint Mary of the Woods,1127,Saint Mary of the Woods College,47.6%,IN
+Storm Lake,1959,Buena Vista University,48.2%,IA
+Boise,89,Boise Bible College,48.4%,ID
+Young Harris,1407,Young Harris College,48.5%,GA
+Temple Terrace,535,Florida College,48%,FL
+West Palm Beach,3687,Palm Beach Atlantic University West Palm Beach,48.7%,FL
+Belmont,203,Notre Dame de Namur University,48.3%,CA
+Phoenix,1053,Arizona Christian University,48.6%,AZ
+Columbia,438,Medix School Fortis College,47%,SC
+Graceville,446,The Baptist College of Florida,48.9%,FL
+Northridge,40108,California State University Northridge,48.5%,CA
+Miami,161,Acupuncture and Massage College,47.8%,FL
+Schaumburg,383,The Illinois Institute of Art Schaumburg,47.7%,IL
+Atlanta,35,Shorter University College of Adult & Professional Programs,47.4%,GA
+Tacoma,4106,Bates Technical College,47.3%,WA
+New York,384,The King's College,47.9%,NY
+Santa Fe,449,St John's College,47.6%,NM
+Roanoke,13,Skyline College Roanoke,47.4%,VA
+Johnstown,91,Cambria Rowe Business College Johnstown,48.8%,PA
+Portland,410,Warner Pacific College,48.8%,OR
+Lakewood,47,Virginia Marti College of Art and Design,49%,OH
+Chillicothe,47,Daymar College Chillicothe,48.3%,OH
+Edmond,2181,Oklahoma Christian University,48.5%,OK
+Teaneck,7467,Fairleigh Dickinson University Metropolitan Campus,48.5%,NJ
+Wayne,4580,Wayne State College,48.9%,NE
+Alfred,3414,SUNY College of Technology at Alfred,48.8%,NY
+Amherst,2642,Daemen College,48.3%,NY
+Curtis,282,Nebraska College of Technical Agriculture,48.6%,NE
+Jackson,4278,Belhaven University,48.8%,MS
+Marquette,7214,Northern Michigan University,48.1%,MI
+Omaha,1011,College of Saint Mary,48.1%,NE
+Ann Arbor,751,Cleary University,48%,MI
+Brookline,118,Hellenic College Holy Cross Greek Orthodox School of Theology,48.7%,MA
+Morgan City,190,South Central Louisiana Technical College Young Memorial Campus,48.1%,LA
+Pittsburg,6017,Pittsburg State University,48.9%,KS
+Lamoni,1427,Graceland University Lamoni,53.1%,IA
+Shreveport,542,Centenary College of Louisiana,53.4%,LA
+Louisville,22140,University of Louisville,53.2%,KY
+Hesston,331,Hesston College,48.2%,KS
+Des Moines,348,AIB College of Business,53.6%,IA
+Fort Wayne,2196,University of Saint Francis Fort Wayne,53.2%,IN
+Denver,217,Bel Rea Institute of Animal Technology,51.9%,CO
+Conway,310,Miller Motte Technical College,50.9%,SC
+Flagstaff,28711,Northern Arizona University,51.8%,AZ
+Memphis,192,Visible Music College,50%,TN
+Chattanooga,1010,Miller Motte Technical College Chattanooga,50.3%,TN
+Broadview Heights,117,Vatterott College Cleveland,50.4%,OH
+Honolulu,131,Remington College Honolulu Campus,50.6%,HI
+Madison,270,Nossi College of Art,50.8%,TN
+Wilmington,1116,Goldey Beacom College,50%,DE
+Redding,993,Simpson University,51%,CA
+Tarzana,493,Columbia College Hollywood,50%,CA
+San Francisco,26899,San Francisco State University,50.5%,CA
+Hollywood,777,Musicians Institute,50.3%,CA
+Chesapeake,224,Aviation Institute of Maintenance Chesapeake,49%,VA
+Beckley,90,Valley College Beckley,52.9%,WV
+San Bernardino,19514,California State University San Bernardino,50%,CA
+Fennimore,2520,Southwest Wisconsin Technical College,52.1%,WI
+Oshkosh,14142,University of Wisconsin Oshkosh,52.6%,WI
+Ashland,531,Northland College,52.1%,WI
+Platteville,6773,University of Wisconsin Platteville,52.8%,WI
+Cleveland,2322,Lakeshore Technical College,52.4%,WI
+Cleveland,252,Remington College Cleveland Campus,52.1%,OH
+Plymouth,2094,Lakeland University,52.3%,WI
+Kirkland,1083,Northwest University,52.2%,WA
+Seattle,455,Cornish College of the Arts,52.4%,WA
+River Forest,6086,Concordia University Chicago,53.1%,IL
+Macomb,7455,Western Illinois University,53.6%,IL
+Ellensburg,10176,Central Washington University,52.5%,WA
+Norfolk,23494,Old Dominion University,52.1%,VA
+Idaho Falls,2156,Eastern Idaho Technical College,53.9%,ID
+San Jose,37133,San Jose State University,53.8%,CA
+Atlanta,36973,Georgia State University,53.6%,GA
+Hartsville,1280,Coker College,50.7%,SC
+Macon,734,Wesleyan College,53.5%,GA
+Daytona Beach,9593,Embry Riddle Aeronautical University Daytona Beach,53.7%,FL
+Lehman,438,Penn State Wilkes Barre,50.5%,PA
+Anderson,4008,Anderson University,50.2%,SC
+Rochester,126,Minnesota School of Business Rochester,48.9%,MN
+Miami,55,City College Miami,48.8%,FL
+Tulsa,384,Career Point College,48.8%,OK
+Manchester,337,New Hampshire Institute of Art,48.3%,NH
+Chandler,71,International Baptist College,49%,AZ
+Mobile,301,Fortis College Mobile,48.9%,AL
+Green Bay,9780,University of Wisconsin Green Bay,48.1%,WI
+Lacey,1616,Saint Martin's University,48.5%,WA
+Lynchburg,94709,Liberty University,48.6%,VA
+Cedar City,13611,Southern Utah University,48.5%,UT
+Fond Du Lac,1445,Marian University,48.3%,WI
+Columbia,1389,Columbia College,48.5%,SC
+Phoenixville,583,University of Valley Forge,49%,PA
+Bradford,1164,University of Pittsburgh Bradford,48.2%,PA
+Philadelphia,1505,Chestnut Hill College,48.2%,PA
+Lock Haven,2920,Lock Haven University,48.7%,PA
+Mankato,14576,Minnesota State University Mankato,49.5%,MN
+Wyomissing,334,Berks Technical Institute,48.1%,PA
+Upper Burrell,585,Penn State New Kensington,48.9%,PA
+Frostburg,4452,Frostburg State University,50%,MD
+Midway,1390,Midway University,49.8%,KY
+Wichita,2617,Newman University,49.1%,KS
+Winfield,1282,Southwestern College,49.5%,KS
+Dekalb,16234,Northern Illinois University,50%,IL
+Des Moines,951,Mercy College of Health Sciences,49.6%,IA
+Rensselaer,972,Saint Josephs College,49.4%,IN
+Edwardsville,13010,Southern Illinois University Edwardsville,49.9%,IL
+Toccoa Falls,1764,Toccoa Falls College,49.5%,GA
+Pensacola,13288,The University of West Florida,49.4%,FL
+Winter Park,25622,Full Sail University,49.6%,FL
+Lagrange,643,LaGrange College,49.1%,GA
+Riverside,1738,La Sierra University,49.8%,CA
+Visalia,2240,San Joaquin Valley College Visalia,49.9%,CA
+Pensacola,668,Fortis Institute Pensacola,48.6%,FL
+Columbus,679,Chamberlain College of Nursing Ohio,48.4%,OH
+Nashua,741,Daniel Webster College,51.3%,NH
+Throggs Neck,1545,SUNY Maritime College,51.3%,NY
+Brooklyn,15938,CUNY Brooklyn College,51.8%,NY
+Westerville,904,Fortis College Columbus,48.5%,OH
+Buies Creek,5622,Campbell University,51.8%,NC
+Kansas City,16003,University of Missouri Kansas City,51.1%,MO
+Springfield,2100,Evangel University,51.4%,MO
+Fayette,1144,Central Methodist University College of Liberal Arts & Sciences,51.4%,MO
+Dearborn,8331,University of Michigan Dearborn,51.6%,MI
+Kansas City,1376,Avila University,51.2%,MO
+North Adams,994,Massachusetts College of Liberal Arts,51.9%,MA
+Pineville,158,Clear Creek Baptist Bible College,51.6%,KY
+Chicago,3749,Saint Xavier University,51.5%,IL
+Ina,2002,Rend Lake College,51.9%,IL
+Greenville,1047,Greenville University,51.6%,IL
+Chicago,145,American Academy of Art,51.2%,IL
+Lilburn,172,Gwinnett College Lilburn,51.7%,GA
+West Haven,7513,University of New Haven,52%,CT
+Mansfield,1796,Mansfield University of Pennsylvania,50.7%,PA
+Atlanta,2554,Morehouse College,51.9%,GA
+Tulsa,684,Spartan College of Aeronautics and Technology,50.1%,OK
+Cincinnati,305,Good Samaritan College of Nursing & Health Science,50%,OH
+Keuka Park,1287,Keuka College,50.2%,NY
+Brooklyn,129,Yeshiva Karlin Stolin,50%,NY
+Lakewood,2126,Georgian Court University,50.6%,NJ
+New London,838,Colby Sawyer College,50.9%,NH
+Omaha,298,Grace University,50.4%,NE
+Saint Louis,955,Fontbonne University,50.8%,MO
+Bozeman,16788,Montana State University,50.9%,MT
+Southfield,2955,Lawrence Technological University,50%,MI
+Blue Mountain,989,Blue Mountain College,50.3%,MS
+Beverly,341,Montserrat College of Art,51%,MA
+Nampa,2044,Northwest Nazarene University,50.7%,ID
+Quincy,1188,Quincy University,50.5%,IL
+Elgin,1173,Judson University,50.9%,IL
+Statesboro,27076,Georgia Southern University,50.8%,GA
+Central,1300,Southern Wesleyan University,49.4%,SC
+Murray,9414,Murray State University,50.3%,KY
+Hamburg,784,Hilbert College,49.4%,NY
+Wilmington,1036,Wilmington College,49.3%,OH
+Painesville,920,Lake Erie College,49.4%,OH
+Salisbury,1207,Catawba College,49%,NC
+York,948,Penn State York,49%,PA
+Wayne,9369,William Paterson University of New Jersey,49.7%,NJ
+Clarion,3922,Clarion University of Pennsylvania,49.4%,PA
+Cape Girardeau,9851,Southeast Missouri State University,49.7%,MO
+Berlin,617,White Mountains Community College,49.5%,NH
+Joplin,559,Ozark Christian College,49.1%,MO
+Union,12759,Kean University,49.4%,NJ
+Pablo,620,Salish Kootenai College,49.5%,MT
+Morristown,1198,College of Saint Elizabeth,49.4%,NJ
+Bolivar,2709,Southwest Baptist University,49.5%,MO
+Princeton,50,Valley College Princeton,49.5%,WV
+Seaside,7503,California State University Monterey Bay,49.4%,CA
+Saint Charles,7003,Lindenwood University,49.3%,MO
+Maryville,7870,Northwest Missouri State University,49.6%,MO
+Smyrna,516,Fortis College,49.2%,GA
+Hattiesburg,14146,University of Southern Mississippi,49.1%,MS
+Scranton,241,Fortis Institute Scranton,49.5%,PA
+Virginia Beach,10330,Regent University,49.2%,VA
+Castleton,2369,Castleton State College,49.6%,VT
+Bristol,1656,King College,49.4%,TN
+Houston,47031,University of Houston,49.5%,TX
+La Crosse,2520,Viterbo University,49.9%,WI
+San Marcos,16255,California State University San Marcos,49.9%,CA
+Logan,27426,Utah State University,49.2%,UT
+Kansas City,387,Calvary Bible College and Theological Seminary,52.2%,MO
+Spring Arbor,2685,Spring Arbor University,52.8%,MI
+Mankato,798,Bethany Lutheran College,52.2%,MN
+Quincy,94,Vatterott College Quincy,52.8%,IL
+Worcester,5417,Worcester State University,52%,MA
+Olathe,1584,MidAmerica Nazarene University,52.2%,KS
+Ruston,11037,Louisiana Tech University,52.3%,LA
+Chicago,2749,North Park University,53%,IL
+Eureka,476,Eureka College,52%,IL
+Atlanta,1446,Oglethorpe University,52.2%,GA
+Lisle,3378,Benedictine University,52.2%,IL
+Miami,353,Florida Career College Miami,52.8%,FL
+Aurora,280,Ecotech Institute,51.5%,CO
+West Hartford,2132,University of Saint Joseph,52.8%,CT
+Kettering,22,National College Dayton,51.5%,OH
+Groton,522,University of Connecticut Avery Point,51.5%,CT
+New Haven,8788,Southern Connecticut State University,52.3%,CT
+Greenacres,694,Southeastern College,51.1%,FL
+Aston,2212,Neumann University,52.3%,PA
+Reading,2536,Alvernia University,52.3%,PA
+Dubois,564,Penn State Dubois,52.4%,PA
+New Concord,2171,Muskingum University,52.1%,OH
+Aurora,342,Wells College,52.3%,NY
+Wingate,3439,Wingate University,52.5%,NC
+Boiling Springs,3441,Gardner Webb University,52.8%,NC
+Bismarck,3794,University of Mary,52.3%,ND
+Bluffton,791,Bluffton University,52.7%,OH
+New York,1442,LIM College,52.5%,NY
+New York,24099,CUNY Hunter College,52.6%,NY
+Lincoln,774,Union College,52.6%,NE
+Fulton,1737,William Woods University,52.3%,MO
+Bronx,7256,Monroe College Main Campus,53%,NY
+Columbia,593,Stephens College,52%,MO
+Merrimack,89,Thomas More College of Liberal Arts,52.9%,NH
+Kansas City,390,Pinnacle Career Institute South Kansas City,52.3%,MO
+Warrensburg,10530,University of Central Missouri,52.6%,MO
+Abilene,1937,Hardin Simmons University,52.7%,TX
+Laie,2893,Brigham Young University Hawaii,52.4%,HI
+State College,274,South Hills School of Business & Technology,52.3%,PA
+Rapid City,2416,South Dakota School of Mines and Technology,52.3%,SD
+Tigerville,2273,North Greenville University,52.6%,SC
+Largo,73,Fortis College Largo,52.9%,FL
+St Charles,220,Vatterott College St Charles,52.9%,MO
+Redmond,1197,DigiPen Institute of Technology,52.1%,WA
+Wichita,46,Vatterott College Wichita,52.3%,KS
+Stamford,2405,University of Connecticut Stamford,52.6%,CT
+Ventura,298,Santa Barbara Business College Ventura,52%,CA
+Sioux City,2319,Morningside College,54.2%,IA
+Indianapolis,5325,University of Indianapolis,54.1%,IN
+Angola,4024,Trine University,54.9%,IN
+Manhattan,896,Manhattan Area Technical College,54.5%,KS
+North Manchester,1303,Manchester University,54.3%,IN
+Olney,992,Illinois Eastern Community Colleges Olney Central College,54.8%,IL
+West Hartford,5917,University of Hartford,54.5%,CT
+Turlock,10481,California State University Stanislaus,54%,CA
+New Britain,9653,Central Connecticut State University,54.8%,CT
+Jacksonville,16594,University of North Florida,55%,FL
+San Diego,127,Design Institute of San Diego,54.4%,CA
+Lexington,389,MedTech College Lexington Campus,53%,KY
+Redlands,483,Community Christian College,53.8%,CA
+Denver,397,Johnson & Wales University Denver,53.4%,CO
+Roanoke,1128,Jefferson College of Health Sciences,54%,VA
+College Place,1584,Walla Walla University,53.8%,WA
+San Marcos,37864,Texas State University,54%,TX
+Murfreesboro,63,Daymar College Murfreesboro,53.8%,TN
+Gainesville,147,City College Gainesville,51%,FL
+Nashville,3717,Trevecca Nazarene University,51.3%,TN
+Randolph Center,1452,Vermont Technical College,51.8%,VT
+Murray,321,Eagle Gate College Murray,51.3%,UT
+Huntsville,21612,Sam Houston State University,51.1%,TX
+Cookeville,9840,Tennessee Technological University,51.2%,TN
+Radnor,1760,Cabrini College,51.9%,PA
+Memphis,116,Memphis College of Art,51.2%,TN
+California,6509,California University of Pennsylvania,51.1%,PA
+Yankton,1236,Mount Marty College,51%,SD
+Mont Alto,830,Penn State Mont Alto,51.1%,PA
+Center Valley,912,Penn State Lehigh Valley,51.9%,PA
+Shawnee,1510,Oklahoma Baptist University,51.6%,OK
+Swannanoa,803,Warren Wilson College,51.7%,NC
+Sheffield Village,183,Ohio Business College Sheffield,51.5%,OH
+Portland,5342,Concordia University Portland,51.2%,OR
+Cincinnati,2064,College of Mount St. Joseph,51.7%,OH
+Hickory,2405,Lenoir Rhyne University,51%,NC
+Maryville,1046,Maryville College,53.4%,TN
+Memphis,1794,Christian Brothers University,53.7%,TN
+Dallas,216,Wade College,53.1%,TX
+Rock Hill,5174,Winthrop University,53.3%,SC
+Cleveland,4505,Lee University,53.4%,TN
+Hazleton,676,Penn State Hazleton,53.7%,PA
+Akron,63,Ohio College of Massotherapy Inc,53.7%,OH
+Ravenna,15,Fortis College Ravenna,53.5%,OH
+New York,13479,Pace University New York,53.9%,NY
+Charlotte,30448,University of North Carolina at Charlotte,53.9%,NC
+Brooklyn Heights,2489,St. Francis College,53.4%,NY
+Manchester,145533,Southern New Hampshire University,53.5%,NH
+Jersey City,3009,Saint Peter's University,53.8%,NJ
+Jamestown,287,Jamestown Business College,53.7%,NY
+Framingham,4495,Framingham State University,53.8%,MA
+Clinton,4250,Mississippi College,53.8%,MS
+Springfield,22925,Missouri State University Springfield,53.5%,MO
+Lima,2741,University of Northwestern Ohio,55.2%,OH
+Kent,26597,Kent State University at Kent,55.6%,OH
+Bismarck,474,United Tribes Technical College,55.1%,ND
+Boston,7943,Berklee College of Music,53%,MA
+Fargo,12461,North Dakota State University Main Campus,55%,ND
+Grantsboro,307,Pamlico Community College,55.6%,NC
+Greensboro,19038,University of North Carolina at Greensboro,55.9%,NC
+Livonia,2444,Madonna University,55.9%,MI
+Findlay,4811,The University of Findlay,55.2%,OH
+Oneonta,1170,Hartwick College,55.8%,NY
+Flint,1858,Kettering University,55.5%,MI
+Laramie,11479,University of Wyoming,54.7%,WY
+Shell Lake,2656,Wisconsin Indianhead Technical College,54.8%,WI
+Adrian,1871,Adrian College,55.2%,MI
+Waterbury,795,University of Connecticut Tri Campus,54.9%,CT
+Springfield,162,Vatterott College Springfield,54.2%,MO
+Hayward,306,Lac Courte Oreilles Ojibwa Community College,54.8%,WI
+Milwaukee,898,Milwaukee Institute of Art & Design,54.5%,WI
+Buckhannon,1054,West Virginia Wesleyan College,54.3%,WV
+Winchester,4287,Shenandoah University,54.8%,VA
+Lynchburg,550,Randolph College,54.5%,VA
+Longview,3209,LeTourneau University,54.2%,TX
+Houston,3877,University of St Thomas,54.9%,TX
+Dayton,1550,Bryan College,54.6%,TN
+Oakdale,1240,Pittsburgh Technical College,54.9%,PA
+Vermillion,9464,University of South Dakota,54%,SD
+Greensburg,1320,University of Pittsburgh Greensburg,54.4%,PA
+Henderson,2320,Freed Hardeman University,54.7%,TN
+Sioux Falls,1625,University of Sioux Falls,54.1%,SD
+Johnstown,2121,University of Pittsburgh Johnstown,52.8%,PA
+Kutztown,7673,Kutztown University of Pennsylvania,54.6%,PA
+Farmington,1878,University of Maine at Farmington,56%,ME
+Boston,6647,Suffolk University,55.5%,MA
+Lowell,17597,University of Massachusetts Lowell,55.1%,MA
+Sheldon,1716,Northwest Iowa Community College,55%,IA
+Georgetown,1625,Georgetown College,55.8%,KY
+Indianapolis,4071,Marian University,55.2%,IN
+Miami,56664,Florida International University,56%,FL
+Costa Mesa,2268,Vanguard University of Southern California,55.5%,CA
+New Haven,1328,Albertus Magnus College,55.1%,CT
+Birmingham,22289,University of Alabama at Birmingham,55%,AL
+Fresno,25047,California State University Fresno,55.3%,CA
+Mobile,1107,Spring Hill College,55.5%,AL
+Vallejo,925,California Maritime Academy,55.9%,CA
+Rochester,646,University of Minnesota Rochester,54%,MN
+Jacksonville,697,Virginia College Jacksonville,54.4%,FL
+Nashville,479,Fortis Institute Nashville,54.6%,TN
+Cincinnati,562,Fortis College Cincinnati,54.7%,OH
+Emeryville,253,Expression College for Digital Arts,54.3%,CA
+Indiana,9298,Indiana University of Pennsylvania Main Campus,54%,PA
+Pittsburgh,1984,Carlow University,54.4%,PA
+Philadelphia,71,Hussian School of Art,54.2%,PA
+Portland,595,Multnomah University,54.4%,OR
+Canton,1306,Malone University,54.6%,OH
+Grand Forks,13772,University of North Dakota,54.8%,ND
+Camden,6569,Rutgers University Camden,54.9%,NJ
+Potsdam,2607,SUNY College at Potsdam,54.5%,NY
+New York,670,New York School of Interior Design,54.5%,NY
+Bronx,2948,College of Mount Saint Vincent,54.8%,NY
+Flushing,813,St Paul's School of Nursing Queens,54.8%,NY
+Madison,3078,Fairleigh Dickinson University College at Florham,54.4%,NJ
+Kalamazoo,18266,Western Michigan University,54.2%,MI
+Fitchburg,6674,Fitchburg State University,54.9%,MA
+Newton,1695,Lasell College,54.4%,MA
+Winter Park,4,Fortis College Winter Park,56.5%,FL
+Portland,491,Maine College of Art,54.1%,ME
+Grand Rapids,1930,Cornerstone University,54.1%,MI
+Grand Rapids,1362,Aquinas College,54.5%,MI
+Willimantic,4319,Eastern Connecticut State University,56.3%,CT
+Rohnert Park,7371,Sonoma State University,57%,CA
+Baton Rouge,134,Remington College Baton Rouge Campus,55.5%,LA
+Tulsa,88,Vatterott College Tulsa,55.4%,OK
+Nashville,272,Remington College Nashville Campus,55.6%,TN
+Oakland,1630,California College of the Arts,56.5%,CA
+Laguna Beach,766,Laguna College of Art and Design,56.4%,CA
+River Falls,5394,University of Wisconsin River Falls,55.7%,WI
+Menomonie,7695,University of Wisconsin Stout,55.1%,WI
+Olympia,2116,The Evergreen State College,55%,WA
+Nashville,48,Daymar College Nashville,55.2%,TN
+Renton,3097,Renton Technical College,55.8%,WA
+Terrell,92,Southwestern Christian College,55.8%,TX
+Salt Lake City,2665,Latter day Saints Business College,56%,UT
+Brookings,11465,South Dakota State University,55.5%,SD
+Collegedale,2719,Southern Adventist University,55%,TN
+Anderson,67,Forrest College,55.9%,SC
+Detroit,1620,College for Creative Studies,56.8%,MI
+Hattiesburg,5738,William Carey University,56.1%,MS
+Saint Bonifacius,1476,Crown College,56.8%,MN
+Wyoming,1104,Grace Bible College,56%,MI
+Minneapolis,759,Herzing University Minneapolis,56.1%,MN
+Midland,2422,Northwood University Michigan,56.8%,MI
+Baltimore,2184,Notre Dame of Maryland University,56.2%,MD
+Berrien Springs,2927,Andrews University,56.4%,MI
+Cambridge,4010,Lesley University,56.2%,MA
+Quincy,647,Eastern Nazarene College,56.5%,MA
+Unity,2439,Unity College,56.9%,ME
+McPherson,842,McPherson College,56.5%,KS
+Emporia,1365,Flint Hills Technical College,56%,KS
+Monmouth,755,Monmouth College,56.6%,IL
+Mount Carmel,865,Illinois Eastern Community Colleges Wabash Valley College,56.3%,IL
+Honolulu,19098,University of Hawaii at Manoa,56.7%,HI
+Lebanon,1958,McKendree University,56.1%,IL
+Melbourne,7830,Florida Institute of Technology,56%,FL
+Aurora,6165,Aurora University,56.8%,IL
+Robinson,632,Illinois Eastern Community Colleges Lincoln Trail College,56%,IL
+Beverly Hills,1389,West Coast Ultrasound Institute,70.9%,CA
+Lynchburg,2553,University of Lynchburg,56.2%,VA
+Norfolk,441,Fortis College Norfolk,56.1%,VA
+Box Elder,373,Stone Child College,57%,MT
+Lancaster,1207,Thaddeus Stevens College of Technology,57%,PA
+Philadelphia,3011,Holy Family University,56.4%,PA
+Dallas,4340,Dallas Baptist University,56.2%,TX
+Northfield,3672,Norwich University,56.7%,VT
+Bowling Green,17645,Bowling Green State University Main Campus,56.1%,OH
+Clarks Summit,696,Clarks Summit University,56.8%,PA
+Elmira,673,Elmira College,56.5%,NY
+New York,1666,American Musical and Dramatic Academy,56.3%,NY
+Sparkill,2026,Saint Thomas Aquinas College,56.4%,NY
+Reno,21034,University of Nevada Reno,56.6%,NV
+Cazenovia,746,Cazenovia College,56.9%,NY
+Kearney,6275,University of Nebraska at Kearney,56.1%,NE
+Cincinnati,239,Art Academy of Cincinnati,57.9%,OH
+Cullowhee,11877,Western Carolina University,57.8%,NC
+Charlotte,2063,Queens University of Charlotte,57.4%,NC
+Syracuse,252,Crouse Hospital College of Nursing,57.5%,NY
+Flushing,18772,CUNY Queens College,57.2%,NY
+Alfred,1982,Alfred University,57.6%,NY
+Winona,6545,Winona State University,57.8%,MN
+Lafayette,279,Remington College Lafayette Campus,57%,LA
+Saint Paul,3904,St Catherine University,57.5%,MN
+Mount Pleasant,15424,Central Michigan University,57.2%,MI
+Plymouth,4224,Plymouth State University,57.7%,NH
+Orono,12657,University of Maine,57.7%,ME
+Moscow,11303,University of Idaho,57.6%,ID
+Tampa,40,Remington College Tampa Campus,57.1%,FL
+Baton Rouge,387,Medvance Institute Baton Rouge,56.4%,LA
+Columbus,55,Ohio Business College Columbus,56.2%,OH
+San Antonio,3432,St. Mary's University,57.2%,TX
+Indianapolis,384,MedTech College,56.9%,IN
+Spartanburg,1440,Converse College,57%,SC
+Chesapeake,204,Centura College Chesapeake,56.6%,VA
+Providence,5117,Johnson & Wales University Providence,58%,RI
+Philadelphia,178,Pennsylvania Academy of the Fine Arts,57.8%,PA
+Wilkes-Barre,5276,Wilkes University,57.4%,PA
+Gwynedd Valley,2521,Gwynedd Mercy College,57.5%,PA
+Columbus,1000,Columbus College of Art and Design,57.8%,OH
+Ashland,4929,Ashland University,57.4%,OH
+Doylestown,2168,Delaware Valley University,57.7%,PA
+North Canton,2440,Walsh University,57.4%,OH
+Salem,1082,Corban University,57.6%,OR
+Shreveport,184,Career Technical College Shreveport,35.3%,LA
+Hoffman Estates,13480,American InterContinental University Online,35.6%,IL
+Plymouth,104,Minnesota School of Business Plymouth,35.6%,MN
+Irwin,77,Rosedale Bible College,35.5%,OH
+Cedar Falls,149,Purdue Global Cedar Falls Campus,35.9%,IA
+Fort Dodge,5009,Iowa Central Community College,34.3%,IA
+Chicago,737,Saint Augustine College,34.9%,IL
+Okmulgee,2286,Oklahoma State University Institute of Technology Okmulgee,30.4%,OK
+Canton,323,Brown Mackie College North Canton,30%,OH
+Hudson,1355,Columbia Greene Community College,30.8%,NY
+Portales,4991,Eastern New Mexico University Main Campus,30.8%,NM
+Jersey City,6918,New Jersey City University,30.6%,NJ
+Omaha,6,Vatterott College Spring Valley,30.5%,NE
+Raleigh,225,Miller Motte College Raleigh,28.6%,NC
+San Francisco,17447,City College of San Francisco,29.2%,CA
+Conway,622,Central Baptist College,29.9%,AR
+Meridian,2718,Meridian Community College,30.6%,MS
+Hanceville,5204,George C Wallace State Community College Hanceville,29.2%,AL
+Jacksonville,175,Miller Motte College,28.5%,NC
+Evergreen,374,Reid State Technical College,29.2%,AL
+Monrovia,130,Mt Sierra College,28.6%,CA
+Pasco,6089,Columbia Basin College,27%,WA
+Lynnwood,5606,Edmonds Community College,26.2%,WA
+Lynchburg,558,Virginia University of Lynchburg,26.2%,VA
+Abingdon,2451,Virginia Highlands Community College,26.9%,VA
+Institute,3415,West Virginia State University,26.3%,WV
+Martinsville,1906,Patrick Henry Community College,26.8%,VA
+Locust Grove,7496,Germanna Community College,26.2%,VA
+Odessa,7947,Odessa College,25.2%,TX
+Austin,1001,Huston Tillotson University,26%,TX
+Borger,1586,Frank Phillips College,25.5%,TX
+Nashville,342,Aquinas College,25.8%,TN
+Coos Bay,1490,Southwestern Oregon Community College,25.4%,OR
+Eugene,44,New Hope Christian College,25%,OR
+Asheville,352,South College Asheville,25.6%,NC
+Bottineau,1163,Dakota College at Bottineau,25.8%,ND
+Chillicothe,2211,Ohio University Chillicothe Campus,25.9%,OH
+Flat Rock,2635,Blue Ridge Community College,25.9%,NC
+Smithfield,4059,Johnston Community College,25.6%,NC
+Sanborn,4154,Niagara County Community College,25.6%,NY
+Utica,5347,Mohawk Valley Community College Utica Branch,25.7%,NY
+Batavia,4472,Genesee Community College,25.2%,NY
+Poughkeepsie,7222,Dutchess Community College,25%,NY
+Canandaigua,5414,Finger Lakes Community College,25.4%,NY
+Troy,8454,Hudson Valley Community College,26.5%,NY
+Syracuse,413,Bryant and Stratton College Main Syracuse,25.4%,NY
+Staten Island,11793,CUNY College of Staten Island,26.7%,NY
+Auburn,1693,Cayuga County Community College,25.8%,NY
+Randolph,6219,County College of Morris,27%,NJ
+Scottsbluff,1306,Western Nebraska Community College,26.1%,NE
+Rochester,333,Bryant and Stratton College Greece,26.8%,NY
+Santa Fe,803,Institute of American Indian and Alaska Native Culture,26.1%,NM
+Lincoln,9416,Southeast Community College Area,26.3%,NE
+Corning,3954,Corning Community College,26.4%,NY
+Papillion,134,Nebraska Christian College,26.3%,NE
+Havre,1050,Montana State University Northern,26.2%,MT
+Holly Springs,768,Rust College,26.5%,MS
+Bellevue,11902,Bellevue University,26.7%,NE
+Itta Bena,2064,Mississippi Valley State University,26.2%,MS
+Duluth,4373,Lake Superior College,26.6%,MN
+Lansing,165,Great Lakes Christian College,26.8%,MI
+Greenfield,1433,Greenfield Community College,26%,MA
+Elizabethtown,5657,Elizabethtown Community and Technical College,26.8%,KY
+Bowling Green,4368,Southcentral Kentucky Community and Technical College,26.7%,KY
+Danville,2330,Danville Community College,26.6%,VA
+Vernon,2358,Vernon College,26.2%,TX
+Clarendon,1372,Clarendon College,26.1%,TX
+Jenkintown,660,Manor College,26.9%,PA
+Alva,1791,Northwestern Oklahoma State University,26.6%,OK
+Cincinnati,776,Union Institute & University,26.7%,OH
+Hamilton,2289,Miami University Hamilton,26.7%,OH
+Dobson,2849,Surry Community College,26.2%,NC
+Thomasville,3636,Davidson County Community College,26.4%,NC
+Buffalo,1101,Trocaire College,26.7%,NY
+Watertown,2362,Jefferson Community College,26.9%,NY
+Oakwood,5068,Lanier Technical College,27.2%,GA
+Highland,2640,Highland Community College,27.6%,KS
+Richmond,3111,Indiana University East,27.7%,IN
+Owensboro,841,Brescia University,27.9%,KY
+Whiting,638,Calumet College of Saint Joseph,27.8%,IN
+Trinity,204,Trinity College of Florida,27.4%,FL
+Savannah,3385,Savannah State University,27.4%,GA
+Colorado Springs,24016,Colorado Technical University Colorado Springs,27.5%,CO
+Riverside,17960,Riverside City College,27.8%,CA
+Woodland Hills,15148,Los Angeles Pierce College,27.4%,CA
+Gilroy,4538,Gavilan College,27.3%,CA
+Santa Maria,9836,Allan Hancock College,27.4%,CA
+Rainsville,2489,Northeast Alabama Community College,27.9%,AL
+Batesville,1060,University of Arkansas Community College Batesville,27.6%,AR
+Akron,410,Herzing University Akron Campus,27.9%,OH
+Westminster,2770,Carroll Community College,26.9%,MD
+Sioux Falls,28,Colorado Technical University Sioux Falls,26.4%,SD
+Columbus,48,Miami Jacobs Career College Columbus,26.7%,OH
+Lancaster,2125,Ohio University Lancaster Campus,27.7%,OH
+Canton,4653,Kent State University at Stark,27.7%,OH
+Cincinnati,38,National College Cincinnati,26.9%,OH
+Laurinburg,911,St. Andrews University,27.5%,NC
+Albany,476,Mildred Elley School Albany Campus,27.2%,NY
+Morrisville,1957,Morrisville State College,27.1%,NY
+Henderson,2757,Vance Granville Community College,27.8%,NC
+Raleigh,1141,Shaw University,27.7%,NC
+Laconia,696,Lakes Region Community College,27.3%,NH
+Suffern,5637,Rockland Community College,28%,NY
+Jamaica,7027,CUNY York College,27.8%,NY
+Roswell,1627,Eastern New Mexico University Roswell Campus,27%,NM
+Decatur,2219,East Central Community College,27.4%,MS
+Lincoln,288,Purdue Global Lincoln Campus,27.3%,NE
+Park Hills,2282,Mineral Area College,27.8%,MO
+Perkinston,8208,Mississippi Gulf Coast Community College,27.1%,MS
+Centreville,1068,Glen Oaks Community College,27.2%,MI
+Louisville,405,Brown Mackie College Louisville,27.6%,KY
+Monticello,2678,University of Arkansas at Monticello,28.7%,AR
+Miami,184,Brown Mackie College Miami,27.9%,FL
+Little Rock,8295,University of Arkansas at Little Rock,28.2%,AR
+Montgomery,1846,H Councill Trenholm State Technical College,28%,AL
+Monroeville,982,Alabama Southern Community College,28.5%,AL
+Fort Wayne,131,Brown Mackie College Fort Wayne,27.9%,IN
+Marion,314,Marion Military Institute,28.3%,AL
+Bothell,1996,Cascadia Community College,27.6%,WA
+Atlanta,220,Brown Mackie College Atlanta,27%,GA
+Indianapolis,157,Crossroads Bible College,27.3%,IN
+Zarephath,546,Somerset Christian College,27.3%,NJ
+Washington,384,Potomac College Washington,27.6%,DC
+Urbandale,760,Purdue Global Des Moines Campus,27.6%,IA
+Tempe,908,University of Advancing Technology,27.1%,AZ
+Bluefield,1358,Bluefield State College,27.9%,WV
+Bremerton,4999,Olympic College,27.8%,WA
+Jackson,1047,Lane College,27.9%,TN
+Seminole,1530,Seminole State College,27.6%,OK
+Mobile,674,Virginia College Mobile,25.5%,AL
+Daytona Beach,12720,Embry Riddle Aeronautical University Worldwide,25.4%,FL
+Hopkinsville,67,Brown Mackie College Hopkinsville,25.6%,KY
+Huntsville,491,Virginia College Huntsville,25.4%,AL
+Tillamook,484,Tillamook Bay Community College,25.3%,OR
+Sandersville,1705,Oconee Fall Line Technical College,25.1%,GA
+Normal,4697,Heartland Community College,25.6%,IL
+Florence,753,Beckfield College Florence,25.1%,KY
+Putney,619,Landmark College,25.4%,VT
+Seattle,4887,Seattle Community College North Campus,25%,WA
+Riverton,1770,Central Wyoming College,25.4%,WY
+Tacoma,5359,Tacoma Community College,25.2%,WA
+Newton,2162,Sussex County Community College,25.7%,NJ
+Longview,2164,Lower Columbia College,25.7%,WA
+Lakewood,7363,Pierce College at Fort Steilacoom,25.1%,WA
+Orem,125,Stevens Henager College of Business Provo,25.4%,UT
+Independence,901,Independence Community College,26.1%,KS
+Waterloo,5085,Hawkeye Community College,26.1%,IA
+Belleville,7213,Southwestern Illinois College,26.4%,IL
+Clifton Forge,1069,Dabney S Lancaster Community College,25.2%,VA
+Plainfield,369,Goddard College,25%,VT
+Cleveland,2710,Truett McConnell College,26.6%,GA
+Clarkesville,2660,North Georgia Technical College,26.5%,GA
+Salinas,9808,Hartnell College,26.2%,CA
+Taft,3943,Taft College,26.6%,CA
+Aptos,9075,Cabrillo College,26.4%,CA
+Sacramento,25849,American River College,26.1%,CA
+Lancaster,11105,Antelope Valley College,26.2%,CA
+Mena,718,Rich Mountain Community College,26.8%,AR
+Morrilton,1953,University of Arkansas Community College Morrilton,26.2%,AR
+Montgomery,3964,Alabama State University,26.6%,AL
+Phoenix,242,Brown Mackie College Phoenix,25%,AZ
+Pine Bluff,2670,University of Arkansas at Pine Bluff,26.9%,AR
+Tulsa,250,Brown Mackie College Tulsa,25.5%,OK
+Lemoore,3484,West Hills College Lemoore,25.8%,CA
+Logan,61,Stevens Henager College Logan,25.6%,UT
+Crystal Lake,8765,McHenry County College,28.6%,IL
+Malta,2442,Kishwaukee College,28.1%,IL
+Davenport,7460,Eastern Iowa Community College District,28.5%,IA
+Kankakee,2231,Kankakee Community College,28.6%,IL
+Lincoln,888,Lincoln College,28.9%,IL
+Lewiston,3710,Lewis Clark State College,28.5%,ID
+Winter Haven,9044,Polk State College,28.1%,FL
+Fairfield,8105,Solano Community College,28.7%,CA
+Coalinga,3801,West Hills College Coalinga,28.2%,CA
+Rangely,1150,Colorado Northwestern Community College,28.2%,CO
+Panama City,4377,Gulf Coast State College,28.7%,FL
+Waterbury,14055,Post University,28.1%,CT
+Ventura,10741,Ventura College,29%,CA
+Stockton,16640,San Joaquin Delta College,28.9%,CA
+Hope,1191,University of Arkansas Community College Hope,28.8%,AR
+Yucaipa,5260,Crafton Hills College,28.2%,CA
+Centerville,491,Fortis College Centeville,28.5%,OH
+Tahlequah,7025,Northeastern State University,28.2%,OK
+Wilberforce,557,Wilberforce University,28.6%,OH
+Hayward,11071,Chabot College,28.4%,CA
+Zanesville,2184,Ohio University Zanesville Campus,28.8%,OH
+New York,1981,Berkeley College New York,28.9%,NY
+New York,812,Professional Business College,28.4%,NY
+Binghamton,4755,Broome Community College,28.1%,NY
+Sylvania,1112,Lourdes University,28.4%,OH
+Stone Ridge,2907,Ulster County Community College,28.6%,NY
+New York,412,American Academy McAllister Institute of Funeral Service,28.6%,NY
+Topeka,34,Bryan University Topeka,28.3%,KS
+Marshall,1776,Missouri Valley College,28.7%,MO
+Booneville,3284,Northeast Mississippi Community College,28.8%,MS
+Winona,1838,Minnesota State College Southeast Technical,28.1%,MN
+Woodland Park,2227,Berkeley College Woodland Park,28.7%,NJ
+Ely,575,Vermilion Community College,28.6%,MN
+Lexington,242,National College Lexington,28.2%,KY
+Poteau,1781,Carl Albert State College,29.6%,OK
+Durant,5420,Southeastern Oklahoma State University,29%,OK
+Maumee,482,Stautzenberger College Maumee,29.8%,OH
+Worcester,1675,Becker College,29.9%,MA
+Great Bend,3748,Barton County Community College,28.7%,KS
+Wooster,490,Ohio State University Agricultural Technical Institute,29.4%,OH
+Florence,4089,Gateway Community and Technical College,30%,KY
+Cumberland,2492,Southeast Kentucky Community and Technical College,29.3%,KY
+Hutchinson,5114,Hutchinson Community College,29.8%,KS
+Lenexa,171,Brown Mackie College Kansas City,29.7%,KS
+Ottumwa,3385,Indian Hills Community College,29.7%,IA
+Kokomo,2995,Indiana University Kokomo,29%,IN
+Mason City,142,Purdue Global Mason City Campus,29.8%,IA
+Michigan City,38,Brown Mackie College Michigan City,29.8%,IN
+New Albany,4051,Indiana University Southeast,29.7%,IN
+Nashville,193,Watkins College of Art Design & Film,28.3%,TN
+South Holland,3691,South Suburban College,29.9%,IL
+Findlay,214,Brown Mackie College Findlay,28.8%,OH
+Wenatchee,2661,Wenatchee Valley College,28.9%,WA
+Columbia,1908,Benedict College,28.9%,SC
+Athens,3943,Athens Technical College,28.7%,GA
+Glenns,2588,Rappahannock Community College,28.5%,VA
+Ferrum,869,Ferrum College,28.1%,VA
+Lynchburg,3464,Central Virginia Community College,28.1%,VA
+Cincinnati,56,Antonelli College Cincinnati,29.6%,OH
+Portland,481,Pacific Northwest College of Art,28.4%,OR
+Salem,77,Allegheny Wesleyan College,29.4%,OH
+Sylva,2504,Southwestern Community College,29.6%,NC
+Rocky Mount,1531,North Carolina Wesleyan College,29.2%,NC
+Wayne,78,Valley Forge Military College,28.1%,PA
+Shawnee,702,Saint Gregorys University,29%,OK
+Wilmington,1860,Miller Motte College Wilmington,29.9%,NC
+Canton,2863,SUNY College of Technology at Canton,29.6%,NY
+New Rochelle,2853,The College of New Rochelle,29.2%,NY
+Flushing,980,Long Island Business Institute,29.3%,NY
+Johnstown,1738,Fulton Montgomery Community College,29.2%,NY
+Plattsburgh,1010,Clinton Community College,29.4%,NY
+Reno,9431,Truckee Meadows Community College,29.2%,NV
+Summit,1673,Southwest Mississippi Community College,29.3%,MS
+Wesson,2837,Copiah Lincoln Community College,29%,MS
+Brooklyn Park,4083,Hennepin Technical College,29.2%,MN
+Decatur,2252,Richland Community College,29.4%,IL
+Atlanta,3383,Atlanta Technical College,29.8%,GA
+Tampa,19198,Hillsborough Community College,29.6%,FL
+New Castle,13129,Wilmington University,29.1%,DE
+San Marcos,17566,Palomar College,29.1%,CA
+Santa Monica,23408,Santa Monica College,29.3%,CA
+Atlanta,1187,American InterContinental University Atlanta,29.9%,GA
+Rochester,222,Bryant and Stratton College Henrietta,29.8%,NY
+Quincy,1354,Feather River Community College District,29.2%,CA
+Jacksonville,9540,Jacksonville State University,30.6%,AL
+Folsom,8926,Folsom Lake College,29.9%,CA
+Brooklyn Center,80,Minnesota School of Business Brooklyn Center,29.3%,MN
+Montgomery,429,Virginia College Montgomery,29.2%,AL
+Naples,551,Hodges University,29.6%,FL
+Olympia,4215,South Puget Sound Community College,29.4%,WA
+Sheridan,3921,Sheridan College,29.5%,WY
+La Crosse,3963,Western Technical College,29.2%,WI
+Janesville,2424,Blackhawk Technical College,29.2%,WI
+Brooklyn,2745,ASA Institute of Business and Computer Technology,29.1%,NY
+Des Moines,4951,Highline Community College,29.6%,WA
+Brownsville,7527,The University of Texas at Brownsville,29.1%,TX
+Concordia,1531,Cloud County Community College,30.9%,KS
+Scranton,1916,Lackawanna College,29%,PA
+Richmond,1730,Virginia Union University,29.8%,VA
+La Grande,2825,Eastern Oregon University,29.5%,OR
+West Burlington,2321,Southeastern Community College,30.1%,IA
+Everett,6682,Everett Community College,29.3%,WA
+Notre Dame,468,Holy Cross College,30.3%,IN
+Ullin,1054,Shawnee Community College,30.9%,IL
+Springfield,4840,Lincoln Land Community College,30.3%,IL
+Freeport,1203,Highland Community College,30.7%,IL
+Fort Valley,2923,Fort Valley State University,30.3%,GA
+Savannah,7041,Armstrong State University,30.8%,GA
+Babson Park,812,Webber International University,30.9%,FL
+Bradenton,8424,State College of Florida Manatee Sarasota,30%,FL
+Sterling,1392,Northeastern Junior College,30.4%,CO
+Saratoga,6717,West Valley College,30.1%,CA
+Torrance,19675,El Camino Community College District,30.8%,CA
+San Luis Obispo,9661,Cuesta College,30.3%,CA
+De Queen,1360,Cossatot Community College of the University of Arkansas,31%,AR
+Key West,865,Florida Keys Community College,30.9%,FL
+Ellisville,4345,Jones County Junior College,30.9%,MS
+Livingston,5594,University of West Alabama,31%,AL
+Richfield,581,Minnesota School of Business Richfield,30.9%,MN
+Rosemount,2451,Dakota County Technical College,30.9%,MN
+Boston,346,Bay State College,30.9%,MA
+Fairbanks,6826,University of Alaska Fairbanks,30.1%,AK
+Boston,1237,New England College of Business,30%,MA
+Machias,762,University of Maine at Machias,30.1%,ME
+Maysville,3532,Maysville Community and Technical College,31%,KY
+Hazard,2887,Hazard Community and Technical College,30%,KY
+Fort Scott,1646,Fort Scott Community College,30.5%,KS
+Colby,1317,Colby Community College,30.9%,KS
+Sunnyvale,434,Cogswell College,31.4%,CA
+Oroville,9470,Butte College,31.1%,CA
+Fayetteville,235,Grace College of Divinity,30.4%,NC
+Brecksville,257,Stautzenberger College Brecksville,30.8%,OH
+Moorefield,361,Eastern West Virginia Community and Technical College,30.2%,WV
+Nashville,217,National College of Business and Technology Nashville,30.4%,TN
+Owensboro,4111,Owensboro Community and Technical College,30.9%,KY
+Torrington,1367,Eastern Wyoming College,30.2%,WY
+Casper,3405,Casper College,30.2%,WY
+Phoenix,103072,Grand Canyon University,31.2%,AZ
+Port Angeles,1702,Peninsula College,30.6%,WA
+Wisconsin Rapids,3006,Mid State Technical College,30.3%,WI
+Wausau,6116,Northcentral Technical College,30.4%,WI
+Kirkland,3240,Lake Washington Institute of Technology,30.8%,WA
+Bellevue,1996,City University of Seattle,30%,WA
+Buena Vista,1170,Southern Virginia University,30.8%,VA
+Bogalusa,4612,Northshore Technical Community College,31.1%,LA
+West Haven,127,Stevens Henager College Ogden,30%,UT
+Petersburg,2670,Richard Bland College of the College of William and Mary,30.5%,VA
+Baton Rouge,1315,Our Lady of the Lake College,31.9%,LA
+Columbia,2618,Lindsey Wilson College,31.3%,KY
+New Orleans,1236,Our Lady of Holy Cross College,31.8%,LA
+Hammond,9194,Purdue University Calumet Campus,31.5%,IN
+Fort Wayne,2450,Indiana Institute of Technology,31.1%,IN
+Harrisburg,1239,Southeastern Illinois College,31.7%,IL
+Jacksonville,548,MacMurray College,31.2%,IL
+Savannah,3582,Savannah Technical College,31.4%,GA
+Arkansas City,2407,Cowley County Community College,30.8%,KS
+Pittsburgh,2439,Chatham University,56%,PA
+Columbus,7898,Columbus State University,31.1%,GA
+Elgin,8050,Elgin Community College,31.2%,IL
+Bridgeport,3563,University of Bridgeport,31.7%,CT
+Rocklin,15773,Sierra College,31%,CA
+Walnut,25540,Mt. San Antonio College,31.4%,CA
+Oceanside,11125,MiraCosta College,31.6%,CA
+Chicago,1027,Kendall College,32.8%,IL
+Pocatello,12135,Idaho State University,32.6%,ID
+Monterey Park,29506,East Los Angeles College,31.5%,CA
+Pittsburg,7859,Los Medanos College,31.3%,CA
+Morrow,6817,Clayton State University,32.4%,GA
+Largo,24543,St Petersburg College,32.1%,FL
+Americus,3157,Georgia Southwestern State University,32.7%,GA
+Fort Myers,14756,Florida SouthWestern State College,32.7%,FL
+Pensacola,8604,Pensacola State College,32.4%,FL
+Pueblo,6110,Colorado State University Pueblo,32.6%,CO
+Prescott,1047,Prescott College,32.9%,AZ
+Napa,4481,Napa Valley College,32.5%,CA
+Magnolia,4434,Southern Arkansas University Main Campus,32.4%,AR
+Fort Morgan,1365,Morgan Community College,32.8%,CO
+Boise,125,Brown Mackie College Boise,31.9%,ID
+Bellingham,3850,Whatcom Community College,31.8%,WA
+Honolulu,135,New Hope Christian College,31.3%,HI
+Rhinelander,1224,Nicolet Area Technical College,31.1%,WI
+Glenville,1557,Glenville State College,31.2%,WV
+Boaz,2245,Snead State Community College,33%,AL
+Kenosha,4132,University of Wisconsin Parkside,31.8%,WI
+Shoreline,4843,Shoreline Community College,31.2%,WA
+Salem,997,National College Salem,31.9%,VA
+Weyers Cave,3386,Blue Ridge Community College,31.5%,VA
+San Antonio,34734,The University of Texas at San Antonio,31.3%,TX
+Weatherford,4648,Southwestern Oklahoma State University,31.2%,OK
+Marylhurst,743,Marylhurst University,31.1%,OR
+Youngstown,11298,Youngstown State University,31.5%,OH
+Zanesville,1731,Zane State College,31.6%,OH
+Mayville,1172,Mayville State University,31.4%,ND
+Spruce Pine,863,Mayland Community College,31%,NC
+Roswell,476,New Mexico Military Institute,31.6%,NM
+Bloomfield,1300,Bloomfield College,31.5%,NJ
+Saint Cloud,3638,St Cloud Technical and Community College,31.9%,MN
+International Falls,179,Rainy River Community College,31.9%,MN
+Saint Paul,6914,Metropolitan State University,31.9%,MN
+Baltimore,8469,Morgan State University,31.2%,MD
+Fairfield,2108,Kennebec Valley Community College,31.1%,ME
+Pottsville,220,McCann School of Business and Technology,33%,PA
+Berkeley,545,Vatterott College Berkeley,32.5%,MO
+Fairmont,3562,Fairmont State University,32.2%,WV
+Powell,1427,Northwest College,33%,WY
+Norfolk,5458,Norfolk State University,32.9%,VA
+Orem,41262,Utah Valley University,32.1%,UT
+Wytheville,2089,Wytheville Community College,32.9%,VA
+Plainview,3508,Wayland Baptist University,32.4%,TX
+Beaumont,16320,Lamar University,32.5%,TX
+Dallas,317,Dallas Christian College,32.4%,TX
+McKenzie,4011,Bethel University,32.6%,TN
+Fayetteville,6748,Fayetteville State University,33%,NC
+Moore,301,Hillsdale Free Will Baptist College,32.7%,OK
+Circleville,1900,Ohio Christian University,32.6%,OH
+Dickinson,1415,Dickinson State University,32.9%,ND
+Sumter,410,Morris College,32.3%,SC
+Johnson City,147,Davis College,32.9%,NY
+Jamestown,3798,Jamestown Community College,32.6%,NY
+Dix Hills,552,Five Towns College,32.2%,NY
+Herkimer,2024,Herkimer County Community College,32.3%,NY
+Omaha,332,Purdue Global Omaha Campus,32.2%,NE
+Toms River,7321,Ocean County College,32%,NJ
+Saint Joseph,4395,Missouri Western State University,32.8%,MO
+Grand Island,6309,Central Community College,32.3%,NE
+Hibbing,859,Hibbing Community College A Technical and Community College,32.6%,MN
+Bemidji,94,Oak Hills Christian College,32.7%,MN
+Bemidji,794,Northwest Technical College,33%,MN
+Chestnut Hill,93,Pine Manor College,32.4%,MA
+Baton Rouge,7400,Southern University and A & M College,32.9%,LA
+Grambling,5270,Grambling State University,32.3%,LA
+Portland,7996,University of Southern Maine,32.8%,ME
+Saint Catharine,649,Saint Catharine College,32.3%,KY
+Barbourville,1024,Union College,32%,KY
+Fort Mitchell,87,Brown Mackie College Northern Kentucky,32.3%,KY
+Cedar Rapids,411,Purdue Global Cedar Rapids Campus,32.7%,IA
+Lake Worth,24151,Palm Beach State College,34.5%,FL
+Miami,934,AI Miami International University of Art and Design,34.2%,FL
+Miami,7337,Barry University,34.7%,FL
+Albany,6297,Albany State University,34.9%,GA
+Peoria,226,Midstate College,32.5%,IL
+Miami,44002,Miami Dade College,34.2%,FL
+Daytona Beach,11613,Daytona State College,34%,FL
+Santa Rosa,14967,Santa Rosa Junior College,34.1%,CA
+Cypress,13406,Cypress College,34.1%,CA
+Santa Clarita,15443,College of the Canyons,34.8%,CA
+Eau Claire,106,Globe University Eau Claire,33.3%,WI
+Houston,195,American InterContinental University Houston,33.3%,TX
+San Antonio,156,Baptist University of the Americas,33.3%,TX
+Newport,1829,Arkansas State University Newport,33.8%,AR
+Bowling Green,17,Daymar College Bowling Green,33.1%,KY
+Eau Claire,6998,Chippewa Valley Technical College,33.8%,WI
+Seattle,4893,Seattle Community College South Campus,33.2%,WA
+Miami,838,Carlos Albizu University Miami,33.9%,FL
+Fort Lauderdale,30947,Broward College,33.2%,FL
+Grand Junction,8907,Colorado Mesa University,34%,CO
+Sacramento,132,Epic Bible College,33.3%,CA
+Pasadena,21192,Pasadena City College,33.9%,CA
+South Lake Tahoe,2024,Lake Tahoe Community College,33.1%,CA
+Carson,17837,California State University Dominguez Hills,33.6%,CA
+Thatcher,4583,Eastern Arizona College,33.5%,AZ
+Tucson,171,Brown Mackie College Tucson,33.9%,AZ
+San Diego,13101,San Diego Miramar College,33.2%,CA
+Santa Barbara,12746,Santa Barbara City College,33.8%,CA
+Normal,5969,Alabama A & M University,33%,AL
+Columbus,335,Miller Motte Technical College Columbus,32.2%,GA
+Sioux Falls,125,Globe University Sioux Falls,32.2%,SD
+Fayetteville,259,Miller Motte College Fayetteville,32.5%,NC
+Youngstown,34,National College Youngstown,32.4%,OH
+Troy,14901,Troy University,33.8%,AL
+Cobleskill,1820,SUNY College of Agriculture and Technology at Cobleskill,35.8%,NY
+Biloxi,313,Virginia College Biloxi,32%,MS
+Brooklyn,172,Machzikei Hadath Rabbinical College,35.7%,NY
+Oakdale,2256,Dowling College,35.5%,NY
+Liverpool,484,Bryant and Stratton College Syracuse North,35.1%,NY
+Henniker,3806,New England College,35.1%,NH
+Dultuh,47,Duluth Business University,36%,MN
+Flint,6418,University of Michigan Flint,36%,MI
+Jacksonville,20717,Florida State College at Jacksonville,35.6%,FL
+San Francisco,70,San Francisco Art Institute,35.4%,CA
+Colorado Springs,196,National American University Colorado Springs,35.4%,CO
+Baton Rouge,1202,Capital Area Technical College Baton Rouge Campus,35.4%,LA
+Augusta,3705,Augusta Technical College,35.3%,GA
+Quincy,1728,John Wood Community College,35.2%,IL
+Albany,2370,Albany Technical College,35.1%,GA
+Joplin,4352,Missouri Southern State University,33.8%,MO
+Cleveland,2727,Delta State University,33%,MS
+Fulton,4348,Itawamba Community College,33.9%,MS
+Huntington Beach,10189,Golden West College,35.5%,CA
+Glendora,9982,Citrus College,35.2%,CA
+San Diego,378,Newschool of Architecture and Design,35.7%,CA
+Mission Viejo,17392,Saddleback College,35.1%,CA
+Pratt,1125,Pratt Community College,33.8%,KS
+Fergus Falls,5360,Minnesota State Community and Technical College,33.5%,MN
+Shreveport,8881,Louisiana State University Shreveport,33.4%,LA
+Fullerton,17813,Fullerton College,31.3%,CA
+Alpena,1487,Alpena Community College,33.7%,MI
+Wichita,4834,Wichita Area Technical College,33.9%,KS
+Garden City,1962,Garden City Community College,34%,KS
+Salina,149,Brown Mackie College Salina,33.9%,KS
+Oskaloosa,1372,William Penn University,33.5%,IA
+Pearl City,3008,University of Hawaii West Oahu,33.3%,HI
+Chicago,4127,Roosevelt University,33.9%,IL
+Godfrey,4125,Lewis and Clark Community College,33.2%,IL
+South Bend,131,Brown Mackie College South Bend,33%,IN
+Tallahassee,11935,Tallahassee Community College,33.4%,FL
+New Port Richey,9257,Pasco Hernando Community College,33.5%,FL
+San Angelo,10826,Angelo State University,33.2%,TX
+Lakewood,2846,Clover Park Technical College,33.1%,WA
+Auburn,6559,Green River Community College,33.1%,WA
+Danville,1336,Averett University,33.6%,VA
+Bennington,351,Southern Vermont College,33.1%,VT
+Kingsville,6405,Texas A & M University Kingsville,33.9%,TX
+Denmark,402,Voorhees College,33.4%,SC
+Sharon,419,Penn State Shenango,34%,PA
+Portsmouth,3216,Shawnee State University,33.4%,OH
+Lima,874,Ohio State University Lima Campus,33.2%,OH
+Cincinnati,776,Cincinnati Christian University,33.3%,OH
+Independence,12,Miami Jacobs Career College,33.3%,OH
+Raleigh,1261,Saint Augustines College,33.3%,NC
+Brooklyn,6982,Long Island University Brooklyn Campus,33.2%,NY
+Dobbs Ferry,8772,Mercy College,33.5%,NY
+Ada,3350,East Central University,34.6%,OK
+North Platte,2101,Mid Plains Community College,33.8%,NE
+Harlem,143,Fort Belknap College,33.3%,MT
+Getzville,317,Bryant and Stratton College Amherst,34%,NY
+Lancaster,57,Daymar College Lancaster,34.7%,OH
+Sandusky,54,Ohio Business College Sandusky,34.9%,OH
+Brooklyn,534,Mesivta Torah Vodaath Rabbinical Seminary,34%,NY
+New York,660,Metropolitan College of New York,34.6%,NY
+Clovis,2162,Clovis Community College,34.1%,NM
+Glendive,458,Dawson Community College,34.2%,MT
+Trenton,1641,North Central Missouri College,34.6%,MO
+Springfield,280,Baptist Bible College and Graduate School,34.9%,MO
+Boston,1367,Fisher College,34.5%,MA
+Grand Rapids,983,Itasca Community College,34.1%,MN
+Princess Anne,2384,University of Maryland Eastern Shore,34.9%,MD
+New Orleans,7953,University of New Orleans,34.3%,LA
+Detroit,24919,Wayne State University,34.5%,MI
+Lake Charles,3068,Sowela Technical Community College,34.9%,LA
+Calais,405,Washington County Community College,34.2%,ME
+Topeka,5657,Washburn University,34.4%,KS
+Forest City,2520,Waldorf College,35%,IA
+Arkadelphia,2919,Henderson State University,35%,AR
+Beebe,2776,Arkansas State University Beebe,35.5%,AR
+Sells,766,Tohono O'Odham Community College,34.5%,AZ
+Fort Collins,113,College America Fort Collins,34.6%,CO
+Barrow,268,Ilisagvik College,34%,AK
+Clarksville,202,Miller Motte Technical College Clarksville,34.8%,TN
+Largo,25,Schiller International University,34.9%,FL
+Monroe,205,McCann School of Business & Technology Monroe,34.7%,LA
+Livermore,7125,Las Positas College,34.6%,CA
+Oklahoma City,2237,Mid America Christian University,34.5%,OK
+Pewaukee,7357,Waukesha County Technical College,34.2%,WI
+Vienna,273,Ohio Valley University,34.6%,WV
+West Jordan,240,Broadview University West Jordan,34.5%,UT
+Johnson,1746,Johnson State College,34.9%,VT
+Ogden,29774,Weber State University,34.5%,UT
+Moses Lake,1778,Big Bend Community College,34.3%,WA
+Gaffney,1840,Limestone University,34.2%,SC
+Clarkston,2577,Georgia Piedmont Technical College,35.3%,GA
+Spearfish,3539,Black Hills State University,34.6%,SD
+Aberdeen,1469,Grays Harbor College,35.6%,WA
+Centralia,2153,Centralia College,35.3%,WA
+Rockford,408,Rockford Career College,33.3%,IL
+Saint George,12266,Dixie State College of Utah,35%,UT
+Parkersburg,2346,West Virginia University at Parkersburg,35.4%,WV
+Alberta,2961,Southside Virginia Community College,35.1%,VA
+Prairie View,9400,Prairie View A & M University,35.7%,TX
+Richlands,2135,Southwest Virginia Community College,35.7%,VA
+Abilene,1145,McMurry University,35.7%,TX
+Mars Hill,1073,Mars Hill University,35.2%,NC
+Rapid City,1292,Western Dakota Technical Institute,35.2%,SD
+Warren,117,Trumbull Business College,35.1%,OH
+Calmar,4013,Northeast Iowa Community College Calmar,36.1%,IA
+Dixon,1378,Sauk Valley Community College,36.9%,IL
+Salina,812,Kansas Wesleyan University,36.6%,KS
+Boulder,964,Naropa University,36.4%,CO
+Enfield,1220,Asnuntuck Community College,36.6%,CT
+Mattoon,3644,Lake Land College,36.8%,IL
+Leesburg,4342,Lake Sumter State College,36.8%,FL
+Fremont,8267,Ohlone Community College,36.6%,CA
+Waleska,1215,Reinhardt University,36.3%,GA
+La Junta,1151,Otero Junior College,36.9%,CO
+Springboro,33,Miami Jacobs Career College Springboro,35%,OH
+Greenville,355,Virginia College Greenville,35.2%,SC
+Moorpark,12709,Moorpark College,37%,CA
+St. Petersburg,4727,University of South Florida St. Petersburg Campus,35.5%,FL
+Orange Beach,16412,Columbia Southern University,35.5%,AL
+El Cajon,462,San Diego Christian College,36.4%,CA
+La Jolla,17135,National University,36.8%,CA
+Colorado Springs,143,College America Colorado Springs,35.5%,CO
+Denton,16338,Texas Woman's University,42.6%,TX
+Keene,852,Southwestern Adventist University,42.4%,TX
+Tyler,9687,The University of Texas at Tyler,42.8%,TX
+Nacogdoches,12000,Stephen F Austin State University,42.5%,TX
+Lubbock,1661,Lubbock Christian University,43%,TX
+Laredo,8455,Texas A & M International University,42.4%,TX
+Arlington,216,Arlington Baptist College,42.4%,TX
+Monaca,622,Penn State Beaver,42.7%,PA
+Portland,22858,Portland State University,42%,OR
+La Plume,1244,Keystone College,42.3%,PA
+Niles,129,ETI Technical College,42%,OH
+Toledo,16979,University of Toledo,42.2%,OH
+New York,1770,Marymount Manhattan College,43%,NY
+Wilson,1213,Barton College,42.1%,NC
+Bartlesville,902,Oklahoma Wesleyan University,42.1%,OK
+Ellendale,279,Trinity Bible College,42.3%,ND
+Orangeburg,1527,Dominican College of Blauvelt,42.6%,NY
+Elk River,135,Minnesota School of Business Elk River,43.5%,MN
+Billings,1058,Rocky Mountain College,42.7%,MT
+Montevallo,2625,University of Montevallo,44.5%,AL
+Russellville,9640,Arkansas Tech University,44.1%,AR
+Kansas City,5445,Grantham University,43.8%,KS
+Kenner,391,Herzing University Kenner,43.8%,LA
+Brooklyn,473,Talmudical Seminary of Bobov,43.9%,NY
+Bethany,559,Bethany College,43.6%,WV
+Nashville,57,American Baptist College,43.9%,TN
+Johnson City,13303,East Tennessee State University,43.2%,TN
+Lynchburg,141,Miller Motte Technical College Lynchburg,43.3%,VA
+Spartanburg,1042,Spartanburg Methodist College,43.6%,SC
+Wise,1814,The University of Virginia's College at Wise,43.6%,VA
+Bluefield,948,Bluefield College,43.6%,VA
+Conway,10473,Coastal Carolina University,43.9%,SC
+Schuylkill Haven,609,Penn State Schuylkill,43.9%,PA
+Scranton,38,Yeshivath Beth Moshe,43.8%,PA
+Cresson,2706,Mount Aloysius College,43.8%,PA
+Providence,6331,Rhode Island College,43.3%,RI
+Chicago,1934,Robert Morris University Illinois,43.5%,IL
+Americus,1611,South Georgia Technical College,43.4%,GA
+East Point,1666,Point University,43.6%,GA
+Memphis,255,Vatterott Career College Memphis Appling Farms,42.5%,TN
+Kissimmee,149,Johnson University Florida,43.9%,FL
+Redding,39,Shasta Bible College and Graduate School,43.5%,CA
+Montgomery,844,Huntingdon College,43.3%,AL
+Los Angeles,27513,California State University Los Angeles,43.3%,CA
+Indianapolis,308,Fortis College Indianapolis,42.6%,IN
+Cordova,272,L'Ecole Culinaire,42.2%,TN
+Milwaukee,23829,University of Wisconsin Milwaukee,42.1%,WI
+Blaine,181,Minnesota School of Business Blaine,42.3%,MN
+Cypress,6861,Trident University International,42%,CA
+Layton,97,Broadview University Layton,42.5%,UT
+Memphis,689,Vatterott Career College Memphis Dividend Drive,42.8%,TN
+Winter Park,732,Herzing University Winter Park,42.2%,FL
+Boca Raton,2649,Everglades University,42.9%,FL
+Milwaukee,1365,Cardinal Stritch University,42.2%,WI
+Chickasha,849,University of Science and Arts of Oklahoma,43.6%,OK
+Tiffin,1197,Heidelberg University,43.4%,OH
+Durham,7953,North Carolina Central University,43.9%,NC
+Utica,4242,Utica College,43%,NY
+Fayetteville,1916,Methodist University,35.2%,NC
+Buffalo,1814,Medaille College,43.5%,NY
+Buffalo,2619,D'Youville College,43.8%,NY
+Incline Village,631,Sierra Nevada University,43.6%,NV
+Saint Cloud,10774,Saint Cloud State University,43.5%,MN
+Adrian,1966,Siena Heights University,43.8%,MI
+Sault Ste Marie,1812,Lake Superior State University,43.1%,MI
+Boston,476,Benjamin Franklin Institute of Technology,43.6%,MA
+Waterville,1394,Thomas College,43.8%,ME
+Bowling Green,16750,Western Kentucky University,43%,KY
+Wichita,15394,Wichita State University,43.7%,KS
+Dubuque,2001,University of Dubuque,44.6%,IA
+Merrillville,178,Brown Mackie College Merrillville,44.3%,IN
+Hays,14102,Fort Hays State University,43.1%,KS
+Indianapolis,27690,Indiana University Purdue University Indianapolis,43.6%,IN
+Fort Kent,1517,University of Maine at Fort Kent,44.5%,ME
+Hillsboro,688,Tabor College,44.8%,KS
+Rockford,1231,Rockford University,43.3%,IL
+Chicago,231,Taylor Business Institute,44.2%,IL
+Carbondale,11266,Southern Illinois University Carbondale,44.7%,IL
+Orlando,43599,Valencia College,44.2%,FL
+Fort Lauderdale,20898,Nova Southeastern University,44.8%,FL
+Cocoa,12677,Eastern Florida State College,44.7%,FL
+Washington,1862,Trinity Washington University,44.3%,DC
+New London,526,Mitchell College,44%,CT
+Lakewood,8472,Colorado Christian University,44.8%,CO
+Burbank,1036,Woodbury University,44%,CA
+Angwin,829,Pacific Union College,44.9%,CA
+Arcata,5908,Humboldt State University,44.8%,CA
+Oakland,1015,Holy Names University,44.8%,CA
+Conway,10105,University of Central Arkansas,44.8%,AR
+Sacramento,32498,California State University Sacramento,44.9%,CA
+Cincinnati,348,Gods Bible School and College,44.6%,OH
+Valley City,1686,Valley City State University,44.4%,ND
+Bismarck,3549,Bismarck State College,44.1%,ND
+Charlotte,1166,Johnson C Smith University,44.4%,NC
+Greensboro,207,Bennett College for Women,44.7%,NC
+Paul Smiths,745,Paul Smiths College of Arts and Science,44%,NY
+Nyack,1863,Nyack College,44.5%,NY
+Brookville,15191,Long Island University C W Post Campus,44.5%,NY
+New York,15031,CUNY City College,44.2%,NY
+Bronxville,1129,Concordia College New York,44.4%,NY
+New York,423,Boricua College,44.7%,NY
+Las Cruces,13904,New Mexico State University Main Campus,44%,NM
+Manchester,664,University of New Hampshire at Manchester,44.5%,NH
+Rindge,1777,Franklin Pierce University,44.2%,NH
+Minneapolis,1382,Dunwoody College of Technology,44.8%,MN
+Rochester Hills,17170,Oakland University,44.8%,MI
+Franklin,1206,Dean College,44.1%,MA
+Poultney,701,Green Mountain College,44.5%,VT
+Snyder,1430,Western Texas College,44.9%,TX
+Arlington,45949,The University of Texas at Arlington,44.2%,TX
+Jackson,193,Antonelli College Jackson,44.8%,MS
+Athens,1086,Tennessee Wesleyan College,44.7%,TN
+Murfreesboro,21568,Middle Tennessee State University,45%,TN
+Stephenville,13995,Tarleton State University,44.3%,TX
+Aberdeen,3340,Northern State University,44.2%,SD
+Mitchell,926,Dakota Wesleyan University,44.3%,SD
+Wichita Falls,5797,Midwestern State University,44.6%,TX
+Memphis,21622,University of Memphis,44.6%,TN
+Pittsburgh,1235,La Roche College,44.6%,PA
+Mansfield,954,Ohio State University Mansfield Campus,44.4%,OH
+Philadelphia,117,Talmudical Yeshiva of Philadelphia,44.4%,PA
+Columbus,1335,Ohio Dominican University,44.1%,OH
+Dunmore,992,Penn State Worthington Scranton,44.6%,PA
+Marion,1047,Ohio State University Marion Campus,44%,OH
+Baltimore,449,Ner Israel Rabbinical College,43.8%,MD
+Edinboro,4043,Edinboro University of Pennsylvania,44.2%,PA
+Kettering,811,Kettering College,44.2%,OH
+North Mankato,2511,South Central College,24.6%,MN
+Pine City,1766,Pine Technical College,24.8%,MN
+Poplarville,4986,Pearl River Community College,24%,MS
+Columbia,621,Allen University,24.3%,SC
+Frederick,5389,Frederick Community College,24.8%,MD
+Visalia,11928,College of the Sequoias,25.5%,CA
+Mount Pleasant,2823,Northeast Texas Community College,18.2%,TX
+Hillsboro,3826,Hill College,18.6%,TX
+Blountville,5205,Northeast State Community College,18.7%,TN
+Alvin,4965,Alvin Community College,18.2%,TX
+Ranger,2249,Ranger College,18.6%,TX
+Melfa,637,Eastern Shore Community College,18.5%,VA
+Harriman,4775,Roane State Community College,18.6%,TN
+Lawrenceville,8004,Gwinnett Technical College,19.4%,GA
+Westminster,18537,Front Range Community College,19.7%,CO
+Littleton,11897,Arapahoe Community College,19.1%,CO
+Whittier,15593,Rio Hondo College,19.8%,CA
+Susanville,1610,Lassen Community College,19.5%,CA
+Jacksonville,2871,Edward Waters College,19.7%,FL
+Waco,6200,West Georgia Technical College,19.3%,GA
+Norwalk,18656,Cerritos College,19.7%,CA
+Forrest City,1056,East Arkansas Community College,19%,AR
+Phoenix,3597,South Mountain Community College,19.1%,AZ
+Traverse City,3296,Northwestern Michigan College,18.4%,MI
+Danvers,4603,North Shore Community College,18.5%,MA
+Roseville,135,National American University Roseville,18.6%,MN
+Quincy,2722,Quincy College,18.7%,MA
+Weatherford,5421,Weatherford College,15.4%,TX
+Victoria,3210,Victoria College,15.4%,TX
+Cisco,3105,Cisco College,15.3%,TX
+Orange,2353,Lamar State College Orange,15.7%,TX
+Gardner,3156,Mount Wachusett Community College,18.1%,MA
+Moline,3736,Black Hawk College,23.9%,IL
+Brooklyn,14277,CUNY New York City College of Technology,15.2%,NY
+Amarillo,9179,Amarillo College,15.5%,TX
+Buffalo,749,Bryant and Stratton College Buffalo,15.8%,NY
+Hawkins,721,Jarvis Christian College,15.7%,TX
+Bronx,5441,CUNY Hostos Community College,15.8%,NY
+Columbia,8080,Howard Community College,15.5%,MD
+Crownpoint,1301,Navajo Technical College,15.6%,NM
+Mays Landing,4373,Atlantic Cape Community College,16%,NJ
+Concord,1692,Granite State College,15.5%,NH
+Browning,297,Blackfeet Community College,15.4%,MT
+Bedford,7134,Middlesex Community College,15.5%,MA
+Brockton,5482,Massasoit Community College,15.5%,MA
+Dalton,4525,Dalton State College,15.6%,GA
+Chicago,4749,City Colleges of Chicago Harry S Truman College,15.3%,IL
+Chicago,4545,City Colleges of Chicago Richard J Daley College,15.8%,IL
+Overland Park,16643,Johnson County Community College,15.3%,KS
+Kaneohe,2386,Windward Community College,15.2%,HI
+Griffin,4996,Southern Crescent Technical College,15.2%,GA
+Chicago,88,Telshe Yeshiva Chicago,15.2%,IL
+Thomasville,1388,Thomas University,23.3%,GA
+Marysville,5243,Yuba College,23.2%,CA
+Marietta,2787,Life University,23.3%,GA
+Oxnard,6438,Oxnard College,23.6%,CA
+Colorado Springs,11845,Pikes Peak Community College,15.1%,CO
+Los Angeles,9822,Los Angeles Trade Technical College,23.3%,CA
+San Jose,7326,San Jose City College,23.9%,CA
+El Cajon,7809,Cuyamaca College,23.2%,CA
+Long Beach,21500,Long Beach City College,23.5%,CA
+Melbourne,1007,Ozarka College,23.7%,AR
+El Cajon,13023,Grossmont College,23.5%,CA
+Helena,1289,Phillips Community College of the University of Arkansas,23.2%,AR
+Malvern,1597,College of the Ouachitas,23.8%,AR
+Hot Springs,1919,National Park Community College,23.9%,AR
+Gulfport,10,Miller Motte Technical College Gulfport,22.4%,MS
+Memphis,613,Le Moyne Owen College,15.7%,TN
+Selma,30,Selma University,23.1%,AL
+Andalusia,1816,Lurleen B Wallace Community College,23.1%,AL
+Wauwatosa,1229,Bryant and Stratton College Wauwatosa,22.8%,WI
+Sumter,1419,University of South Carolina Sumter,15.2%,SC
+Titusville,33,University of Pittsburgh Titusville,15.2%,PA
+Wentworth,1867,Rockingham Community College,15.7%,NC
+Saint Clairsville,803,Belmont Technical College,15.8%,OH
+Fort Totten,248,Cankdeska Cikana Community College,15.5%,ND
+Mansfield,2582,North Central State College,15.5%,OH
+Portland,21029,Portland Community College,15%,OR
+Raleigh,21299,Wake Technical Community College,15.1%,NC
+Kinston,2348,Lenoir Community College,15%,NC
+Porterville,3623,Porterville College,25.6%,CA
+North East,1783,Cecil College,16.8%,MD
+Morehead City,1535,Carteret Community College,15.5%,NC
+Cuthbert,272,Andrew College,16.1%,GA
+South Portland,5435,Southern Maine Community College,16.3%,ME
+Des Plaines,7433,Oakton Community College,16.9%,IL
+Dublin,1016,Bladen Community College,15.3%,NC
+Honolulu,3210,Honolulu Community College,16.5%,HI
+Victorville,9967,Victor Valley College,16.3%,CA
+Middletown,1988,Middlesex Community College,16.5%,CT
+Redwood City,4845,Canada College,16%,CA
+Kingman,3793,Mohave Community College,16%,AZ
+El Dorado,1132,South Arkansas Community College,16.2%,AR
+Paragould,197,Crowley's Ridge College,16.8%,AR
+Yuma,8081,Arizona Western College,16.4%,AZ
+Salem,991,Salem International University,15.8%,WV
+Winnebago,165,Little Priest Tribal College,15.2%,NE
+Chester,8558,John Tyler Community College,15.3%,VA
+Charlotte,136,New Life Theological Seminary,15.6%,NC
+Schnecksville,6324,Lehigh Carbon Community College,16.4%,PA
+Wadley,4069,Southern Union State Community College,15.6%,AL
+Media,8706,Delaware County Community College,16.1%,PA
+Warren,2068,Kent State University at Trumbull,16.4%,OH
+Toledo,106,Davis College,16.3%,OH
+Wilson,1709,Wilson Community College,16.2%,NC
+Clinton,1556,Sampson Community College,16.9%,NC
+Hickory,4168,Catawba Valley Community College,16.3%,NC
+Asheboro,2289,Randolph Community College,16.4%,NC
+Shelby,2425,Cleveland Community College,16.8%,NC
+Morristown,228,Rabbinical College of America,16%,NJ
+Brooklyn,394,Talmudical Seminary Oholei Torah,16.4%,NY
+Great Falls,1185,Great Falls College MSU,16.6%,MT
+Lees Summit,13874,Metropolitan Community College Longview,17%,MO
+Raymond,10802,Hinds Community College,16.4%,MS
+La Plata,5660,College of Southern Maryland,16.9%,MD
+Los Angeles,12747,Los Angeles City College,17.8%,CA
+Fresno,20435,Fresno City College,17.2%,CA
+Rockville,17284,Montgomery College,16.1%,MD
+Ann Arbor,10884,Washtenaw Community College,16.2%,MI
+Worcester,6916,Quinsigamond Community College,16.3%,MA
+Alexander City,1578,Central Alabama Community College,17.2%,AL
+Beaumont,4487,Lamar Institute of Technology,16.2%,TX
+Falls Church,1397,Stratford University,16.6%,VA
+Scottsdale,7320,Scottsdale Community College,17.5%,AZ
+Little Rock,414,Arkansas Baptist College,17.7%,AR
+Coolidge,4841,Central Arizona College,17.6%,AZ
+Dothan,3899,George C Wallace State Community College Dothan,17.2%,AL
+Hampton,5832,Thomas Nelson Community College,16.3%,VA
+Wharton,5479,Wharton County Junior College,16.3%,TX
+Montpelier,5541,Community College of Vermont,16.2%,VT
+Houston,15077,University of Houston Downtown,16.2%,TX
+Lake Jackson,3916,Brazosport College,16.2%,TX
+Pasadena,31577,San Jacinto Community College,16.9%,TX
+Corsicana,6565,Navarro College,16.4%,TX
+Greenwood,4491,Piedmont Technical College,16.9%,SC
+Knoxville,8835,Pellissippi State Community College,16.1%,TN
+Butte,656,Montana Tech College of Technology,18%,MT
+Manchester,2133,Manchester Community College,17.6%,NH
+Las Vegas,2645,New Mexico Highlands University,17.5%,NM
+West Barnstable,2510,Cape Cod Community College,17.8%,MA
+Muskegon,3699,Muskegon Community College,17.5%,MI
+Pittsfield,1453,Berkshire Community College,17.7%,MA
+Baltimore,2101,Coppin State University,17.6%,MD
+Wye Mills,1738,Chesapeake College,17%,MD
+Glen Ellyn,20849,College of DuPage,17.7%,IL
+Donaldson,344,Ancilla College,17%,IN
+Champaign,5394,Parkland College,17.5%,IL
+Lexington,9750,Bluegrass Community and Technical College,17.4%,KY
+Mount Vernon,893,Brewton Parker College,17.5%,GA
+Culver City,9481,West Los Angeles College,17.9%,CA
+Manchester,4494,Manchester Community College,17.1%,CT
+Danielson,1118,Quinebaug Valley Community College,17.6%,CT
+Sylmar,8840,Los Angeles Mission College,17.5%,CA
+Joshua Tree,1353,Copper Mountain Community College,17.1%,CA
+Houston,7524,Texas Southern University,17.2%,TX
+Huntington,151,Huntington Junior College,17.7%,WV
+Texas City,4133,College of the Mainland,17.6%,TX
+San Antonio,10559,Palo Alto College,17.7%,TX
+Tyler,11913,Tyler Junior College,17.8%,TX
+Levelland,8930,South Plains College,17.8%,TX
+Beeville,3927,Coastal Bend College,17.6%,TX
+Rapid City,1204,National American University Rapid City,17.5%,SD
+Gallatin,7417,Volunteer State Community College,17.6%,TN
+Ontario,1417,Treasure Valley Community College,17.5%,OR
+Bryn Mawr,996,Harcum College,17%,PA
+Conway,6416,Horry Georgetown Technical College,17.1%,SC
+New York,19336,CUNY Borough of Manhattan Community College,17.1%,NY
+Schenectady,3705,Schenectady County Community College,17%,NY
+Pendleton,1224,Blue Mountain Community College,17.9%,OR
+Mount Kisco,204,Yeshiva of Nitra Rabbinical College,17.9%,NY
+Arnold,10630,Anne Arundel Community College,18.1%,MD
+Espanola,1136,Northern New Mexico College,17.2%,NM
+Honolulu,6100,Kapiolani Community College,17.8%,HI
+Berkeley,5534,Berkeley City College,18.7%,CA
+Denver,123,College America Denver,18.1%,CO
+San Bruno,7776,Skyline College,18.7%,CA
+Southington,465,Lincoln College of New England Southington,18.4%,CT
+San Mateo,6894,College of San Mateo,19%,CA
+Alameda,4983,College of Alameda,18.9%,CA
+Columbia,1,University of Phoenix Maryland Campus,17%,MD
+Selma,1627,George C Wallace State Community College Selma,18.8%,AL
+McAllen,28962,South Texas College,17.6%,TX
+Jasper,3371,Bevill State Community College,18.4%,AL
+Oakland,628,SUM Bible College and Theological Seminary,18.7%,CA
+Tigard,19,University of Phoenix Oregon Campus,17%,OR
+Pine Bluff,997,Southeast Arkansas College,18.2%,AR
+Tukwila,11,University of Phoenix Western Washington Campus,18.2%,WA
+Tifton,3814,Abraham Baldwin Agricultural College,17%,GA
+The Dalles,644,Columbia Gorge Community College,18.9%,OR
+Monsey,77,Yeshiva D'monsey Rabbinical College,18.5%,NY
+Sorrento,2401,River Parishes Community College,18.8%,LA
+Phoenix,5965,Paradise Valley Community College,18.9%,AZ
+Cottleville,5705,St Charles Community College,18.1%,MO
+Brooklyn,672,Central Yeshiva Tomchei Tmimim Lubavitz,19.4%,NY
+Helena,1468,University of Montana Helena College of Technology,19.5%,MT
+Carson City,3528,Western Nevada College,19.3%,NV
+Poplar Bluff,2689,Three Rivers Community College,19.1%,MO
+Saint Paul,5083,Saint Paul College A Community and Technical College,19.8%,MN
+Inver Grove Heights,3729,Inver Hills Community College,20%,MN
+Coon Rapids,7951,Anoka Ramsey Community College,19.7%,MN
+Port Huron,3231,St Clair County Community College,19%,MI
+Elizabeth City,2355,College of the Albemarle,19.4%,NC
+Roscommon,1458,Kirtland Community College,19%,MI
+Madisonville,253,Hiwassee College,18.6%,TN
+Livonia,8330,Schoolcraft College,19.1%,MI
+Haverhill,4770,Northern Essex Community College,19.3%,MA
+Lancaster,1809,University of South Carolina Lancaster,18.8%,SC
+Blue Bell,8996,Montgomery County Community College Central Campus,18.3%,PA
+Nanticoke,4187,Luzerne County Community College,19%,PA
+Albany,4190,Linn Benton Community College,18%,OR
+Goldsboro,2815,Wayne Community College,18.3%,NC
+Salem,1566,Kent State University at Salem,18%,OH
+Piqua,4435,Edison State Community College,18.1%,OH
+Dunn,30,Heritage Bible College,18.4%,NC
+Long Island City,14919,CUNY LaGuardia Community College,18%,NY
+Union,2657,East Central College,18%,MO
+Fall River,5977,Bristol Community College,20%,MA
+Toppenish,898,Heritage University,18.4%,WA
+Twin Falls,7927,College of Southern Idaho,19.1%,ID
+Council Bluffs,5684,Iowa Western Community College,19.5%,IA
+Augusta,251,Paine College,20%,GA
+Atlanta,608,Herzing University Atlanta,19.4%,GA
+Marshall,665,Wiley College,19.4%,TX
+Midland,5016,Midland College,19.6%,TX
+Waco,7337,McLennan Community College,19.8%,TX
+Kilgore,5120,Kilgore College,19.8%,TX
+Big Spring,4050,Howard College,19.5%,TX
+Morristown,5379,Walters State Community College,19.7%,TN
+Denison,4410,Grayson County College,19.4%,TX
+Mission,781,Sinte Gleska University,19.8%,SD
+Columbia,5383,Columbia State Community College,19.7%,TN
+Pendleton,5617,Tri County Technical College,19.9%,SC
+Roseburg,1943,Umpqua Community College,19.5%,OR
+Bethlehem,7843,Northampton County Area Community College,19.2%,PA
+Goodwell,1294,Oklahoma Panhandle State University,19.3%,OK
+Lima,3402,James A Rhodes State College,19.6%,OH
+Nelsonville,2353,Hocking College,19.2%,OH
+Belcourt,472,Turtle Mountain Community College,19.7%,ND
+Marshalltown,1754,Marshalltown Community College,20.5%,IA
+Clyde,1318,Haywood Community College,19.8%,NC
+Cicero,3850,Morton College,20.5%,IL
+Roxboro,1187,Piedmont Community College,19.9%,NC
+Grayslake,12117,College of Lake County,20.9%,IL
+Pueblo,5938,Pueblo Community College,20.8%,CO
+Coeur d'Alene,4579,North Idaho College,20.9%,ID
+Merced,9282,Merced College,20.4%,CA
+Redding,7075,Shasta College,20.7%,CA
+Fountain Valley,6792,Coastline Community College,20.7%,CA
+Fairfield,1520,Miles College,20.2%,AL
+Juneau,1997,University of Alaska Southeast,20.2%,AK
+Klamath Falls,1245,Klamath Community College,19.3%,OR
+Cheyenne,45,College America Cheyenne,19.9%,WY
+Albuquerque,13,University of Phoenix Albuquerque Campus,19.6%,NM
+Franklin,1239,Paul D Camp Community College,19.5%,VA
+Dublin,3903,New River Community College,19.8%,VA
+Montgomery,1619,West Virginia University Institute of Technology,19.3%,WV
+Las Vegas,821,Luna Community College,19.1%,NM
+Keyser,1174,Potomac State College of West Virginia University,19.3%,WV
+Middletown,5047,Orange County Community College,20.6%,NY
+Bayside,10989,CUNY Queensborough Community College,20%,NY
+Syracuse,7687,Onondaga Community College,20.7%,NY
+New York,67,Mesivtha Tifereth Jerusalem of America,20.8%,NY
+Silver City,3013,Western New Mexico University,20.7%,NM
+Crow Agency,270,Little Big Horn College,20.8%,MT
+Queensbury,2683,Adirondack Community College,20.6%,NY
+Santa Fe,161,Santa Fe University of Art and Design,20.9%,NM
+West Plains,1960,Missouri State University West Plains,20.2%,MO
+Kansas City,3514,Midwestern Baptist Theological Seminary,20.5%,MO
+Senatobia,6841,Northwest Mississippi Community College,20.6%,MS
+Bloomington,8842,Normandale Community College,20.6%,MN
+Springfield,4020,Springfield Technical Community College,20.6%,MA
+Escanaba,1958,Bay de Noc Community College,20.5%,MI
+Holyoke,3738,Holyoke Community College,20.4%,MA
+Washington,3230,Warren County Community College,20.9%,NJ
+Texarkana,3575,Texarkana College,20.7%,TX
+Jacksonville,477,Jacksonville College Main Campus,20.3%,TX
+Athens,5461,Trinity Valley Community College,20.8%,TX
+S Portland,503,Purdue Global Maine Campus,20.4%,ME
+Ashland,2479,Ashland Community and Technical College,20.5%,KY
+Frankfort,2279,Kentucky State University,20.9%,KY
+New Philadelphia,1986,Kent State University at Tuscarawas,20.7%,OH
+Bend,3735,Central Oregon Community College,20.8%,OR
+Oregon City,5206,Clackamas Community College,20.4%,OR
+Monaca,1735,Community College of Beaver County,20.4%,PA
+Cincinnati,249,Brown Mackie College Cincinnati,20.8%,OH
+Cheyney,642,Cheyney University of Pennsylvania,20.9%,PA
+Middletown,1492,Miami University Middletown,20.6%,OH
+Parma,619,Bryant and Stratton College Parma,20.3%,OH
+Wilberforce,6044,Central State University,20.5%,OH
+Morganton,1670,Western Piedmont Community College,20%,NC
+Jacksonville,3571,Coastal Carolina Community College,21%,NC
+Wilmington,13059,Cape Fear Community College,20.9%,NC
+Murphy,962,Tri County Community College,20.6%,NC
+Weldon,943,Halifax Community College,20%,NC
+Glendale,11398,Glendale Community College,21.4%,CA
+San Pablo,5631,Contra Costa College,21.9%,CA
+Sonora,2063,Columbia College,21.4%,CA
+Bakersfield,24479,Bakersfield College,21.7%,CA
+Douglas,3473,Cochise College,21.9%,AZ
+Pocahontas,1380,Black River Technical College,21.7%,AR
+Altus,1314,Western Oklahoma State College,21.8%,OK
+Wilburton,1334,Eastern Oklahoma State College,21.9%,OK
+Marietta,1842,Washington State Community College,21.3%,OH
+Hillsboro,1933,Southern State Community College,21.8%,OH
+Wickliffe,72,Rabbinical College Telshe,21.1%,OH
+Blue Ash,6133,University of Cincinnati Raymond Walters College,21.2%,OH
+Steubenville,45173,Eastern Gateway Community College,21.5%,OH
+Ironton,2451,Ohio University Southern Campus,21.2%,OH
+New York,446,Globe Institute of Technology,21.9%,NY
+Statesville,3289,Mitchell Community College,21.2%,NC
+Saratoga Springs,9462,SUNY Empire State College,21.5%,NY
+Louisburg,501,Louisburg College,21.6%,NC
+Albany,792,Maria College of Albany,21.6%,NY
+New York,1400,TCI College,21.9%,NY
+Paramus,10800,Bergen Community College,19.7%,NJ
+Garden City,12628,Nassau Community College,21.9%,NY
+Sidney,1507,Montcalm Community College,21.7%,MI
+Detroit,355,Marygrove College,21.8%,MI
+Rochester,4658,Rochester Community and Technical College,21%,MN
+Pemberton,6273,Burlington County College,21.4%,NJ
+Hopkinsville,2036,Hopkinsville Community College,21.5%,KY
+McHenry,578,Garrett College,21.1%,MD
+Kansas City,4877,Kansas City Kansas Community College,21.9%,KS
+Cumberland,2421,Allegany College of Maryland,21.4%,MD
+Harrison,1792,North Arkansas College,22.9%,AR
+Ankeny,20536,Des Moines Area Community College,21.3%,IA
+Iowa Falls,714,Ellsworth Community College,21.9%,IA
+Prescott,7550,Yavapai College,22.6%,AZ
+El Reno,1731,Redlands Community College,22.9%,OK
+Lawton,3470,Cameron University,22.6%,OK
+Akron,152,Brown Mackie College Akron,22.8%,OH
+Albemarle,2456,Stanly Community College,22.7%,NC
+Archbold,2777,Northwest State Community College,22.5%,OH
+New Town,187,Fort Berthold Community College,22.7%,ND
+Wilkesboro,2315,Wilkes Community College,23%,NC
+Dallas,4953,Gaston College,22.6%,NC
+Loch Sheldrake,1595,Sullivan County Community College,22.1%,NY
+Buffalo,8140,Erie Community College,22.3%,NY
+Chattanooga,327,Virginia College School of Business and Health,20%,TN
+Montgomery,5068,Auburn University at Montgomery,21.1%,AL
+Austin,511,Virginia College Austin,20.4%,TX
+Van Nuys,650,King's University,20%,TX
+Tuscaloosa,728,Stillman College,21.4%,AL
+Somerset,5014,Somerset Community College,25%,KY
+Greenville,285,Brown Mackie College Greenville,21%,SC
+Scottville,1004,West Shore Community College,21.1%,MI
+Keshena,191,College of Menominee Nation,20%,WI
+Eastlake,182,Bryant and Stratton College Eastlake,20.3%,OH
+Salt Lake City,34,University of Phoenix Utah Campus,20.7%,UT
+Selden,20549,Suffolk County Community College,20.5%,NY
+Wells,1381,York County Community College,20.7%,ME
+Lihue,1343,Kauai Community College,21.6%,HI
+Valdosta,3567,Wiregrass Georgia Technical College,21.9%,GA
+Atlanta,42,Bauder College,21.5%,GA
+Columbus,2927,Columbus Technical College,21.5%,GA
+Aurora,7839,Community College of Aurora,21.3%,CO
+Rome,6326,Georgia Northwestern Technical College,21.6%,GA
+Dover,917,Wesley College,21.4%,DE
+Modesto,14642,Modesto Junior College,21.3%,CA
+Springfield,10506,Ozarks Technical Community College,22.9%,MO
+Wilmington,6815,Los Angeles Harbor College,21.7%,CA
+Jefferson City,1794,Lincoln University,22.2%,MO
+Bel Air,4596,Harford Community College,22.2%,MD
+Dowagiac,1756,Southwestern Michigan College,22.5%,MI
+El Dorado,7008,Butler Community College,22.9%,KS
+Cedar Rapids,12604,Kirkwood Community College,22.7%,IA
+Sioux City,5451,Western Iowa Tech Community College,22.1%,IA
+Chicago,6440,Northeastern Illinois University,22%,IL
+Sacramento,18333,Sacramento City College,22.8%,CA
+Vincennes,16389,Vincennes University,22.9%,IN
+Chula Vista,15985,Southwestern College,22.5%,CA
+Blythe,4152,Palo Verde College,22.8%,CA
+San Jacinto,14035,Mt. San Jacinto Community College District,23%,CA
+Imperial,7225,Imperial Valley College,22.9%,CA
+Oakland,8168,Laney College,22.5%,CA
+Ukiah,3269,Mendocino College,22.4%,CA
+Ridgecrest,4862,Cerro Coso Community College,22.1%,CA
+Rancho Cucamonga,18688,Chaffey College,22.1%,CA
+Birmingham,143,Southeastern Bible College,22.4%,AL
+Glendale,425,Bryant and Stratton College Glendale,21.6%,WI
+San Antonio,16604,Northwest Vista College,21.7%,TX
+Moreno Valley,7694,Moreno Valley College,21.7%,CA
+Aurora,713,Colorado Technical University Greenwood Village,22%,CO
+W Bloomfield,996,Michigan Jewish Institute,21.7%,MI
+Hilo,2248,Hawaii Community College,21.3%,HI
+Woodland,3227,Woodland Community College,21.3%,CA
+Carthage,2469,Panola College,21.8%,TX
+Houston,272,Commonwealth Institute of Funeral Service,21.3%,TX
+Mount Vernon,3891,Skagit Valley College,21.2%,WA
+Virginia Beach,1245,Bryant and Stratton College Virginia Beach,21.9%,VA
+Port Arthur,2361,Lamar State College Port Arthur,21%,TX
+Tullahoma,5852,Motlow State Community College,21.2%,TN
+Laredo,9984,Laredo Community College,21.2%,TX
+Butler,2529,Butler County Community College,21%,PA
+Branchburg,6688,Raritan Valley Community College,22.3%,NJ
+Claremont,746,River Valley Community College,22.9%,NH
+Concord,2887,NHTI Concord's Community College,22.2%,NH
+Sewell,5667,Gloucester County College,22.2%,NJ
+Lincroft,9566,Brookdale Community College,22.8%,NJ
+Elko,3414,Great Basin College,22%,NV
+Sedalia,3785,State Fair Community College,22.1%,MO
+Lame Deer,135,Chief Dull Knife College,22.2%,MT
+Kansas City,149,National American University Zona Rosa,22.2%,MO
+Lawrenceville,10949,Georgia Gwinnett College,22.8%,GA
+Murray,104,Stevens Henager College Murray,22.4%,UT
+Bellingham,622,Northwest Indian College,22.1%,WA
+Bloomington,68,National American University Bloomington,22.4%,MN
+Cheyenne,3883,Laramie County Community College,22.5%,WY
+Madison,12152,Madison Area Technical College,22.4%,WI
+Yakima,3643,Yakima Valley Community College,22.2%,WA
+Madison,11486,University of Wisconsin Colleges,22.9%,WI
+Roanoke,5625,Virginia Western Community College,22.5%,VA
+Spokane,3805,Spokane Falls Community College,22.1%,WA
+Charlottesville,4997,Piedmont Virginia Community College,22.7%,VA
+Annandale,49560,Northern Virginia Community College,22.8%,VA
+Astoria,741,Clatsop Community College,22.2%,OR
+Houston,220,Vet Tech Institute of Houston,22.7%,TX
+Gresham,5893,Mt Hood Community College,22.5%,OR
+Union,1244,University of South Carolina Union,22.2%,SC
+Montgomery,10,Prince Institute of Professional Studies Inc,24.8%,IL
+Tonkawa,2997,Northern Oklahoma College,22.8%,OK
+Prestonsburg,2162,Big Sandy Community and Technical College,21%,KY
+Cloquet,1525,Fond du Lac Tribal and Community College,23%,MN
+Norco,8756,Norco College,23.5%,CA
+Puyallup,4453,Pierce College at Puyallup,23.2%,WA
+Springfield,184,Bryan University Springfield,23.9%,MO
+Brewton,746,Jefferson Davis Community College,24.3%,AL
+Honolulu,62,University of Phoenix Hawaii Campus,23.9%,HI
+Lafayette,5996,South Louisiana Community College,23.3%,LA
+Seattle,4698,Seattle Community College Central Campus,23.5%,WA
+Dayton,11,Miami Jacobs Career College Dayton,23.7%,OH
+Claremore,3182,Rogers State University,23.1%,OK
+Allendale,833,University of South Carolina Salkehatchie,23.3%,SC
+Galveston,1870,Galveston College,23%,TX
+North Chesterfield,741,Bryant and Stratton College Richmond,23.6%,VA
+Miami,1763,Northeastern Oklahoma A&M College,23.3%,OK
+Baytown,7159,Lee College,24%,TX
+Burton,2240,Kent State University at Geauga,24.1%,OH
+Tishomingo,2162,Murray State College,24.3%,OK
+Salisbury,890,Livingstone College,24.1%,NC
+Sanford,4871,Central Carolina Community College,24.7%,NC
+Asheville,6270,Asheville Buncombe Technical Community College,24.7%,NC
+Murfreesboro,981,Chowan University,24.7%,NC
+Batavia,6529,University of Cincinnati Clermont College,23.9%,OH
+Dryden,4563,Tompkins Cortland Community College,24.4%,NY
+Saranac Lake,1595,North Country Community College,24.2%,NY
+Carneys Point,889,Salem Community College,24.2%,NJ
+Brooklyn,14214,CUNY Kingsborough Community College,24.8%,NY
+Billings,4114,Montana State University Billings,24.5%,MT
+Vineland,2465,Cumberland County College,24.7%,NJ
+Moberly,4509,Moberly Area Community College,24.9%,MO
+Mount Pleasant,825,Iowa Wesleyan College,24.8%,IA
+Hillsboro,3680,Jefferson College,24.9%,MO
+Westville,6092,Purdue University North Central Campus,25%,IN
+Palos Hills,10578,Moraine Valley Community College,24.4%,IL
+Chicago,1903,City Colleges of Chicago Kennedy King College,24.3%,IL
+Galesburg,1687,Carl Sandburg College,24.9%,IL
+Orlando,1667,Florida Hospital College of Health Sciences,24%,FL
+Alamosa,3138,Adams State College,24.4%,CO
+Valley Glen,14018,Los Angeles Valley College,24.3%,CA
+Weed,1329,College of the Siskiyous,24.1%,CA
+San Diego,18028,San Diego Mesa College,24.4%,CA
+Kentfield,4213,College of Marin,24.7%,CA
+Denver,17678,Metropolitan State College of Denver,24.6%,CO
+Santa Ana,23936,Santa Ana College,24.9%,CA
+Reedley,6329,Reedley College,24.7%,CA
+Sacramento,13799,Cosumnes River College,25.9%,CA
+Blytheville,1457,Arkansas Northeastern College,25.2%,AR
+Fort Smith,5447,University of Arkansas Fort Smith,24.3%,AR
+Anchorage,10845,University of Alaska Anchorage,24.5%,AK
+San Jose,8085,Evergreen Valley College,24.5%,CA
+Montgomery,2874,Faulkner University,25.5%,AL
+Indianapolis,303,Brown Mackie College Indianapolis,24.7%,IN
+Kenosha,9311,Gateway Technical College,24.1%,WI
+Colorado Springs,22757,Colorado Technical University Online,24%,CO
+Johnstown,2345,Pennsylvania Highlands Community College,24.5%,PA
+Moreno Valley,406,Sage College,24.4%,CA
+Spokane,6890,Spokane Community College,24.6%,WA
+Vancouver,6921,Clark College,24.8%,WA
+Bellevue,11546,Bellevue College,24.8%,WA
+Alpine,2100,Sul Ross State University,24.2%,TX
+Uvalde,5875,Southwest Texas Junior College,25%,TX
+Paris,4365,Paris Junior College,24.4%,TX
+Knoxville,5796,South College,24.6%,TN
+Bluffton,2037,University of South Carolina Beaufort,24.4%,SC
+Sioux Falls,155,National American University Sioux Falls,24.5%,SD
+Gary,3460,Indiana University Northwest,25.9%,IN
+Hobbs,1889,New Mexico Junior College,25.1%,NM
+Goodman,4890,Holmes Community College,25.6%,MS
+Bangor,2076,Eastern Maine Community College,25.4%,ME
+Neosho,3989,Crowder College,25.6%,MO
+Auburn,3003,Central Maine Community College,25.9%,ME
+South Bend,4449,Indiana University South Bend,25.2%,IN
+East Peoria,7385,Illinois Central College,25.7%,IL
+Rockford,5494,Rock Valley College,25.2%,IL
+Lakewood,6035,Red Rocks Community College,25.4%,CO
+Glenwood Springs,5134,Colorado Mountain College,25.2%,CO
+Fort Wayne,8298,Indiana University Purdue University Fort Wayne,25.9%,IN
+Greeley,6940,Aims Community College,26%,CO
+Santa Clara,5910,Mission College,25%,CA
+Saint Martin,152,Chatfield College,23.7%,OH
+Palm Desert,10229,College of the Desert,25.5%,CA
+Troy,712,Montgomery Community College,23.9%,NC
+Bolivia,1649,Brunswick Community College,23.3%,NC
+Rochester,8721,Monroe Community College,23.3%,NY
+Nashua,1183,Nashua Community College,23.4%,NH
+Moorhead,2178,Mississippi Delta Community College,23.5%,MS
+Kalispell,2015,Flathead Valley Community College,23.7%,MT
+Clarksdale,1561,Coahoma Community College,23.7%,MS
+Anoka,1690,Anoka Technical College,23.9%,MN
+Henderson,1454,Henderson Community College,23.9%,KY
+Alexandria,3771,Louisiana State University Alexandria,23.1%,LA
+Chanute,1639,Neosho County Community College,23.2%,KS
+Palatine,12015,Harper College,23.8%,IL
+Hagerstown,3533,Hagerstown Community College,23.7%,MD
+Oglesby,2470,Illinois Valley Community College,23.9%,IL
+Chicago,67,Northwestern College,23%,IL
+Carterville,2954,John A Logan College,23.8%,IL
+Sugar Grove,7779,Waubonsee Community College,23.9%,IL
+Los Angeles,142,Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,25.6%,CA
+Gadsden,4308,Gadsden State Community College,15.7%,AL
+Washington,18,University of Phoenix Washington DC Campus,14.9%,DC
+Independence,29,University of Phoenix Cleveland Campus,14.2%,OH
+Phoenix,4673,GateWay Community College,15.3%,AZ
+Avondale,8516,Estrella Mountain Community College,14.8%,AZ
+Edison,93,Rabbi Jacob Joseph School,14.6%,NJ
+Big Spring,50,Southwest Collegiate Institute for the Deaf,14.3%,TX
+Brimley,502,Bay Mills Community College,14.6%,MI
+Pensacola,285,Virginia College Pensacola,14.3%,FL
+Milwaukee,152,Bryant and Stratton College Milwaukee,14.2%,WI
+Marion,1135,McDowell Technical Community College,14.1%,NC
+Warner,1890,Connors State College,14.7%,OK
+Bentonville,7037,NorthWest Arkansas Community College,14.7%,AR
+Graham,3789,Alamance Community College,14.3%,NC
+Oak Park,58,Yeshiva Gedolah of Greater Detroit,14.7%,MI
+Kenansville,1320,James Sprunt Community College,14.7%,NC
+Farmington,5307,San Juan College,14.5%,NM
+West Windsor,6205,Mercer County Community College,13.6%,NJ
+Omaha,13709,Metropolitan Community College Area,13.1%,NE
+White Bear Lake,7678,Century Community and Technical College,13.8%,MN
+Monroe,2475,Monroe County Community College,13.7%,MI
+Hudson,3550,Caldwell Community College and Technical Institute,14.5%,NC
+Brooklyn,49,Mesivta of Eastern Parkway Yeshiva Zichron Meilech,14.3%,NY
+Wheeling,1099,West Virginia Northern Community College,10%,WV
+Temple,4396,Temple College,9%,TX
+Compton,4236,El Camino College Compton Center,12.1%,CA
+Mount Pleasant,131,Saginaw Chippewa Tribal College,9.6%,MI
+Baton Rouge,7494,Baton Rouge Community College,9.8%,LA
+Irving,11512,North Lake College,9.3%,TX
+Mahnomen,123,White Earth Tribal and Community College,9.3%,MN
+The Woodlands,68653,Lone Star College,9.1%,TX
+Carlsbad,1361,New Mexico State University Carlsbad,7.7%,NM
+Williamston,856,Martin Community College,7.4%,NC
+Gallup,2005,University of New Mexico Gallup Campus,7.5%,NM
+Largo,10577,Prince George's Community College,7.4%,MD
+Saint Louis,1210,Harris Stowe State University,7.6%,MO
+Brooklyn,37,Yeshivat Mikdash Melech,7.1%,NY
+Adelphi,55323,University of Maryland University College,8%,MD
+Indianapolis,19,University of Phoenix Indianapolis Campus,6.3%,IN
+Dallas,11619,Mountain View College,6.3%,TX
+Cleveland,202,Bryant & Stratton College Cleveland,6.9%,OH
+Dallas,384,Paul Quinn College,6.4%,TX
+North Canton,10596,Stark State College,6.8%,OH
+Brooklyn,39,Torah Temimah Talmudical Seminary,7%,NY
+Baltimore,3864,Baltimore City Community College,6.3%,MD
+Cambridge,2451,Cambridge College,6%,MA
+Holbrook,2786,Northland Pioneer College,6.3%,AZ
+Belmar,66,Mesivta Keser Torah,5.4%,NJ
+Birmingham,8519,Jefferson State Community College,6.1%,AL
+Springdale,148,Ecclesia College,5.9%,AR
+Dallas,69171,Dallas College,5%,TX
+Brenham,17420,Blinn College,5.8%,TX
+Oklahoma City,4456,Oklahoma State University Oklahoma City,5.7%,OK
+Orrville,1575,University of Akron Wayne College,5.6%,OH
+Lumberton,1809,Robeson Community College,5.3%,NC
+Dearborn,11379,Henry Ford Community College,5.7%,MI
+Macy,409,Nebraska Indian Community College,5.8%,NE
+Boston,728,Boston Architectural College,5.1%,MA
+Swainsboro,2008,East Georgia College,5.6%,GA
+Memphis,7168,Southwest Tennessee Community College,4.8%,TN
+Los Angeles,1361,Bryan University,5.7%,CA
+Baraga,79,Keweenaw Bay Ojibwa Community College,2.9%,MI
+Lakewood,230,Yeshiva Toras Chaim,2.5%,NJ
+Tempe,15682,Rio Salado College,4.3%,AZ
+Toledo,90,Herzing University Toledo,3.3%,OH
+Brooklyn,155,Yeshivas Novominsk,2.5%,NY
+Phoenix,905,Western International University,2.8%,AZ
+Roxbury Crossing,1142,Roxbury Community College,8.7%,MA
+Indianapolis,231,Martin University,8.3%,IN
+Atlanta,60,Carver Bible College,8.9%,GA
+Rome,5240,Georgia Highlands College,8.4%,GA
+Chicago,6551,City Colleges of Chicago Malcolm X College,8.5%,IL
+New Haven,5703,Gateway Community College,8.6%,CT
+Miami Beach,52,Yeshivah Gedolah Rabbinical College,7.8%,FL
+Schaumburg,2,University of Phoenix Chicago Campus,7.4%,IL
+Hartford,2474,Capital Community College,8.6%,CT
+Mesquite,16769,Eastfield College,7.1%,TX
+Davenport,30512,Purdue Global Davenport Campus,23.3%,IA
+Decatur,15353,Perimeter College,7.4%,GA
+Lancaster,8030,Cedar Valley College,7.7%,TX
+Cleveland,17523,Cuyahoga Community College District,7.1%,OH
+Corpus Christi,10395,Del Mar College,7.9%,TX
+Greenville,9756,Greenville Technical College,9.2%,SC
+Rocky Mount,2874,Nash Community College,7.8%,NC
+Florence,2861,Florence Darlington Technical College,7.8%,SC
+Whiteville,1079,Southeastern Community College,7.8%,NC
+Beaufort,2046,Technical College of the Lowcountry,9.7%,SC
+Graniteville,1873,Aiken Technical College,9.9%,SC
+Fremont,2015,Terra State Community College,9.1%,OH
+Hamlet,2164,Richmond Community College,10%,NC
+Fort Yates,256,Sitting Bull College,9.3%,ND
+Fayetteville,9790,Fayetteville Technical Community College,9.2%,NC
+Brooklyn,75,Beth Hamedrash Shaarei Yosher Institute,9.1%,NY
+West Memphis,1077,Mid South Community College,11.2%,AR
+Grants,692,New Mexico State University Grants,9.6%,NM
+Bridgeport,3604,Housatonic Community College,11.9%,CT
+Farmington,3320,Tunxis Community College,11.9%,CT
+Denver,7091,Community College of Denver,11.6%,CO
+Oakland,6289,Merritt College,11.7%,CA
+Los Lunas,1883,University of New Mexico Valencia County Campus,9.2%,NM
+Independence,83,National American University Independence,10%,MO
+Tuscaloosa,4659,Shelton State Community College,12%,AL
+Birmingham,3094,Lawson State Community College Birmingham Campus,11.1%,AL
+Bay Minette,7048,James H Faulkner State Community College,11.5%,AL
+Birmingham,14,University of Phoenix Birmingham Campus,10%,AL
+Jersey City,11,University of Phoenix Jersey City Campus,10.6%,NJ
+San Antonio,12455,St Philip's College,10.7%,TX
+Dallas,20032,Richland College,10.7%,TX
+Sioux Falls,170,Kilian Community College,10.6%,SD
+Sumter,2640,Central Carolina Technical College,10.5%,SC
+Reading,4737,Reading Area Community College,10.9%,PA
+Charleston,11286,Trident Technical College,10.5%,SC
+Eugene,6807,Lane Community College,11%,OR
+Philadelphia,11647,Community College of Philadelphia,10.8%,PA
+Harrisburg,14023,Harrisburg Area Community College Harrisburg,10.3%,PA
+Perrysburg,7516,Owens Community College,10.3%,OH
+Huron,1940,Bowling Green State University Firelands,10.5%,OH
+Alamogordo,946,New Mexico State University Alamogordo,10.3%,NM
+Brooklyn,6,Beth Hatalmud Rabbinical College,10%,NY
+Las Cruces,6454,New Mexico State University Dona Ana,10.8%,NM
+Durham,4119,Durham Technical Community College,10.7%,NC
+Dayton,18544,Sinclair Community College,10.9%,OH
+Saint Louis,14910,Saint Louis Community College,10.1%,MO
+Chalmette,2109,Nunez Community College,10.6%,LA
+Bainbridge,1746,Bainbridge College,10.5%,GA
+Atlanta,1605,Atlanta Metropolitan College,11%,GA
+North Little Rock,4418,Pulaski Technical College,11%,AR
+Boston,9290,Bunker Hill Community College,10.4%,MA
+Bossier City,5727,Bossier Parish Community College,10.6%,LA
+Enterprise,1796,Enterprise State Community College,10.3%,AL
+Overland Park,254,National American University Overland Park,9.7%,KS
+Jersey City,6776,Hudson County Community College,9.3%,NJ
+Poplar,564,Fort Peck Community College,9.7%,MT
+Newark,6029,Essex County College,9.1%,NJ
+Detroit,12749,Wayne County Community College District,9.6%,MI
+Petoskey,1645,North Central Michigan College,9.5%,MI
+Skokie,170,Hebrew Theological College,9.3%,IL
+Indianapolis,86100,Ivy Tech Community College Central Indiana,9.5%,IN
+Chicago,487,East West University,9.2%,IL
+Marietta,8980,Chattahoochee Technical College,9.1%,GA
+Chicago,1831,City Colleges of Chicago Olive Harvey College,9.9%,IL
+Norwalk,4106,Norwalk Community College,9.1%,CT
+Eureka,3686,College of the Redwoods,9.2%,CA
+Tsaile,1315,Dine College,9.7%,AZ
+Barstow,2341,Barstow Community College,9%,CA
+Mobile,2479,Bishop State Community College,9.8%,AL
+Brookfield,11,University of Phoenix Milwaukee Campus,8.7%,WI
+Baltimore,16126,The Community College of Baltimore County,8.1%,MD
+Braintree,4,University of Phoenix Boston Campus,8.4%,MA
+North Charleston,388,Virginia College in Charleston,8.2%,SC
+Flagstaff,2929,Coconino Community College,8.4%,AZ
+Ruidoso,602,Eastern New Mexico University Ruidoso Campus,8.6%,NM
+Killeen,8922,Central Texas College,8.4%,TX
+Austin,35609,Austin Community College District,8.2%,TX
+Kingstree,530,Williamsburg Technical College,8.8%,SC
+Langston,1960,Langston University,8.2%,OK
+West Columbia,8702,Midlands Technical College,8.3%,SC
+Ahoskie,624,Roanoke Chowan Community College,8.7%,NC
+Columbus,6815,Franklin University,9%,OH
+Spindale,1913,Isothermal Community College,8.8%,NC
+Washington,1627,Beaufort County Community College,8.4%,NC
+Ranchos de Taos,1244,University of New Mexico Taos Campus,8.8%,NM
+Brooklyn,146,Mirrer Yeshiva Cent Institute,8.2%,NY
+Tarboro,1508,Edgecombe Community College,8.4%,NC
+Los Alamos,845,University of New Mexico Los Alamos Campus,8.2%,NM
+Las Vegas,29942,College of Southern Nevada,8.2%,NV
+Pittsburgh,11977,Community College of Allegheny County,11.2%,PA
+Kirtland,4786,Lakeland Community College,11.9%,OH
+Ashtabula,1859,Kent State University at Ashtabula,11.1%,OH
+Bloomfield Hills,13963,Oakland Community College,8.4%,MI
+Newark,2636,Central Ohio Technical College,11.5%,OH
+Winterville,7346,Pitt Community College,11%,NC
+Polkton,2967,South Piedmont Community College,11.2%,NC
+Brooklyn,4134,CUNY Medgar Evers College,11.5%,NY
+Charlotte,17208,Central Piedmont Community College,11.8%,NC
+Warren,16762,Macomb Community College,11.2%,MI
+Paterson,5076,Passaic County Community College,11.5%,NJ
+Lansing,10303,Lansing Community College,11%,MI
+Farmers Branch,13726,Brookhaven College,9.1%,TX
+Portsmouth,1544,Great Bay Community College,11.3%,NH
+Kahului,2724,University of Hawaii Maui College,11%,HI
+New Orleans,12139,Delgado Community College,11.3%,LA
+River Grove,9048,Triton College,11.4%,IL
+Barnesville,3101,Gordon College,11.8%,GA
+Albany,4120,Darton College,11.8%,GA
+Phoenix,99,American Indian College of the Assemblies of God Inc,12.5%,AZ
+Kalamazoo,6966,Kalamazoo Valley Community College,11.2%,MI
+Beckley,1042,New River Community and Technical College,11.5%,WV
+Muscle Shoals,3371,Northwest Shoals Community College Muscle Shoals,12.3%,AL
+Huntsville,872,J F Drake State Technical College,12.5%,AL
+Columbia,11,University of Phoenix Columbia Campus,11.7%,SC
+Louisville,18,University of Phoenix Louisville Campus,11%,KY
+Riverdale,88,Yeshiva of the Telshe Alumni,11.9%,NY
+Birmingham,2108,Virginia College Birmingham,11.2%,AL
+Seattle,779,Antioch University Seattle,11.7%,WA
+McKinney,33686,Collin County Community College District,11.9%,TX
+Fort Worth,36264,Tarrant County College District,11.2%,TX
+Nashville,6647,Nashville State Community College,11.4%,TN
+Jackson,3938,Jackson State Community College,11.7%,TN
+Chattanooga,6575,Chattanooga State Community College,11.4%,TN
+Rock Hill,3835,York Technical College,11.1%,SC
+Orangeburg,2145,Orangeburg Calhoun Technical College,11.4%,SC
+Meridian,5,University of Phoenix Idaho Campus,12.4%,ID
+Milwaukee,11828,Milwaukee Area Technical College,12.5%,WI
+Mount Gay,1439,Southern West Virginia Community and Technical College,12%,WV
+Brooklyn Center,125,National American University Brooklyn Center,12.8%,MN
+Fairmont,1596,Pierpont Community and Technical College,12.2%,WV
+Newport,427,Oregon Coast Community College,13%,OR
+Houston,46780,Houston Community College,12.2%,TX
+Dyersburg,2778,Dyersburg State Community College,12.3%,TN
+Lufkin,4272,Angelina College,12.1%,TX
+San Antonio,17677,San Antonio College,12.4%,TX
+Kyle,1451,Oglala Lakota College,12.5%,SD
+Cheraw,1717,Northeastern Technical College,12.9%,SC
+Sisseton,140,Sisseton Wahpeton College,12.7%,SD
+Youngwood,4182,Westmoreland County Community College,12.7%,PA
+Grants Pass,3438,Rogue Community College,12.9%,OR
+Warwick,11962,Community College of Rhode Island,12.8%,RI
+Muskogee,266,Bacone College,12.2%,OK
+University Center,7054,Delta College,13.4%,MI
+Flint,6245,Mott Community College,13%,MI
+Oklahoma City,11388,Oklahoma City Community College,12.1%,OK
+Eunice,3023,Louisiana State University Eunice,13.4%,LA
+Houma,1762,L E Fletcher Technical Community College,13.9%,LA
+New Orleans,2106,Southern University at New Orleans,13.3%,LA
+Hobart,117,College of Court Reporting Inc,13.8%,IN
+Joliet,11551,Joliet Junior College,13.4%,IL
+Waterbury,4673,Naugatuck Valley Community College,13.7%,CT
+Winsted,1128,Northwestern Connecticut Community College,13.4%,CT
+Marion,2662,Marion Technical College,12.8%,OH
+Los Angeles,4565,Los Angeles Southwest College,13.4%,CA
+Martinsburg,4060,Blue Ridge Community and Technical College,12.4%,WV
+Mesa,16494,Mesa Community College,13.7%,AZ
+Phenix City,1360,Chattahoochee Valley Community College,13.8%,AL
+Huntington,1127,Mountwest Community and Technical College,12.7%,WV
+East Liverpool,1021,Kent State University at East Liverpool,12.9%,OH
+Columbus,25102,Columbus State Community College,12.3%,OH
+Springfield,5042,Clark State Community College,12.8%,OH
+Hobbs,1064,University of the Southwest,12.8%,NM
+Brooklyn,142,Yeshiva Derech Chaim,12.5%,NY
+Jamestown,9960,Guilford Technical Community College,12.3%,NC
+Long Beach,157,Rabbinical College of Long Island,12.5%,NY
+Blackwood,7658,Camden County College,12.9%,NJ
+Shreveport,2745,Southern University at Shreveport,12.1%,LA
+Manchester,751,Hesser College,13%,NH
+Harrison,3297,Mid Michigan Community College,12%,MI
+Battle Creek,3453,Kellogg Community College,12%,MI
+Jackson,4103,Jackson Community College,12.2%,MI
+Flint,4969,Baker College of Flint,12.8%,MI
+Augusta,4422,University of Maine at Augusta,12.5%,ME
+Louisville,11811,Jefferson Community and Technical College,12.9%,KY
+El Paso,24621,El Paso Community College,13.1%,TX
+Salt Lake City,27225,Salt Lake Community College,13.7%,UT
+Tyler,731,Texas College,13.5%,TX
+Kansas City,345,Donnelly College,12.6%,KS
+Denmark,612,Denmark Technical College,13.5%,SC
+Henderson,7227,Nevada State College,13.9%,NV
+Elyria,9520,Lorain County Community College,13.9%,OH
+Pinehurst,3986,Sandhills Community College,13.4%,NC
+Cincinnati,8140,Cincinnati State Technical and Community College,13.4%,OH
+Midwest City,6851,Rose State College,13.9%,OK
+Salem,7492,Chemeketa Community College,13.9%,OR
+Salisbury,6716,Rowan Cabarrus Community College,13.3%,NC
+Tulsa,14428,Tulsa Community College,13.6%,OK
+Bronx,7265,CUNY Bronx Community College,13.1%,NY
+Cranford,7930,Union County College,13%,NJ
+Chicago,7236,City Colleges of Chicago Wilbur Wright College,14.6%,IL
+Valhalla,9121,SUNY Westchester Community College,13.3%,NY
+New Bern,2713,Craven Community College,13%,NC
+Winston Salem,7774,Forsyth Technical Community College,13.6%,NC
+Santa Fe,3266,Santa Fe Community College,13.7%,NM
+Chicago,5750,City Colleges of Chicago Harold Washington College,14.9%,IL
+Pearl City,6413,Leeward Community College,14.8%,HI
+Chicago,2366,Chicago State University,14.3%,IL
+Brunswick,3232,College of Coastal Georgia,14.5%,GA
+Atlanta,410,Beulah Heights University,14.4%,GA
+Dover,12402,Delaware Technical and Community College Terry,14.4%,DE
+Washington,3476,University of the District of Columbia,14.4%,DC
+Norwich,3019,Three Rivers Community College,14.3%,CT
+San Diego,12956,San Diego City College,14.7%,CA
+Phoenix,9050,Phoenix College,14.4%,AZ
+Glendale,13882,Glendale Community College,14.7%,AZ
+Tanner,8702,John C Calhoun State Community College,14.1%,AL
+Selma,389,Concordia College Selma,14.6%,AL
+Lakewood,117,Bais Medrash Toras Chesed,13.5%,NJ
+Harrisburg,3206,Harrisburg University of Science and Technology,13.2%,PA
+Norwalk,2,University of Phoenix Fairfield County Campus,13.3%,CT
+Albuquerque,18563,Central New Mexico Community College,14.6%,NM
+Far Rockaway,170,Beis Medrash Heichal Dovid,13.5%,NY
+Brooklyn Park,5173,North Hennepin Community College,14.1%,MN
+Tucson,15000,Pima Community College,12.4%,AZ
+Minneapolis,5973,Minneapolis Community and Technical College,14%,MN
+Edison,9477,Middlesex County College,14.7%,NJ
+Salisbury,2434,Wor Wic Community College,14.1%,MD
+Wellesley Hills,3423,Massachusetts Bay Community College,14.3%,MA
+Chicago Heights,2618,Prairie State College,14.5%,IL
+Parsons,1453,Labette Community College,14.3%,KS
+Benton Harbor,2729,Lake Michigan College,14.2%,MI
+Grand Rapids,12642,Grand Rapids Community College,14%,MI
+Norfolk,16797,Tidewater Community College,14.6%,VA
+Cleveland,3161,Cleveland State Community College,14.3%,TN
+Gainesville,7653,North Central Texas College,14.5%,TX
+Newtown,6223,Bucks County Community College,14.5%,PA
+Spartanburg,6097,Spartanburg Community College,14%,SC
+Richmond,7252,J Sargeant Reynolds Community College,14.8%,VA
+Chicago,258,MacCormac College,14.9%,IL

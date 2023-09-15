@@ -1,0 +1,501 @@
+age,body,colour,fuel,location,make,milage,model,price,transmission
+9.1115674196,Hatchback,White,Petrol,Northampton,SUZUKI,35529,ALTO HATCHBACK 1.0 SZ 5dr,5800,Manual
+9.3278576318,Hatchback,White,Petrol,Wakefield,FORD,59852,FIESTA HATCHBACK 1.0 EcoBoost Zetec 3dr,6450,Manual
+6.726899384,Hatchback,Red,Petrol,Wakefield,PEUGEOT,40536,108 HATCHBACK 1.0 Active 5dr,7150,Manual
+7.8494182067,Hatchback,Black,Petrol,Doncaster,FIAT,47464,500 HATCHBACK 1.2 S 3dr,7150,Manual
+7.2306639288,Hatchback,Red,Petrol,Bristol,SKODA,26687,CITIGO HATCHBACK 1.0 MPI SE 3dr,7300,Manual
+6.3134839151,Hatchback,Black,Petrol,Warrington,RENAULT,31173,TWINGO HATCHBACK 1.0 SCE Play 5dr,7300,Manual
+7.5619438741,Hatchback,Black,Petrol,Cardiff,FIAT,51988,500 HATCHBACK 1.2 Lounge 3dr,7300,Manual
+7.370294319,Hatchback,White,Petrol,Wakefield,SKODA,31306,CITIGO HATCHBACK SPECIAL EDITIONS 1.0 MPI Colour Edition 3dr,7500,Manual
+9.1854893908,Hatchback,Orange,Petrol,Doncaster,VOLKSWAGEN,48996,UP HATCHBACK SPECIAL EDS 1.0 Groove Up 3dr,7500,Manual
+5.8918548939,Hatchback,Red,Petrol,Norwich,CITROEN,27042,C1 HATCHBACK 1.0 VTi Feel 3dr,7500,Manual
+5.3333333333,Hatchback,Black,Petrol,Norwich,KIA,78235,PICANTO HATCHBACK 1.0 2 5dr,7550,Manual
+8.8514715948,Hatchback,Orange,Petrol,Doncaster,CITROEN,23262,C1 HATCHBACK 1.0 VTi Flair 3dr,7550,Manual
+8.0082135524,Hatchback,Blue,Petrol,Northampton,HYUNDAI,50585,I10 HATCHBACK 1.2 Premium SE 5dr,7700,Manual
+7.0636550308,Hatchback,Black,Petrol,Swindon,FIAT,47902,500 HATCHBACK 1.2 Lounge 3dr,7750,Manual
+6.8145106092,Hatchback,Grey,Petrol,Warrington,CITROEN,39159,C1 HATCHBACK 1.2 PureTech Flair 5dr,7800,Manual
+4.5229295003,Hatchback,Grey,Petrol,Norwich,HYUNDAI,50059,I10 HATCHBACK 1.2 SE 5dr,7850,Manual
+6.8145106092,Hatchback,Red,Petrol,Warrington,VAUXHALL,38946,ADAM HATCHBACK 1.2i Jam 3dr,7900,Manual
+7.6605065024,Hatchback,Pink,Petrol,Swindon,FIAT,46993,500 HATCHBACK 0.9 TwinAir 105 Lounge 3dr,7900,Manual
+8.476386037,Hatchback,Black,Petrol,Swindon,FORD,17377,KA HATCHBACK 1.2 Metal 3dr [Start Stop],8000,Manual
+8.6379192334,Hatchback,White,Petrol,Sheffield,HYUNDAI,22179,IX20 HATCHBACK 1.4 Active 5dr,8000,Manual
+6.6694045175,Hatchback,Mauve,Petrol,Sheffield,PEUGEOT,27752,108 TOP HATCHBACK 1.0 Active 5dr,8000,Manual
+7.8932238193,Sports,Pink,Petrol,Swindon,FIAT,47667,500C CONVERTIBLE 1.2 Lounge 2dr,8000,Manual
+5.2703627652,Hatchback,Yellow,Petrol,Wakefield,SKODA,8375,CITIGO HATCHBACK 1.0 MPI S 3dr,8000,Manual
+5.3141683778,Hatchback,Grey,Petrol,Nottingham,VAUXHALL,41019,VIVA HATCHBACK 1.0 Rocks 5dr,8150,Manual
+6.932238193,Hatchback,Silver,Diesel,Doncaster,RENAULT,65581,CLIO DIESEL HATCHBACK 1.5 dCi 90 ECO Dynamique Nav 5dr,8200,Manual
+4.8405201916,Hatchback,Grey,Petrol,Cardiff,SMART,17031,FORFOUR HATCHBACK 1.0 Passion 5dr,8300,Manual
+4.8323066393,Hatchback,Blue,Petrol,Wakefield,VOLKSWAGEN,37498,UP HATCHBACK 1.0 Take Up 3dr,8300,Manual
+6.7241615332,Hatchback,Grey,Petrol,Cardiff,CITROEN,33679,C1 HATCHBACK 1.2 PureTech Flair 5dr,8300,Manual
+5.839835729,Hatchback,White,Petrol,Swindon,HYUNDAI,30272,I10 HATCHBACK 1.0 S 5dr,8300,Manual
+5.3744010951,Hatchback,Blue,Petrol,Norwich,VAUXHALL,26492,VIVA HATCHBACK 1.0 SE 5dr,8300,Manual
+6.3436002738,Hatchback,Red,Petrol,Sheffield,TOYOTA,32493,AYGO HATCHBACK 1.0 VVT-i X-Play 5dr,8400,Manual
+4.1177275838,Hatchback,Black,Petrol,Warrington,SKODA,24301,CITIGO HATCHBACK SPECIAL EDITIONS 1.0 MPI GreenTech Colour Edition 3dr,8500,Manual
+4.3203285421,Hatchback,Blue,Petrol,Cardiff,SEAT,41670,MII HATCHBACK 1.0 Design Mii [EZ] 5dr,8500,Manual
+6.0643394935,Hatchback,Blue,Petrol,Warrington,VAUXHALL,47694,CORSA HATCHBACK SPECIAL EDS 1.4 [75] ecoFLEX Energy 3dr [AC],8500,Manual
+5.0787132101,Hatchback,Green,Petrol,Cardiff,SKODA,47100,CITIGO HATCHBACK SPECIAL EDITIONS 1.0 MPI Colour Edition 5dr,8500,Manual
+5.7686516085,Hatchback,Silver,Petrol,Northampton,VAUXHALL,51821,CORSA HATCHBACK 1.4 SRi Vx-line 5dr,8500,Manual
+4.8213552361,Hatchback,Red,Petrol,Swindon,FIAT,17480,500 HATCHBACK 1.2 Pop 3dr,8600,Manual
+4.8624229979,Hatchback,Blue,Petrol,Sheffield,PEUGEOT,25719,108 HATCHBACK 1.0 72 Active 5dr,8600,Manual
+7.8165639973,MPV,Red,Petrol,Warrington,VAUXHALL,19529,MERIVA ESTATE 1.4T 16V Exclusiv 5dr,8600,Manual
+6.5653661875,Hatchback,Blue,Petrol,Cardiff,VAUXHALL,36893,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,8600,Manual
+4.3969883641,Hatchback,Grey,Petrol,Cardiff,FIAT,8338,PANDA HATCHBACK 1.2 Easy 5dr,8700,Manual
+4.0219028063,Hatchback,Blue,Petrol,Cardiff,RENAULT,12444,TWINGO HATCHBACK 0.9 TCE Iconic 5dr [Start Stop],8700,Manual
+3.9972621492,Hatchback,Red,Petrol,Sheffield,SKODA,31149,CITIGO HATCHBACK 1.0 MPI GreenTech SE 5dr,8700,Manual
+5.3196440794,Hatchback,White,Petrol,Nottingham,VAUXHALL,16709,VIVA HATCHBACK 1.0 SE 5dr [A/C],8700,Manual
+4.4736481862,Hatchback,Red,Petrol,Swindon,VAUXHALL,40577,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,8750,Manual
+3.8138261465,Hatchback,Red,Petrol,Bristol,HYUNDAI,24669,I10 HATCHBACK 1.0 S 5dr,8750,Manual
+5.311430527,Hatchback,Red,Petrol,Norwich,VAUXHALL,33295,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,8750,Manual
+4.5612594114,Hatchback,Grey,Petrol,Cardiff,FIAT,41582,500 HATCHBACK 1.2 Lounge 3dr,8800,Manual
+3.5838466804,Hatchback,White,Petrol,Warrington,VOLKSWAGEN,32755,UP HATCHBACK 1.0 Move Up 5dr,8800,Manual
+4.3449691992,Hatchback,White,Petrol,Norwich,FIAT,26607,PANDA HATCHBACK 1.2 Lounge 5dr,8800,Manual
+3.9808350445,Hatchback,White,Petrol,Sheffield,HYUNDAI,27390,I10 HATCHBACK 1.0 S 5dr,8800,Manual
+4.9801505818,Hatchback,Red,Petrol,Cardiff,VOLKSWAGEN,42463,UP HATCHBACK 1.0 Move Up 5dr,8800,Manual
+7.0855578371,Hatchback,Blue,Petrol,Sheffield,VAUXHALL,36064,CORSA HATCHBACK SPECIAL EDS 1.4 Limited Edition 3dr,8800,Manual
+6.1464750171,Small,Blue,Petrol,Bristol,SMART,17740,FORTWO COUPE 1.0 Prime 2dr,8800,Manual
+5.0787132101,Small,Red,Petrol,Sheffield,SMART,13405,FORTWO COUPE 1.0 Passion 2dr,8800,Manual
+4.3586584531,Hatchback,Blue,Petrol,Manchester,HYUNDAI,16501,I10 HATCHBACK 1.0 SE 5dr,8850,Manual
+4.0684462697,Hatchback,White,Petrol,Norwich,FIAT,23368,500 HATCHBACK 1.2 Pop 3dr,8900,Manual
+4.3969883641,Hatchback,Red,Petrol,Doncaster,CITROEN,23176,C1 HATCHBACK 1.0 VTi 72 Flair 5dr,8900,Manual
+4.5229295003,Hatchback,Grey,Petrol,Bristol,HYUNDAI,40047,I10 HATCHBACK 1.2 SE 5dr,8900,Manual
+3.6002737851,Hatchback,Blue,Petrol,Northampton,CITROEN,1,C1 HATCHBACK 1.0 VTi 72 Feel 5dr,8900,Manual
+5.8124572211,Hatchback,Red,Petrol,Cardiff,VOLKSWAGEN,35349,UP HATCHBACK SPECIAL EDS 1.0 Up Beats 3dr,8900,Manual
+4.977412731,Hatchback,White,Petrol,Doncaster,FIAT,32374,500 HATCHBACK 1.2 Lounge 3dr,8900,Manual
+4.9199178645,Hatchback,Grey,Petrol,Doncaster,FIAT,27222,500 HATCHBACK 1.2 Lounge 3dr,8900,Manual
+5.1526351814,Hatchback,Black,Petrol,Manchester,HYUNDAI,46348,I10 HATCHBACK 1.2 SE 5dr,8900,Manual
+7.8932238193,Hatchback,White,Diesel,Wakefield,FIAT,49210,500X DIESEL HATCHBACK 1.6 Multijet Cross Plus 5dr,8900,Manual
+7.8904859685,Hatchback,Grey,Diesel,Bristol,RENAULT,37987,CLIO DIESEL HATCHBACK 1.5 dCi 90 Dynamique S Nav 5dr,8950,Manual
+5.8151950719,Hatchback,White,Petrol,Sheffield,FIAT,27130,500 HATCHBACK 1.2 Lounge 3dr,8950,Manual
+3.7262149213,Hatchback,Pink,Petrol,Doncaster,FIAT,25886,500 HATCHBACK 1.2 Lounge 3dr,9000,Manual
+4.8240930869,Hatchback,Red,Petrol,Manchester,FIAT,4680,500 HATCHBACK 1.2 Pop 3dr,9000,Manual
+4.7939767283,Hatchback,White,Petrol,Wakefield,HYUNDAI,6784,I10 HATCHBACK 1.0 SE 5dr,9000,Manual
+3.8138261465,Hatchback,Red,Petrol,Norwich,HYUNDAI,20101,I10 HATCHBACK 1.0 S 5dr,9000,Manual
+4.3175906913,Hatchback,Red,Petrol,Nottingham,CITROEN,22919,C1 HATCHBACK 1.0 VTi 72 Flair 5dr,9000,Manual
+4.5201916496,Hatchback,White,Petrol,Nottingham,HYUNDAI,37700,I10 HATCHBACK 1.2 SE 5dr,9000,Manual
+4.6132785763,Hatchback,White,Petrol,Wakefield,PEUGEOT,13466,108 HATCHBACK 1.0 72 Active 3dr,9000,Manual
+5.5058179329,Hatchback,Yellow,Petrol,Cardiff,SKODA,12984,CITIGO HATCHBACK SPECIAL EDITIONS 1.0 MPI Colour Edition 5dr,9000,Manual
+5.6454483231,Hatchback,Silver,Petrol,Bristol,HYUNDAI,51498,I20 HATCHBACK 1.2 SE 5dr,9000,Manual
+6.559890486,Hatchback,Silver,Petrol,Nottingham,VAUXHALL,51276,ASTRA HATCHBACK 1.0T 12V ecoFLEX SRi 5dr,9000,Manual
+5.9493497604,Hatchback,Pink,Petrol,Northampton,FIAT,5041,500 HATCHBACK 1.2 Pop Star 3dr,9000,Manual
+6.1464750171,Hatchback,Silver,Petrol,Norwich,PEUGEOT,60176,308 HATCHBACK 1.2 PureTech 110 Allure 5dr,9000,Manual
+5.3141683778,Hatchback,White,Petrol,Northampton,VAUXHALL,36728,VIVA HATCHBACK 1.0 Rocks 5dr,9000,Manual
+4.8131416838,Hatchback,White,Petrol,Norwich,KIA,12273,PICANTO HATCHBACK 1.0 2 5dr,9100,Manual
+4.2080766598,Hatchback,Blue,Petrol,Wakefield,KIA,21628,PICANTO HATCHBACK 1.0 1 5dr,9100,Manual
+6.8117727584,MPV,Grey,Petrol,Wakefield,VAUXHALL,35063,MERIVA ESTATE 1.4T 16V SE 5dr,9100,Manual
+5.2320328542,Hatchback,Green,Petrol,Swindon,VAUXHALL,10449,VIVA HATCHBACK 1.0 [73] SE 5dr,9100,Manual
+4.8186173854,Hatchback,Blue,Petrol,Northampton,FIAT,13886,500 HATCHBACK 1.2 Lounge 3dr,9200,Manual
+4.4407939767,Hatchback,Black,Petrol,Northampton,KIA,40599,PICANTO HATCHBACK 1.25 2 5dr,9200,Manual
+4.3750855578,Hatchback,Red,Petrol,Wolverhampton,HYUNDAI,10439,I10 HATCHBACK 1.0 SE 5dr,9200,Manual
+4.8569472964,Hatchback,Silver,Petrol,Nottingham,SMART,13287,FORFOUR HATCHBACK 1.0 Passion 5dr,9200,Manual
+5.4702258727,Hatchback,Blue,Petrol,Norwich,CITROEN,33537,C3 HATCHBACK 1.2 PureTech Touch 5dr,9200,Manual
+8.4982888433,Hatchback,Red,Diesel,Norwich,ALFA ROMEO,47742,GIULIETTA DIESEL HATCHBACK 2.0 JTDM-2 Exclusive 5dr,9200,Manual
+4.090349076,Hatchback,Blue,Petrol,Warrington,KIA,15758,PICANTO HATCHBACK 1.0 1 5dr,9250,Manual
+4.758384668,Hatchback,Grey,Petrol,Norwich,FIAT,25281,500 HATCHBACK 1.2 Lounge 3dr,9250,Manual
+3.7727583847,Hatchback,White,Petrol,Sheffield,CITROEN,14524,C1 HATCHBACK 1.0 VTi 72 Urban Ride 5dr,9250,Manual
+4.8186173854,Hatchback,White,Petrol,Wolverhampton,CITROEN,15783,C1 AIRSCAPE HATCHBACK 1.0 VTi 72 Flair 5dr,9250,Manual
+4.476386037,Hatchback,Beige,Petrol,Bristol,CITROEN,27678,C1 HATCHBACK SPECIAL EDITION 1.0 VTi 72 ELLE 5dr,9250,Manual
+4.8706365503,Hatchback,Blue,Petrol,Northampton,CITROEN,9770,C1 HATCHBACK 1.0 VTi 72 Flair 3dr,9250,Manual
+5.4729637235,Hatchback,Black,Petrol,Bristol,SMART,27059,FORFOUR HATCHBACK 0.9 Turbo Prime Premium Plus 5dr,9250,Manual
+6.6858316222,Hatchback,Blue,Petrol,Swindon,VAUXHALL,64113,MOKKA X HATCHBACK 1.4T Active 5dr,9250,Manual
+4.8213552361,Hatchback,White,Petrol,Swindon,TOYOTA,40817,AYGO HATCHBACK 1.0 VVT-i X-Plore 5dr,9300,Manual
+4.3175906913,Hatchback,Red,Petrol,Warrington,FIAT,3275,500 HATCHBACK 1.2 Pop 3dr,9300,Manual
+3.394934976,Hatchback,Grey,Petrol,Manchester,MITSUBISHI,33473,MIRAGE HATCHBACK 1.2 3 5dr,9300,Manual
+4.0657084189,Hatchback,Grey,Petrol,Doncaster,VAUXHALL,49906,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Griffin 3dr,9300,Manual
+4.8158795346,Hatchback,Blue,Petrol,Wolverhampton,SKODA,29676,CITIGO HATCHBACK SPECIAL EDITIONS 1.0 MPI GreenTech Colour Edition 5dr,9300,Manual
+4.4462696783,Hatchback,Red,Petrol,Wakefield,SKODA,14768,CITIGO HATCHBACK 1.0 MPI GreenTech SE 3dr,9300,Manual
+5.067761807,Hatchback,Blue,Petrol,Wolverhampton,HYUNDAI,29616,I10 HATCHBACK SPECIAL EDITIONS 1.0 Go SE 5dr,9300,Manual
+5.0075290897,Hatchback,Blue,Petrol,Cardiff,VAUXHALL,42679,ADAM HATCHBACK 1.4i [100] Slam 3dr,9300,Manual
+5.0978781656,Hatchback,Grey,Petrol,Warrington,TOYOTA,28828,AYGO HATCHBACK 1.0 VVT-i X-Style 5dr,9300,Manual
+5.3607118412,Hatchback,White,Petrol,Bristol,VAUXHALL,27043,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Energy 3dr [AC],9300,Manual
+5.2101300479,Hatchback,Blue,Petrol,Nottingham,HYUNDAI,31587,I10 HATCHBACK 1.2 Premium 5dr,9300,Manual
+5.6563997262,Hatchback,Green,Petrol,Manchester,FIAT,20000,500 HATCHBACK 1.2 Lounge 3dr,9300,Manual
+4.3942505133,Hatchback,Blue,Petrol,Doncaster,TOYOTA,43787,AYGO HATCHBACK 1.0 VVT-i X-Trend 5dr,9350,Manual
+4.0684462697,Hatchback,Blue,Petrol,Nottingham,VAUXHALL,5622,VIVA HATCHBACK 1.0 [73] SE 5dr [A/C],9400,Manual
+4.7255304586,Hatchback,Silver,Petrol,Wolverhampton,SKODA,22500,CITIGO HATCHBACK SPECIAL EDITIONS 1.0 MPI GreenTech Colour Edition 3dr,9400,Manual
+5.3798767967,Hatchback,Red,Diesel,Manchester,KIA,53171,RIO DIESEL HATCHBACK 1.4 CRDi 2 5dr,9400,Manual
+6.3956194387,Hatchback,White,Petrol,Doncaster,VAUXHALL,18110,CORSA HATCHBACK 1.4 [75] ecoFLEX SRi 3dr,9400,Manual
+7.6057494867,Hatchback,Grey,Diesel,Bristol,FIAT,47435,500X DIESEL HATCHBACK 2.0 Multijet 4x4 Cross 5dr,9400,Manual
+3.8767967146,Hatchback,White,Petrol,Swindon,KIA,30520,PICANTO HATCHBACK 1.25 2 5dr,9500,Manual
+4.5420944559,Hatchback,Red,Petrol,Warrington,TOYOTA,23065,AYGO HATCHBACK 1.0 VVT-i X-Play 5dr,9500,Manual
+4.2436687201,Hatchback,Pink,Petrol,Sheffield,FIAT,9823,500 HATCHBACK 1.2 Lounge 3dr,9500,Manual
+2.6310746064,Hatchback,White,Petrol,Doncaster,KIA,23375,PICANTO HATCHBACK 1.0 1 5dr [4 seats],9500,Manual
+4.3832991102,Hatchback,Blue,Petrol,Wolverhampton,KIA,38406,PICANTO HATCHBACK SPECIAL EDITION 1.0 Wave 5dr,9500,Manual
+4.8131416838,Hatchback,Grey,Petrol,Bristol,SKODA,56164,FABIA HATCHBACK 1.0 MPI 75 SE L 5dr,9500,Manual
+3.7289527721,Hatchback,Grey,Petrol,Wakefield,FIAT,35345,500 HATCHBACK 1.2 Lounge 3dr,9500,Manual
+3.1211498973,Hatchback,Blue,Petrol,Sheffield,KIA,27303,PICANTO HATCHBACK 1.0 1 5dr [4 seats],9500,Manual
+4.7255304586,Hatchback,Green,Petrol,Swindon,FIAT,20058,500 HATCHBACK 1.2 Lounge 3dr,9500,Manual
+3.3347022587,Hatchback,Black,Petrol,Wakefield,PEUGEOT,23152,108 HATCHBACK 1.0 72 Collection 5dr,9500,Manual
+4.4845995893,Hatchback,White,Petrol,Manchester,PEUGEOT,9369,108 HATCHBACK 1.0 72 Collection 5dr,9500,Manual
+4.1177275838,Hatchback,White,Petrol,Bristol,PEUGEOT,11668,108 HATCHBACK 1.0 72 Allure 5dr,9500,Manual
+4.3148528405,Hatchback,Red,Petrol,Norwich,VAUXHALL,43116,CORSA HATCHBACK 1.4 SRi Nav 3dr,9500,Manual
+4.476386037,Hatchback,Black,Petrol,Sheffield,VAUXHALL,29290,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,9500,Manual
+4.8186173854,Hatchback,Red,Petrol,Warrington,VAUXHALL,24802,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Energy 3dr [AC],9500,Manual
+4,Hatchback,Red,Petrol,Northampton,VAUXHALL,6678,VIVA HATCHBACK 1.0 [73] SE 5dr [A/C],9500,Manual
+3.7289527721,Hatchback,White,Petrol,Norwich,CITROEN,22737,C1 HATCHBACK 1.0 VTi 72 Urban Ride 5dr,9500,Manual
+4.0629705681,Hatchback,Blue,Petrol,Sheffield,CITROEN,14863,C1 HATCHBACK 1.0 VTi 72 Urban Ride 5dr,9500,Manual
+3.6495550992,Hatchback,Beige,Petrol,Manchester,CITROEN,16510,C1 HATCHBACK 1.0 VTi 72 Flair 3dr,9500,Manual
+4.6461327858,Hatchback,Black,Petrol,Wolverhampton,VOLKSWAGEN,40415,UP HATCHBACK SPECIAL EDS 1.0 Up Beats 3dr,9500,Manual
+5.6783025325,Hatchback,Silver,Diesel,Sheffield,KIA,62788,CEED DIESEL HATCHBACK 1.6 CRDi ISG 2 5dr,9500,Manual
+5.1772758385,Hatchback,White,Petrol,Cardiff,SEAT,12133,MII HATCHBACK 1.0 FR Line 5dr,9500,Manual
+5.325119781,Hatchback,Red,Petrol,Sheffield,VOLKSWAGEN,18157,UP HATCHBACK 1.0 Move Up 5dr,9500,Manual
+5.1115674196,Hatchback,White,Petrol,Northampton,TOYOTA,5192,AYGO HATCHBACK 1.0 VVT-i X-Play 5dr,9500,Manual
+5.4729637235,Hatchback,Blue,Petrol,Nottingham,VOLKSWAGEN,19303,UP HATCHBACK 1.0 Move Up 3dr,9500,Manual
+5.1635865845,Hatchback,Silver,Petrol,Bristol,HYUNDAI,38758,I10 HATCHBACK 1.2 Premium 5dr,9500,Manual
+4.9801505818,Hatchback,Red,Petrol,Wakefield,HYUNDAI,9184,I10 HATCHBACK 1.0 SE 5dr,9500,Manual
+5.067761807,Hatchback,Red,Petrol,Manchester,CITROEN,18233,C1 HATCHBACK 1.2 PureTech Flair 5dr,9500,Manual
+5.0102669405,Hatchback,Green,Petrol,Swindon,RENAULT,9878,TWINGO HATCHBACK 0.9 TCE Iconic 5dr [Start Stop],9500,Manual
+6.4832306639,Hatchback,Grey,Petrol,Nottingham,FIAT,19587,500 HATCHBACK 0.9 TwinAir 105 Lounge 3dr,9500,Manual
+5.5961670089,Hatchback,Blue,Petrol,Wolverhampton,FORD,62236,FOCUS HATCHBACK 1.0 EcoBoost 125 Zetec Edition 5dr,9500,Manual
+5.0650239562,Hatchback,Mauve,Petrol,Swindon,PEUGEOT,9458,108 HATCHBACK 1.0 72 Allure 5dr,9500,Manual
+4.476386037,Hatchback,White,Petrol,Nottingham,FIAT,23897,500 HATCHBACK 1.2 Lounge 3dr,9550,Manual
+4.0711841205,Hatchback,White,Petrol,Warrington,SUZUKI,9373,CELERIO HATCHBACK 1.0 Dualjet SZ3 5dr,9550,Manual
+4.5612594114,Hatchback,Red,Petrol,Manchester,VAUXHALL,41396,CORSA HATCHBACK 1.4 [75] SRi Nav 5dr,9550,Manual
+6.3737166324,Hatchback,White,Petrol,Wakefield,KIA,50580,RIO HATCHBACK 1.4 ISG 3 3dr,9550,Manual
+5.3661875428,Small,Grey,Petrol,Swindon,SMART,10569,FORTWO COUPE 0.9 Turbo Passion 2dr,9550,Manual
+5.3141683778,Hatchback,Blue,Petrol,Warrington,VAUXHALL,32489,CORSA HATCHBACK 1.4 SRi 5dr,9550,Manual
+5.8590006845,Hatchback,Grey,Petrol,Norwich,FORD,55110,B-MAX HATCHBACK 1.0 EcoBoost 125 Titanium Navigator 5dr,9600,Manual
+5.8124572211,Hatchback,White,Petrol,Swindon,SKODA,17129,CITIGO HATCHBACK SPECIAL EDITIONS 1.0 MPI Colour Edition 5dr,9600,Manual
+5.3360711841,Hatchback,Black,Petrol,Wakefield,TOYOTA,32852,AYGO HATCHBACK 1.0 VVT-i X-Style 5dr,9600,Manual
+4.9746748802,Hatchback,Blue,Petrol,Sheffield,VAUXHALL,21931,CORSA HATCHBACK 1.4 Design 5dr,9600,Manual
+4.7255304586,Hatchback,Grey,Diesel,Swindon,NISSAN,34170,MICRA HATCHBACK DIESEL 1.5 dCi N-Connecta 5dr,9650,Manual
+4.1478439425,Hatchback,Red,Petrol,Wakefield,CITROEN,53132,C3 HATCHBACK 1.2 PureTech 82 Feel 5dr,9650,Manual
+3.9206023272,Hatchback,Black,Petrol,Northampton,MITSUBISHI,27327,MIRAGE HATCHBACK 1.2 4 5dr,9700,Manual
+4.9089664613,Hatchback,Grey,Petrol,Nottingham,PEUGEOT,25353,208 HATCHBACK 1.2 PureTech 82 Signature 5dr [Start Stop],9700,Manual
+4.1889117043,Hatchback,Blue,Petrol,Warrington,VAUXHALL,38233,CORSA HATCHBACK 1.4 Design 5dr,9700,Manual
+4.5694729637,Hatchback,Blue,Petrol,Northampton,VAUXHALL,41360,CORSA HATCHBACK 1.4 SE Nav 5dr,9700,Manual
+4.7008898015,Hatchback,Red,Petrol,Sheffield,RENAULT,31180,CLIO HATCHBACK 0.9 TCE 90 Play 5dr,9700,Manual
+4.3203285421,Hatchback,Grey,Petrol,Cardiff,CITROEN,20685,C1 HATCHBACK 1.0 VTi 72 Flair 5dr,9700,Manual
+5.3278576318,Hatchback,Black,Petrol,Nottingham,SMART,45393,FORFOUR HATCHBACK 0.9 Turbo Prime Sport Premium 5dr,9700,Manual
+8.2354551677,Hatchback,Blue,Petrol,Cardiff,VOLKSWAGEN,55188,POLO HATCHBACK 1.2 TSI SE 5dr,9700,Manual
+6.8117727584,Hatchback,Orange,Petrol,Doncaster,PEUGEOT,23162,208 HATCHBACK SPECIAL EDITIONS 1.2 PureTech Active Design Menthol 5dr,9700,Manual
+2.9760438056,Hatchback,Pink,Petrol,Cardiff,FIAT,15155,500 HATCHBACK 1.2 Lounge 3dr,9750,Manual
+3.0746064339,Hatchback,Red,Petrol,Norwich,TOYOTA,27885,AYGO HATCHBACK 1.0 VVT-i X-Play 5dr,9750,Manual
+3.794661191,Hatchback,Blue,Petrol,Sheffield,KIA,16658,PICANTO HATCHBACK 1.0 2 5dr,9750,Manual
+3.9397672827,Hatchback,Blue,Petrol,Sheffield,KIA,25076,PICANTO HATCHBACK 1.25 2 5dr,9750,Manual
+4.887063655,Hatchback,Grey,Petrol,Bristol,FIAT,15019,500 HATCHBACK 1.2 Lounge 3dr,9750,Manual
+4.6379192334,Hatchback,Brown,Petrol,Northampton,KIA,40028,RIO HATCHBACK 1.25 1 5dr,9750,Manual
+4.2628336756,Hatchback,Blue,Petrol,Warrington,SUZUKI,30697,SWIFT HATCHBACK 1.2 Dualjet SZ3 5dr,9750,Manual
+3.8138261465,Hatchback,Blue,Petrol,Wolverhampton,VAUXHALL,38741,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Griffin 3dr,9750,Manual
+3.3648186174,Hatchback,White,Petrol,Wakefield,CITROEN,11520,C1 HATCHBACK 1.0 VTi 72 Urban Ride 5dr,9750,Manual
+4.3175906913,Hatchback,Red,Petrol,Northampton,SKODA,20981,CITIGO HATCHBACK 1.0 MPI GreenTech Monte Carlo 3dr,9750,Manual
+3.3976728268,Hatchback,Red,Petrol,Cardiff,CITROEN,2604,C1 HATCHBACK 1.0 VTi 72 Flair 3dr,9750,Manual
+3.8138261465,Hatchback,Beige,Petrol,Bristol,DACIA,22152,SANDERO STEPWAY HATCHBACK 0.9 TCe Essential 5dr,9750,Manual
+7.8165639973,Hatchback,Blue,Petrol,Swindon,PEUGEOT,20259,208 HATCHBACK 1.2 PureTech 110 GT Line 5dr,9750,Manual
+5.1471594798,Hatchback,Silver,Petrol,Northampton,CITROEN,39486,C3 HATCHBACK 1.2 PureTech 82 Feel 5dr,9750,Manual
+5.3388090349,Hatchback,Red,Petrol,Doncaster,SUZUKI,27142,IGNIS HATCHBACK 1.2 Dualjet SZ3 5dr,9750,Manual
+6.3189596167,Hatchback,Blue,Petrol,Cardiff,RENAULT,28199,CLIO HATCHBACK 1.2 16V Dynamique Nav 5dr,9750,Manual
+6.3189596167,Hatchback,Black,Petrol,Norwich,KIA,41430,RIO HATCHBACK 1.25 2 5dr,9750,Manual
+6.1136208077,Hatchback,White,Petrol,Norwich,FORD,69681,FOCUS HATCHBACK 1.0 EcoBoost 125 ST-Line 5dr,9750,Manual
+2.945927447,Hatchback,Blue,Petrol,Nottingham,KIA,12989,PICANTO HATCHBACK 1.0 2 5dr [4 seats],9800,Manual
+3.3264887064,Hatchback,Blue,Petrol,Norwich,FIAT,40625,500 HATCHBACK 1.0 Mild Hybrid Lounge 3dr,9800,Manual
+2.9623545517,Hatchback,White,Petrol,Bristol,TOYOTA,33796,AYGO HATCHBACK 1.0 VVT-i X-Play 5dr,9800,Manual
+4.8295687885,Hatchback,Red,Petrol,Wakefield,TOYOTA,37000,AYGO HATCHBACK 1.0 VVT-i X-Plore 5dr,9800,Manual
+4.2354551677,Hatchback,Silver,Petrol,Doncaster,KIA,17388,PICANTO HATCHBACK 1.0 2 5dr,9800,Manual
+4.0711841205,Hatchback,Red,Petrol,Manchester,FIAT,19077,500 HATCHBACK 1.2 Lounge 3dr,9800,Manual
+3.6468172485,Hatchback,Grey,Petrol,Cardiff,FIAT,27371,500 HATCHBACK 1.2 Lounge 3dr,9800,Manual
+3.6769336071,Hatchback,Grey,Petrol,Nottingham,FIAT,31432,500 HATCHBACK 1.2 Lounge 3dr,9800,Manual
+4.6652977413,Hatchback,Grey,Petrol,Sheffield,FIAT,28617,500 HATCHBACK 1.2 S 3dr,9800,Manual
+4.2217659138,Hatchback,Grey,Petrol,Warrington,VAUXHALL,27631,CORSA HATCHBACK 1.4 [75] SRi Nav 3dr,9800,Manual
+4.6516084873,Hatchback,Black,Diesel,Northampton,RENAULT,46397,CLIO DIESEL HATCHBACK 1.5 dCi 90 GT Line 5dr,9800,Manual
+3.7891854894,Hatchback,Mauve,Petrol,Swindon,MITSUBISHI,30945,MIRAGE HATCHBACK 1.2 4 5dr,9800,Manual
+3.8220396988,Hatchback,Red,Petrol,Sheffield,SKODA,21647,CITIGO HATCHBACK SPECIAL EDITIONS 1.0 MPI GreenTech Colour Edition 5dr,9800,Manual
+4.8186173854,Hatchback,Black,Petrol,Warrington,VAUXHALL,28440,CORSA HATCHBACK 1.4 Sport 3dr [AC],9800,Manual
+3.65229295,Hatchback,Blue,Petrol,Warrington,CITROEN,14198,C1 HATCHBACK 1.0 VTi 72 Urban Ride 5dr,9800,Manual
+4.7830253251,Hatchback,Blue,Petrol,Swindon,VAUXHALL,37404,CORSA HATCHBACK SPECIAL EDS 1.4 Energy 5dr [AC],9800,Manual
+2.9787816564,Hatchback,Blue,Petrol,Cardiff,CITROEN,7384,C1 HATCHBACK 1.0 VTi 72 Feel 5dr,9800,Manual
+4.0711841205,Hatchback,White,Petrol,Swindon,VOLKSWAGEN,47871,UP HATCHBACK SPECIAL EDS 1.0 Up Beats 5dr,9800,Manual
+4.8213552361,Hatchback,White,Petrol,Manchester,VOLKSWAGEN,18826,UP HATCHBACK 1.0 Move Up 5dr,9800,Manual
+4.1478439425,Hatchback,Black,Petrol,Swindon,CITROEN,21531,C1 HATCHBACK 1.0 VTi 72 Flair 5dr,9800,Manual
+4.8131416838,Hatchback,White,Petrol,Doncaster,CITROEN,14786,C1 HATCHBACK 1.0 VTi 72 Flair 5dr,9800,Manual
+5.8097193703,Hatchback,Grey,Petrol,Manchester,FORD,21664,KA+ HATCHBACK 1.2 85 Zetec 5dr,9800,Manual
+5.311430527,Hatchback,Black,Petrol,Wolverhampton,VAUXHALL,13332,VIVA HATCHBACK 1.0 Rocks 5dr,9800,Manual
+5.3141683778,Hatchback,Grey,Petrol,Doncaster,VAUXHALL,32484,CORSA HATCHBACK 1.4 SRi 5dr,9800,Manual
+5.3196440794,Hatchback,Silver,Petrol,Norwich,KIA,25497,PICANTO HATCHBACK 1.25 2 5dr,9800,Manual
+5.054072553,Hatchback,Yellow,Diesel,Norwich,DS,39287,DS 3 DIESEL HATCHBACK 1.6 BlueHDi Performance Line 3dr,9800,Manual
+5.6837782341,Hatchback,Red,Petrol,Wolverhampton,SKODA,14153,CITIGO HATCHBACK 1.0 MPI Monte Carlo 5dr,9800,Manual
+6.8227241615,Saloon,White,Petrol,Wakefield,MAZDA,54147,MAZDA3 FASTBACK 2.0 SE-L Nav 4dr,9800,Manual
+2.7405886379,Hatchback,Grey,Petrol,Wolverhampton,TOYOTA,38562,AYGO HATCHBACK 1.0 VVT-i X-Play TSS 5dr,9850,Manual
+4.5201916496,Hatchback,Black,Petrol,Cardiff,VAUXHALL,43851,CORSA HATCHBACK 1.4 SRi Vx-line Nav Black 5dr,9850,Manual
+4.8213552361,Hatchback,Mauve,Petrol,Bristol,MITSUBISHI,10505,MIRAGE HATCHBACK 1.2 Juro 5dr,9850,Manual
+5.3442847365,Hatchback,White,Petrol,Warrington,VAUXHALL,15227,CORSA HATCHBACK 1.4 [75] SRi 3dr,9850,Manual
+5.1690622861,Hatchback,Black,Diesel,Bristol,RENAULT,45785,CLIO DIESEL HATCHBACK 1.5 dCi 90 Dynamique S Nav 5dr,9850,Manual
+2.4804928131,Hatchback,Silver,Petrol,Bristol,KIA,4323,PICANTO HATCHBACK 1.0 1 5dr [4 seats],9900,Manual
+4.3449691992,Hatchback,White,Petrol,Wakefield,KIA,15264,PICANTO HATCHBACK 1.25 2 5dr,9900,Manual
+4.8240930869,Hatchback,Red,Petrol,Cardiff,KIA,16550,PICANTO HATCHBACK 1.25 2 5dr,9900,Manual
+3.7891854894,Hatchback,Red,Petrol,Manchester,FIAT,15524,500 HATCHBACK 1.2 Lounge 3dr,9900,Manual
+3.6468172485,Hatchback,Red,Petrol,Swindon,FIAT,16654,500 HATCHBACK 1.2 Lounge 3dr,9900,Manual
+2.8911704312,Hatchback,Grey,Petrol,Doncaster,FIAT,10355,500 HATCHBACK 1.0 Mild Hybrid Pop 3dr,9900,Manual
+3.2114989733,Hatchback,Red,Petrol,Nottingham,FIAT,12456,500 HATCHBACK 1.0 Mild Hybrid Pop 3dr,9900,Manual
+2.0670773443,Hatchback,White,Petrol,Nottingham,CITROEN,10483,C1 HATCHBACK 1.0 VTi 72 Shine 5dr,9900,Manual
+4.810403833,Hatchback,Blue,Diesel,Nottingham,NISSAN,50111,MICRA HATCHBACK DIESEL 1.5 dCi Acenta 5dr,9900,Manual
+4.3175906913,Hatchback,Black,Petrol,Warrington,PEUGEOT,31758,208 HATCHBACK 1.2 PureTech 82 Signature 5dr [Start Stop],9900,Manual
+3.3292265572,Hatchback,Red,Petrol,Wolverhampton,CITROEN,16391,C1 HATCHBACK 1.0 VTi 72 Urban Ride 5dr,9900,Manual
+3.4770704997,Hatchback,White,Petrol,Wolverhampton,CITROEN,14652,C1 HATCHBACK 1.0 VTi 72 Urban Ride 5dr,9900,Manual
+4.5859000684,Hatchback,Silver,Petrol,Doncaster,VAUXHALL,30286,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Griffin 3dr,9900,Manual
+4.205338809,Hatchback,Red,Petrol,Swindon,SKODA,12578,CITIGO HATCHBACK 1.0 MPI GreenTech SE 5dr,9900,Manual
+5.3771389459,Hatchback,Silver,Petrol,Swindon,VAUXHALL,36482,CORSA HATCHBACK 1.4 Design 5dr,9900,Manual
+5.749486653,Hatchback,Grey,Petrol,Bristol,SUZUKI,34857,SWIFT HATCHBACK 1.0 Boosterjet SZ-T 5dr,9900,Manual
+4.4380561259,Hatchback,Red,Petrol,Warrington,FIAT,20136,500 HATCHBACK 0.9 TwinAir Lounge 3dr,9950,Manual
+4.3230663929,Hatchback,Red,Petrol,Doncaster,VAUXHALL,35192,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,9950,Manual
+6.559890486,Hatchback,Silver,Petrol,Manchester,MAZDA,18958,MAZDA2 HATCHBACK 1.5 75 SE-L 5dr,9950,Manual
+2.8090349076,Hatchback,Silver,Petrol,Northampton,TOYOTA,12531,AYGO HATCHBACK 1.0 VVT-i X-Play 5dr,10000,Manual
+3.8138261465,Hatchback,Grey,Petrol,Northampton,TOYOTA,8940,AYGO HATCHBACK 1.0 VVT-i X-Play 5dr,10000,Manual
+3.7289527721,Hatchback,Grey,Petrol,Cardiff,TOYOTA,13339,AYGO HATCHBACK 1.0 VVT-i X-Play 5dr,10000,Manual
+4.3586584531,Hatchback,White,Petrol,Cardiff,KIA,14925,PICANTO HATCHBACK 1.25 2 5dr,10000,Manual
+3.5619438741,Hatchback,Black,Petrol,Cardiff,KIA,7205,PICANTO HATCHBACK 1.0 2 5dr,10000,Manual
+3.112936345,Hatchback,Grey,Petrol,Sheffield,TOYOTA,29963,AYGO HATCHBACK 1.0 VVT-i X-Play 5dr,10000,Manual
+4.6899383984,Hatchback,Red,Petrol,Bristol,TOYOTA,29895,AYGO HATCHBACK 1.0 VVT-i X-Plore 5dr,10000,Manual
+4.8569472964,Hatchback,Black,Petrol,Norwich,KIA,36441,PICANTO HATCHBACK 1.25 X-Line 5dr,10000,Manual
+4.3175906913,Hatchback,Red,Petrol,Bristol,FIAT,7306,500 HATCHBACK 1.2 Lounge 3dr,10000,Manual
+1.5989048597,Hatchback,Red,Petrol,Swindon,PEUGEOT,12194,108 HATCHBACK 1.0 72 Allure 5dr,10000,Manual
+4.7255304586,Hatchback,Blue,Petrol,Nottingham,SKODA,45919,FABIA HATCHBACK SPECIAL EDITIONS 1.0 MPI 75 Colour Edition 5dr,10000,Manual
+3.9808350445,Hatchback,Silver,Petrol,Cardiff,VAUXHALL,33316,CORSA HATCHBACK 1.4 SRi Vx-line Nav Black 5dr,10000,Manual
+2.4832306639,Hatchback,Red,Petrol,Bristol,PEUGEOT,25035,108 HATCHBACK 1.0 72 Allure 5dr,10000,Manual
+2.8090349076,Hatchback,White,Petrol,Swindon,CITROEN,9963,C1 HATCHBACK 1.0 VTi 72 Urban Ride 5dr,10000,Manual
+3.5920602327,Hatchback,Grey,Petrol,Swindon,PEUGEOT,12690,108 HATCHBACK 1.0 72 Collection 5dr,10000,Manual
+3.832991102,Hatchback,Silver,Petrol,Wakefield,VAUXHALL,47783,CORSA HATCHBACK 1.4 SE Nav 5dr,10000,Manual
+4.6516084873,Hatchback,White,Diesel,Warrington,RENAULT,43737,CLIO DIESEL HATCHBACK 1.5 dCi 90 GT Line 5dr,10000,Manual
+3.8220396988,Hatchback,Grey,Petrol,Wakefield,VAUXHALL,44777,CORSA HATCHBACK 1.4 SRi Nav 5dr,10000,Manual
+3.5920602327,Hatchback,Mauve,Petrol,Nottingham,MITSUBISHI,14283,MIRAGE HATCHBACK 1.2 3 5dr,10000,Manual
+4.476386037,Hatchback,Red,Petrol,Nottingham,VAUXHALL,16492,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,10000,Manual
+3.9425051335,Hatchback,Black,Petrol,Warrington,SKODA,15379,CITIGO HATCHBACK SPECIAL EDITIONS 1.0 MPI GreenTech Colour Edition 5dr,10000,Manual
+4.476386037,Hatchback,Red,Petrol,Northampton,VAUXHALL,20302,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,10000,Manual
+3.8412046543,Hatchback,White,Petrol,Bristol,CITROEN,7134,C1 HATCHBACK 1.0 VTi 72 Urban Ride 5dr,10000,Manual
+4.8186173854,Hatchback,Black,Petrol,Swindon,VOLKSWAGEN,47671,UP HATCHBACK 1.0 90PS High Up 5dr,10000,Manual
+3.6796714579,Hatchback,White,Petrol,Manchester,HYUNDAI,22064,I10 HATCHBACK 1.0 SE 5dr,10000,Manual
+3.9945242984,Hatchback,Red,Petrol,Doncaster,HYUNDAI,25540,I10 HATCHBACK SPECIAL EDITIONS 1.0 Play 5dr,10000,Manual
+4.3230663929,Hatchback,Silver,Petrol,Manchester,RENAULT,26976,CLIO HATCHBACK 0.9 TCE 75 Play 5dr,10000,Manual
+4.0711841205,Hatchback,White,Petrol,Doncaster,CITROEN,7255,C1 HATCHBACK 1.0 VTi 72 Flair 5dr,10000,Manual
+5.6427104723,Hatchback,Blue,Petrol,Nottingham,VAUXHALL,10314,CORSA HATCHBACK SPECIAL EDS 1.4 [75] ecoFLEX Energy 3dr [AC],10000,Manual
+6.4914442163,Hatchback,Red,Petrol,Northampton,FORD,26943,B-MAX HATCHBACK SPECIAL EDITION 1.0 EcoBoost Zetec Red Edition 5dr,10000,Manual
+5.8124572211,Hatchback,White,Petrol,Doncaster,CITROEN,28204,C3 HATCHBACK 1.2 PureTech 82 Flair 5dr,10000,Manual
+6.392881588,Hatchback,White,Petrol,Bristol,FORD,35609,FOCUS HATCHBACK 1.0 EcoBoost Zetec 5dr,10000,Manual
+5.2402464066,Hatchback,White,Petrol,Manchester,MAZDA,26860,MAZDA2 HATCHBACK 1.5 75 SE+ 5dr,10000,Manual
+5.1088295688,Hatchback,Red,Petrol,Manchester,VOLKSWAGEN,14970,UP HATCHBACK 1.0 Move Up 5dr,10000,Manual
+5.18275154,Hatchback,Grey,Petrol,Doncaster,CITROEN,40627,C3 HATCHBACK 1.2 PureTech 82 Flair 5dr,10000,Manual
+5.6618754278,Hatchback,Silver,Petrol,Bristol,VOLKSWAGEN,16725,UP HATCHBACK 1.0 Move Up 5dr,10000,Manual
+5.3798767967,Hatchback,Grey,Petrol,Manchester,TOYOTA,15881,AYGO HATCHBACK 1.0 VVT-i X-Press 5dr,10000,Manual
+5.3388090349,Hatchback,Red,Petrol,Warrington,FORD,20744,FIESTA HATCHBACK 1.1 Zetec 3dr,10000,Manual
+8.8925393566,Hatchback,Red,Petrol,Bristol,VOLKSWAGEN,25171,POLO HATCHBACK 1.0 SE 5dr,10000,Manual
+6.3216974675,Hatchback,White,Petrol,Wakefield,CITROEN,32818,C3 HATCHBACK 1.2 PureTech 82 Feel 5dr,10000,Manual
+3.8904859685,Hatchback,Grey,Electric,Bristol,RENAULT,9320,ZOE HATCHBACK 80kW Dynamique Nav R110 40kWh 5dr Auto,10000,Automatic
+7.7399041752,Hatchback,Green,Petrol,Swindon,MINI,36355,HATCHBACK 1.5 Cooper 3dr,10000,Manual
+7.4113620808,Hatchback,Grey,Petrol,Sheffield,FORD,24551,ECOSPORT HATCHBACK 1.0 EcoBoost Titanium 5dr,10000,Manual
+3.0335386721,Hatchback,Red,Petrol,Manchester,TOYOTA,27219,AYGO HATCHBACK 1.0 VVT-i X-Trend 5dr,10150,Manual
+4.3613963039,Hatchback,Black,Petrol,Northampton,VAUXHALL,35460,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,10150,Manual
+5.0403832991,Hatchback,Grey,Petrol,Warrington,VAUXHALL,13509,CORSA HATCHBACK 1.4 Design 5dr,10150,Manual
+2.945927447,Hatchback,Grey,Petrol,Swindon,CITROEN,10836,C1 HATCHBACK 1.0 VTi 72 Flair 5dr,10200,Manual
+4.5037645448,Hatchback,Blue,Petrol,Sheffield,PEUGEOT,3228,108 HATCHBACK 1.0 72 Collection 5dr,10200,Manual
+6.8117727584,Hatchback,White,Petrol,Doncaster,PEUGEOT,23212,208 HATCHBACK SPECIAL EDITIONS 1.2 PureTech Allure Premium 5dr,10200,Manual
+4.1861738535,Hatchback,Green,Petrol,Sheffield,SKODA,60893,FABIA HATCHBACK SPECIAL EDITIONS 1.0 MPI 75 Colour Edition 5dr,10200,Manual
+7.1622176591,Hatchback,Black,Diesel,Swindon,NISSAN,34958,JUKE DIESEL HATCHBACK 1.5 dCi N-Connecta 5dr,10200,Manual
+3.8822724162,Hatchback,Red,Petrol,Wolverhampton,TOYOTA,15445,AYGO HATCHBACK 1.0 VVT-i X-Trend 5dr,10250,Manual
+2.4777549624,Hatchback,Red,Petrol,Northampton,TOYOTA,25937,AYGO HATCHBACK 1.0 VVT-i X-Play TSS 5dr,10250,Manual
+4.7282683094,Hatchback,White,Petrol,Wakefield,TOYOTA,23552,AYGO HATCHBACK 1.0 VVT-i X-Press 5dr,10250,Manual
+2.3463381246,Hatchback,White,Petrol,Warrington,PEUGEOT,11564,108 HATCHBACK 1.0 72 Collection 5dr,10250,Manual
+4.1314168378,Hatchback,White,Petrol,Northampton,SUZUKI,42317,SWIFT HATCHBACK 1.0 Boosterjet SHVS SZ5 5dr,10250,Manual
+3.8494182067,Hatchback,Grey,Petrol,Cardiff,SUZUKI,32911,SWIFT HATCHBACK 1.0 Boosterjet SZ-T 5dr,10250,Manual
+3.4387405886,Hatchback,Black,Petrol,Swindon,PEUGEOT,10944,108 HATCHBACK 1.0 72 Collection 5dr,10250,Manual
+3.923340178,Hatchback,White,Petrol,Norwich,VAUXHALL,18687,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Griffin 3dr,10250,Manual
+3.8138261465,Hatchback,Black,Petrol,Sheffield,VAUXHALL,41509,CORSA HATCHBACK 1.4 SE Nav 5dr,10250,Manual
+3.5920602327,Hatchback,White,Petrol,Swindon,MITSUBISHI,3267,MIRAGE HATCHBACK 1.2 3 5dr,10250,Manual
+4.1533196441,Hatchback,Red,Petrol,Bristol,VAUXHALL,13874,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,10250,Manual
+4.4736481862,Hatchback,Blue,Petrol,Nottingham,VAUXHALL,11176,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,10250,Manual
+4.3504449008,Hatchback,Red,Petrol,Wolverhampton,RENAULT,35856,CLIO HATCHBACK 0.9 TCE 75 Iconic 5dr,10250,Manual
+3.6495550992,Hatchback,Black,Petrol,Cardiff,CITROEN,3353,C1 HATCHBACK 1.0 VTi 72 Flair 5dr,10250,Manual
+4.386036961,Hatchback,Red,Petrol,Northampton,VOLKSWAGEN,20855,UP HATCHBACK SPECIAL EDS 1.0 Up Beats 3dr,10250,Manual
+4.7419575633,Hatchback,White,Petrol,Warrington,RENAULT,16108,CLIO HATCHBACK 0.9 TCE 75 Play 5dr,10250,Manual
+5.3223819302,Hatchback,Blue,Petrol,Sheffield,VOLKSWAGEN,11517,UP HATCHBACK 1.0 Move Up 5dr,10250,Manual
+3.0937713895,Hatchback,Grey,Petrol,Bristol,FIAT,26268,500 HATCHBACK 1.0 Mild Hybrid Lounge 3dr,10300,Manual
+4.0684462697,Hatchback,Grey,Petrol,Sheffield,TOYOTA,25179,AYGO HATCHBACK 1.0 VVT-i X-Trend 5dr,10300,Manual
+4.0739219713,Hatchback,Grey,Petrol,Sheffield,TOYOTA,27057,AYGO HATCHBACK 1.0 VVT-i X-Trend 5dr,10300,Manual
+4.476386037,Estate,Black,Petrol,Norwich,VAUXHALL,51111,CROSSLAND X HATCHBACK 1.2 SE 5dr,10300,Manual
+4.2080766598,Hatchback,Black,Petrol,Doncaster,TOYOTA,10016,AYGO HATCHBACK 1.0 VVT-i X-Play 5dr,10300,Manual
+3.8138261465,Hatchback,Black,Petrol,Doncaster,FIAT,6065,500 HATCHBACK 1.2 Lounge 3dr,10300,Manual
+4.8186173854,Hatchback,Grey,Petrol,Swindon,NISSAN,31233,MICRA HATCHBACK SPECIAL EDITIONS 0.9 IG-T Acenta Limited Edition 5dr,10300,Manual
+3.4962354552,Hatchback,Blue,Petrol,Manchester,SKODA,21289,FABIA HATCHBACK 1.0 MPI S 5dr,10300,Manual
+4.4736481862,Hatchback,Red,Petrol,Wakefield,NISSAN,31412,MICRA HATCHBACK 1.0 IG 71 Acenta 5dr,10300,Manual
+4.887063655,Hatchback,Green,Petrol,Cardiff,FIAT,8638,500 HATCHBACK 1.2 Lounge 3dr,10300,Manual
+4.3942505133,Hatchback,Red,Petrol,Northampton,SKODA,9814,CITIGO HATCHBACK SPECIAL EDITIONS 1.0 MPI GreenTech Colour Edition 5dr,10300,Manual
+4.3559206023,Hatchback,Blue,Petrol,Warrington,PEUGEOT,14337,208 HATCHBACK 1.2 PureTech 82 Active 5dr,10300,Manual
+4.810403833,Hatchback,White,Petrol,Bristol,VAUXHALL,24578,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,10300,Manual
+4.9938398357,Hatchback,Blue,Petrol,Warrington,MAZDA,52160,MAZDA2 HATCHBACK 1.5 SE-L Nav+ 5dr,10300,Manual
+5.0513347023,Hatchback,Black,Petrol,Wakefield,HYUNDAI,26498,I20 HATCHBACK 1.2 S Air 5dr,10300,Manual
+5.7248459959,Hatchback,Silver,Petrol,Warrington,RENAULT,22792,CLIO HATCHBACK 0.9 TCE 90 Dynamique Nav 5dr,10300,Manual
+4.9883641342,Hatchback,Blue,Petrol,Doncaster,FORD,17361,KA+ HATCHBACK 1.2 Zetec 5dr,10300,Manual
+5.0650239562,Hatchback,Black,Petrol,Sheffield,VOLKSWAGEN,33994,UP HATCHBACK SPECIAL EDS 1.0 75PS Up Beats 5dr,10300,Manual
+5.8343600274,Hatchback,Red,Petrol,Wakefield,SEAT,21854,IBIZA HATCHBACK 1.0 SE 5dr,10300,Manual
+5.067761807,Hatchback,Red,Petrol,Wakefield,VAUXHALL,8083,CORSA HATCHBACK SPECIAL EDS 1.4 Energy 3dr [AC],10300,Manual
+3.0746064339,Hatchback,Red,Petrol,Warrington,TOYOTA,4627,AYGO HATCHBACK 1.0 VVT-i X-Play 5dr,10350,Manual
+4.3285420945,Hatchback,Red,Petrol,Nottingham,MG MOTOR UK,12216,MG3 HATCHBACK 1.5 VTi-TECH Excite 5dr,10350,Manual
+4.3258042437,Hatchback,Blue,Petrol,Cardiff,VAUXHALL,23085,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,10350,Manual
+3.7070499658,Hatchback,Blue,Petrol,Doncaster,KIA,9890,PICANTO HATCHBACK 1.25 2 5dr,10400,Manual
+2.9678302533,Hatchback,Black,Petrol,Doncaster,CITROEN,8155,C1 HATCHBACK SPECIAL EDITION 1.0 VTi 72 Origins 5dr,10400,Manual
+4.8158795346,Hatchback,Red,Petrol,Warrington,VAUXHALL,13512,CORSA HATCHBACK 1.4 Sport 3dr [AC],10400,Manual
+4.7392197125,Hatchback,Blue,Petrol,Norwich,HYUNDAI,21412,I10 HATCHBACK SPECIAL EDITIONS 1.0 Go SE 5dr,10400,Manual
+4.2464065708,Hatchback,Beige,Petrol,Cardiff,CITROEN,20342,C1 HATCHBACK SPECIAL EDITION 1.0 VTi 72 ELLE 5dr,10400,Manual
+6.6447638604,Hatchback,Blue,Petrol,Norwich,MINI,57084,HATCHBACK 1.5 Cooper 5dr,10400,Manual
+6.2368240931,Hatchback,Red,Petrol,Cardiff,VOLKSWAGEN,37697,POLO HATCHBACK 1.2 TSI Match Edition 5dr,10400,Manual
+4.0711841205,Hatchback,Green,Petrol,Warrington,FIAT,3810,500 HATCHBACK 1.2 Lounge 3dr,10450,Manual
+3.8904859685,Hatchback,Grey,Petrol,Wakefield,TOYOTA,28763,AYGO HATCHBACK 1.0 VVT-i X-Trend 5dr,10500,Manual
+4.4079397673,Hatchback,White,Petrol,Bristol,KIA,36746,PICANTO HATCHBACK 1.25 X-Line 5dr,10500,Manual
+3.8412046543,Hatchback,Grey,Petrol,Swindon,FIAT,27923,500 HATCHBACK 1.2 Rock Star 3dr,10500,Manual
+1.6454483231,Hatchback,Blue,Petrol,Northampton,PEUGEOT,3534,108 HATCHBACK 1.0 72 Allure 5dr,10500,Manual
+3.9644079398,Hatchback,Grey,Petrol,Sheffield,FIAT,23777,500 HATCHBACK SPECIAL EDITIONS 1.2 120th Anniversary 3dr,10500,Manual
+2.1546885695,Hatchback,Red,Petrol,Manchester,PEUGEOT,10233,108 HATCHBACK 1.0 72 Allure 5dr,10500,Manual
+2.3709787817,Hatchback,Blue,Petrol,Wolverhampton,PEUGEOT,11797,108 HATCHBACK 1.0 72 Allure 5dr,10500,Manual
+4.2464065708,Hatchback,Red,Petrol,Swindon,SUZUKI,28286,SWIFT HATCHBACK SPECIAL EDITIONS 1.2 Dualjet Attitude 5dr,10500,Manual
+3.0746064339,Hatchback,Black,Petrol,Northampton,PEUGEOT,5966,108 HATCHBACK 1.0 72 Collection 5dr,10500,Manual
+4.0629705681,Hatchback,Silver,Petrol,Sheffield,SUZUKI,17250,SWIFT HATCHBACK 1.0 Boosterjet SZ-T 5dr,10500,Manual
+2.1875427789,Hatchback,White,Petrol,Manchester,CITROEN,8954,C1 HATCHBACK 1.0 VTi 72 Shine 5dr,10500,Manual
+3.9808350445,Hatchback,Blue,Petrol,Nottingham,VAUXHALL,29690,CORSA HATCHBACK 1.4 SRi Vx-line Nav Black 5dr,10500,Manual
+4.514715948,Hatchback,Silver,Petrol,Bristol,VAUXHALL,12780,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Griffin 3dr,10500,Manual
+4.5722108145,Hatchback,White,Petrol,Wakefield,VAUXHALL,42775,ASTRA HATCHBACK 1.0T ecoTEC Tech Line Nav 5dr,10500,Manual
+4.5694729637,Hatchback,Black,Petrol,Swindon,VOLKSWAGEN,21609,UP HATCHBACK 1.0 90PS High Up 5dr [Start Stop],10500,Manual
+4.3586584531,Hatchback,Red,Petrol,Wakefield,VOLKSWAGEN,15825,UP HATCHBACK SPECIAL EDS 1.0 Up Beats 5dr,10500,Manual
+3.4770704997,Hatchback,White,Petrol,Sheffield,VOLKSWAGEN,18131,UP HATCHBACK 1.0 Move Up 5dr,10500,Manual
+3.8302532512,Hatchback,Red,Petrol,Nottingham,VAUXHALL,30589,ADAM HATCHBACK SPECIAL EDS 1.2i Griffin 3dr,10500,Manual
+4.8240930869,Hatchback,Red,Petrol,Warrington,VAUXHALL,25024,CORSA HATCHBACK SPECIAL EDS 1.4T [100] Energy 5dr [AC],10500,Manual
+4.8268309377,Hatchback,Red,Petrol,Wakefield,VAUXHALL,12522,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,10500,Manual
+4.4353182752,Hatchback,Red,Petrol,Swindon,VAUXHALL,15946,VIVA HATCHBACK 1.0 [73] Rocks 5dr,10500,Manual
+4.8213552361,Hatchback,White,Petrol,Manchester,VOLKSWAGEN,17429,UP HATCHBACK SPECIAL EDS 1.0 75PS Up Beats 3dr,10500,Manual
+5.0650239562,Hatchback,Grey,Petrol,Cardiff,CITROEN,22144,C3 HATCHBACK 1.2 PureTech 82 Flair 5dr,10500,Manual
+5.5633127995,Hatchback,White,Petrol,Wakefield,CITROEN,8300,C1 HATCHBACK SPECIAL EDITION 1.0 VTi 72 ELLE 5dr,10500,Manual
+5.7467488022,Hatchback,Blue,Diesel,Norwich,CITROEN,40691,C3 AIRCROSS DIESEL HATCHBACK 1.6 BlueHDi 120 Feel 5dr,10500,Manual
+4.9336071184,Hatchback,White,Petrol,Manchester,KIA,22961,PICANTO HATCHBACK 1.25 X-Line 5dr,10500,Manual
+6.3216974675,Hatchback,White,Petrol,Norwich,HYUNDAI,34597,IX20 HATCHBACK 1.4 Blue Drive SE Nav 5dr,10500,Manual
+5.1526351814,Hatchback,Red,Petrol,Swindon,VOLKSWAGEN,25599,UP HATCHBACK 1.0 High Up 5dr,10500,Manual
+6.0698151951,Hatchback,Grey,Diesel,Bristol,RENAULT,34493,CAPTUR DIESEL HATCHBACK 1.5 dCi 90 Dynamique S Nav 5dr,10500,Manual
+5.2402464066,Hatchback,White,Petrol,Norwich,RENAULT,18646,CLIO HATCHBACK 0.9 TCE 90 Dynamique Nav 5dr,10500,Manual
+5.0704996578,Hatchback,Black,Petrol,Wakefield,CITROEN,35001,C3 HATCHBACK 1.2 PureTech 82 Flair Nav Edition 5dr,10500,Manual
+5.8124572211,Hatchback,Blue,Petrol,Warrington,FORD,45437,FOCUS HATCHBACK 1.0 EcoBoost 125 Zetec Edition 5dr,10550,Manual
+4.3148528405,Hatchback,Silver,Petrol,Cardiff,VAUXHALL,15995,CORSA HATCHBACK 1.4 SRi Nav 5dr,10600,Manual
+4.3586584531,Hatchback,Red,Petrol,Nottingham,VAUXHALL,15206,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Griffin 3dr,10600,Manual
+3.0088980151,Hatchback,Grey,Petrol,Sheffield,DACIA,28054,SANDERO STEPWAY HATCHBACK 0.9 TCe Comfort 5dr,10600,Manual
+6.7789185489,Hatchback,White,Petrol,Cardiff,SEAT,35219,IBIZA HATCHBACK 1.2 TSI 110 FR 5dr,10600,Manual
+7.318275154,Hatchback,Grey,Petrol,Wakefield,RENAULT,25942,CLIO HATCHBACK SPECIAL EDITIONS 0.9 TCE 90 Iconic 25 Nav 5dr,10600,Manual
+7.8138261465,Hatchback,Silver,Diesel,Cardiff,FORD,46161,FOCUS DIESEL HATCHBACK 1.5 TDCi 120 Titanium 5dr Powershift,10600,Automatic
+3.0061601643,Hatchback,Grey,Petrol,Norwich,MITSUBISHI,16123,MIRAGE HATCHBACK 1.2 Design 5dr,10650,Manual
+3.819301848,Hatchback,White,Petrol,Doncaster,RENAULT,17890,CLIO HATCHBACK 0.9 TCE 90 Play 5dr,10700,Manual
+2.945927447,Hatchback,Grey,Petrol,Nottingham,FIAT,15844,500 HATCHBACK 1.0 Mild Hybrid Lounge 3dr,10750,Manual
+2.8117727584,Hatchback,Orange,Petrol,Bristol,VAUXHALL,44288,CORSA HATCHBACK 1.2 SE 5dr,10750,Manual
+1.6399726215,Hatchback,White,Petrol,Manchester,PEUGEOT,10335,108 HATCHBACK 1.0 72 Allure 5dr,10750,Manual
+4.5886379192,Hatchback,Red,Diesel,Doncaster,PEUGEOT,21705,208 DIESEL HATCHBACK 1.5 BlueHDi Tech Edition 5dr,10750,Manual
+3.7754962355,Hatchback,Red,Petrol,Bristol,SUZUKI,33259,SWIFT HATCHBACK SPECIAL EDITIONS 1.2 Dualjet Attitude 5dr,10750,Manual
+4.5585215606,Hatchback,Silver,Petrol,Bristol,FORD,27073,FIESTA HATCHBACK 1.1 Zetec 5dr,10750,Manual
+4.4736481862,Hatchback,Red,Petrol,Nottingham,VAUXHALL,12245,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Griffin 3dr,10750,Manual
+3.8220396988,Hatchback,Red,Petrol,Wolverhampton,VAUXHALL,30250,ADAM HATCHBACK SPECIAL EDS 1.2i Griffin 3dr,10750,Manual
+3.8932238193,Hatchback,Grey,Petrol,Norwich,CITROEN,9415,C1 AIRSCAPE HATCHBACK 1.0 VTi 72 Flair 5dr,10750,Manual
+5.015742642,Hatchback,Blue,Petrol,Warrington,FORD,27016,FIESTA HATCHBACK 1.0 EcoBoost Zetec 5dr,10750,Manual
+5.8097193703,Hatchback,Red,Diesel,Manchester,KIA,23861,CEED DIESEL HATCHBACK 1.6 CRDi ISG 1 5dr,10750,Manual
+7.2361396304,Hatchback,Blue,Petrol,Warrington,AUDI,73033,A1 HATCHBACK 1.4 TFSI S Line 3dr,10750,Manual
+8.0273785079,Hatchback,Grey,Diesel,Warrington,AUDI,53000,A1 DIESEL HATCHBACK 1.6 TDI S Line 3dr,10750,Manual
+4.9911019849,Hatchback,Grey,Diesel,Wakefield,PEUGEOT,46237,308 DIESEL HATCHBACK 1.5 BlueHDi 130 Allure 5dr,10750,Manual
+7.6741957563,Hatchback,Grey,Diesel,Wakefield,VOLVO,54333,V40 DIESEL HATCHBACK D2 [120] R DESIGN 5dr,10750,Manual
+4.1451060917,Hatchback,White,Petrol,Warrington,TOYOTA,10432,AYGO HATCHBACK 1.0 VVT-i X-Trend 5dr,10800,Manual
+3.4770704997,Hatchback,Grey,Petrol,Northampton,SUZUKI,32269,SWIFT HATCHBACK SPECIAL EDITIONS 1.2 Dualjet Attitude 5dr,10800,Manual
+4.476386037,Hatchback,Orange,Petrol,Norwich,MG MOTOR UK,7400,MG3 HATCHBACK 1.5 VTi-TECH Exclusive 5dr,10800,Manual
+3.7070499658,Hatchback,White,Petrol,Sheffield,VAUXHALL,12991,CORSA HATCHBACK SPECIAL EDS 1.4 Griffin 3dr,10800,Manual
+4.4353182752,Hatchback,Silver,Petrol,Warrington,SUZUKI,15018,SWIFT HATCHBACK SPECIAL EDITIONS 1.2 Dualjet Attitude 5dr,10800,Manual
+3.7262149213,Hatchback,Blue,Petrol,Swindon,VAUXHALL,16176,CORSA HATCHBACK SPECIAL EDS 1.4 Griffin 3dr,10800,Manual
+3.819301848,Hatchback,White,Petrol,Warrington,VAUXHALL,18186,CORSA HATCHBACK SPECIAL EDS 1.4 Griffin 3dr,10800,Manual
+4.3175906913,Hatchback,Blue,Petrol,Swindon,PEUGEOT,26000,208 HATCHBACK 1.2 PureTech 82 Tech Edition 5dr [Start Stop],10800,Manual
+4.8377823409,Small,Black,Petrol,Manchester,SMART,4316,FORTWO COUPE 1.0 Passion 2dr Auto,10800,Automatic
+4.3175906913,Hatchback,Blue,Petrol,Bristol,HYUNDAI,7364,I10 HATCHBACK SPECIAL EDITIONS 1.0 Go SE 5dr,10800,Manual
+4.7145790554,Hatchback,Red,Petrol,Bristol,RENAULT,8589,CLIO HATCHBACK 0.9 TCE 75 Play 5dr,10800,Manual
+6.3846680356,Hatchback,White,Petrol,Sheffield,VAUXHALL,24364,ADAM HATCHBACK 1.4i Rocks Unlimited 3dr,10800,Manual
+5.1471594798,Hatchback,White,Petrol,Sheffield,VAUXHALL,11766,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Energy 5dr [AC],10800,Manual
+6.9185489391,Hatchback,Blue,Petrol,Norwich,AUDI,48421,A1 HATCHBACK 1.4 TFSI Sport 3dr,10800,Manual
+5.3141683778,Hatchback,Blue,Petrol,Sheffield,VAUXHALL,33629,ASTRA HATCHBACK 1.4i 16V SRi 5dr,10800,Manual
+6.7597535934,Hatchback,Grey,Petrol,Norwich,AUDI,69907,A1 SPORTBACK 1.4 TFSI Sport 5dr,10850,Manual
+5.1362080767,Hatchback,Red,Petrol,Norwich,RENAULT,13792,CLIO HATCHBACK 0.9 TCE 90 Dynamique S Nav 5dr,10850,Manual
+4.8186173854,Hatchback,Silver,Petrol,Manchester,FORD,5421,KA+ HATCHBACK 1.2 Zetec 5dr,10900,Manual
+3.8631074606,Hatchback,Black,Petrol,Swindon,PEUGEOT,23672,208 HATCHBACK 1.2 PureTech 82 Signature 5dr [Start Stop],10900,Manual
+4.810403833,Hatchback,Red,Petrol,Norwich,HYUNDAI,10794,I10 HATCHBACK 1.2 Premium 5dr,10900,Manual
+5.3497604381,Hatchback,White,Petrol,Doncaster,FORD,45057,FIESTA HATCHBACK 1.0 EcoBoost 125 Titanium 5dr,10900,Manual
+7.742642026,Hatchback,Black,Diesel,Wakefield,AUDI,63544,A1 DIESEL HATCHBACK 1.6 TDI S Line 3dr,10900,Manual
+3.3292265572,Hatchback,White,Petrol,Doncaster,MG MOTOR UK,12251,MG3 HATCHBACK 1.5 VTi-TECH Excite 5dr,10950,Manual
+5.5633127995,Estate,Red,Petrol,Sheffield,VAUXHALL,29437,CROSSLAND X HATCHBACK 1.2T ecoTec [110] SE 5dr [Start Stop],10950,Manual
+4.476386037,Estate,Black,Petrol,Sheffield,KIA,58283,STONIC ESTATE 1.4 MPi 2 5dr,11000,Manual
+4.2327173169,Estate,Grey,Petrol,Swindon,VAUXHALL,45387,CROSSLAND X HATCHBACK 1.2 Elite Nav 5dr,11000,Manual
+3.5920602327,Hatchback,Red,Petrol,Wakefield,TOYOTA,5888,AYGO HATCHBACK 1.0 VVT-i X-Trend 5dr,11000,Manual
+2.7296372348,Hatchback,White,Petrol,Warrington,FIAT,14088,500 HATCHBACK 1.0 Mild Hybrid Star 3dr,11000,Manual
+4.0711841205,Hatchback,Red,Petrol,Sheffield,TOYOTA,4522,AYGO HATCHBACK 1.0 VVT-i X-Trend 5dr,11000,Manual
+3.4770704997,Hatchback,White,Petrol,Manchester,TOYOTA,15236,AYGO HATCHBACK 1.0 VVT-i X-Trend 5dr,11000,Manual
+2.2286105407,Hatchback,Grey,Petrol,Cardiff,FIAT,18206,500 HATCHBACK 1.0 Mild Hybrid Dolcevita [Part Leather] 3dr,11000,Manual
+2.6584531143,Hatchback,Blue,Petrol,Swindon,FIAT,18407,500 HATCHBACK 1.0 Mild Hybrid Lounge 3dr,11000,Manual
+2.8884325804,Hatchback,White,Petrol,Northampton,KIA,9009,PICANTO HATCHBACK 1.25 2 5dr,11000,Manual
+4.6954140999,Estate,Blue,Diesel,Norwich,VAUXHALL,42815,CROSSLAND X DIESEL HATCHBACK 1.5 Turbo D ecoTec [102] Tech Line Nav 5dr [S/S],11000,Manual
+4.6954140999,Hatchback,Blue,Petrol,Swindon,KIA,11860,PICANTO HATCHBACK 1.25 3 5dr,11000,Manual
+3.7316906229,Hatchback,Grey,Petrol,Swindon,NISSAN,32538,MICRA HATCHBACK 1.0 IG-T 100 Acenta 5dr,11000,Manual
+4.0657084189,Hatchback,White,Petrol,Nottingham,FORD,19541,KA+ HATCHBACK 1.2 85 Active 5dr,11000,Manual
+3.3483915127,Hatchback,Blue,Petrol,Warrington,KIA,33044,RIO HATCHBACK 1.25 1 5dr,11000,Manual
+4.0711841205,Hatchback,White,Petrol,Norwich,CITROEN,45269,C3 HATCHBACK SPECIAL EDITION 1.2 PureTech 82 Origins 5dr,11000,Manual
+4.8569472964,Hatchback,Red,Petrol,Northampton,CITROEN,11167,C3 HATCHBACK 1.2 PureTech 82 Feel 5dr,11000,Manual
+3.794661191,Hatchback,White,Petrol,Wakefield,FORD,10316,KA+ HATCHBACK 1.2 Zetec 5dr,11000,Manual
+4.7802874743,Hatchback,Grey,Petrol,Norwich,CITROEN,21422,C3 HATCHBACK 1.2 PureTech 82 Flair 5dr,11000,Manual
+3.613963039,Hatchback,Silver,Petrol,Swindon,KIA,30246,PICANTO HATCHBACK SPECIAL EDITION 1.0 Titanium Edition 5dr,11000,Manual
+3.4743326489,Hatchback,Red,Petrol,Wakefield,SUZUKI,36773,SWIFT HATCHBACK 1.0 Boosterjet SHVS SZ5 5dr,11000,Manual
+3.8138261465,Hatchback,White,Petrol,Wakefield,FORD,30742,FIESTA HATCHBACK 1.1 Zetec 5dr,11000,Manual
+4.3121149897,Hatchback,Blue,Petrol,Northampton,SUZUKI,13552,SWIFT HATCHBACK SPECIAL EDITIONS 1.2 Dualjet Attitude 5dr,11000,Manual
+4.0821355236,Hatchback,Silver,Diesel,Bristol,RENAULT,40420,CAPTUR DIESEL HATCHBACK 1.5 dCi 90 Iconic 5dr,11000,Manual
+3.4907597536,Hatchback,White,Petrol,Wakefield,PEUGEOT,6589,108 TOP HATCHBACK 1.0 72 Collection 5dr,11000,Manual
+4.2327173169,Hatchback,Grey,Petrol,Swindon,VAUXHALL,20437,CORSA HATCHBACK 1.4 SRi Vx-line Nav Black 5dr,11000,Manual
+4.8459958932,Hatchback,White,Petrol,Northampton,FORD,27675,FIESTA HATCHBACK 1.0 EcoBoost Zetec 5dr,11000,Manual
+4.59137577,Hatchback,Blue,Petrol,Wakefield,FORD,28462,FIESTA HATCHBACK 1.0 EcoBoost Zetec 5dr,11000,Manual
+3.8220396988,Hatchback,Blue,Petrol,Northampton,VAUXHALL,18504,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Griffin 3dr,11000,Manual
+4.681724846,Hatchback,Silver,Petrol,Wakefield,FORD,26063,FIESTA HATCHBACK 1.1 Zetec 5dr,11000,Manual
+2.7679671458,Hatchback,Grey,Petrol,Doncaster,CITROEN,14298,C1 HATCHBACK SPECIAL EDITION 1.0 VTi 72 Origins 5dr,11000,Manual
+4.180698152,Hatchback,Black,Petrol,Wakefield,SUZUKI,11693,BALENO HATCHBACK 1.0 Boosterjet SZ5 5dr,11000,Manual
+3.8138261465,Hatchback,White,Petrol,Norwich,RENAULT,23065,CLIO HATCHBACK 0.9 TCE 90 Iconic 5dr,11000,Manual
+4.3641341547,Hatchback,White,Petrol,Manchester,VAUXHALL,23774,CORSA HATCHBACK 1.4T [100] SRi Nav 5dr,11000,Manual
+3.5345653662,Hatchback,White,Petrol,Swindon,HYUNDAI,9783,I10 HATCHBACK SPECIAL EDITIONS 1.0 Play 5dr,11000,Manual
+4.5393566051,Hatchback,White,Petrol,Nottingham,VOLKSWAGEN,20214,UP HATCHBACK 1.0 High Up 5dr,11000,Manual
+4.3203285421,Hatchback,Black,Petrol,Warrington,VAUXHALL,21395,CORSA HATCHBACK SPECIAL EDS 1.4 Energy 5dr [AC],11000,Manual
+4.0711841205,Hatchback,Blue,Petrol,Bristol,SKODA,8227,CITIGO HATCHBACK SPECIAL EDITIONS 1.0 MPI GreenTech Colour Edition 5dr,11000,Manual
+4.3258042437,Hatchback,Blue,Petrol,Cardiff,VAUXHALL,25246,ADAM HATCHBACK SPECIAL EDS 1.2i Energised 3dr,11000,Manual
+5.2292950034,Hatchback,Blue,Petrol,Swindon,CITROEN,18243,C3 HATCHBACK 1.2 PureTech 82 Flair 5dr,11000,Manual
+7.7289527721,Hatchback,Silver,Petrol,Swindon,HONDA,60863,CIVIC HATCHBACK 1.8 i-VTEC SR 5dr,11000,Manual
+5.3223819302,Hatchback,Blue,Petrol,Cardiff,VAUXHALL,16183,CORSA HATCHBACK SPECIAL EDS 1.4T [100] Energy 5dr [AC],11000,Manual
+6.6036960986,Estate,Blue,Petrol,Cardiff,SKODA,65532,OCTAVIA ESTATE 1.4 TSI 150 SE 5dr,11000,Manual
+6.8117727584,Hatchback,Red,Petrol,Swindon,FORD,5800,FIESTA HATCHBACK 1.25 82 Zetec 5dr,11000,Manual
+5.8151950719,Sports,White,Petrol,Cardiff,FIAT,25063,500C CONVERTIBLE 0.9 TwinAir Lounge 2dr,11000,Manual
+5.7440109514,Hatchback,Grey,Petrol,Wakefield,RENAULT,28770,CAPTUR HATCHBACK 0.9 TCE 90 Dynamique S Nav 5dr,11000,Manual
+6.8610540726,Hatchback,Grey,Petrol,Northampton,ABARTH,24112,595 HATCHBACK 1.4 T-Jet 145 3dr,11000,Manual
+6.3162217659,Hatchback,Black,Petrol,Bristol,FORD,21143,FIESTA HATCHBACK 1.0 EcoBoost 125 Titanium 5dr,11000,Manual
+7.0253251198,SUV,White,Petrol,Norwich,SUZUKI,59120,VITARA ESTATE 1.6 SZ5 5dr,11100,Manual
+4.5284052019,Hatchback,Black,Petrol,Wakefield,SKODA,34974,FABIA HATCHBACK SPECIAL EDITIONS 1.0 MPI 75 Colour Edition 5dr,11150,Manual
+2.674880219,Hatchback,Grey,Petrol,Wakefield,FIAT,9438,500 HATCHBACK 1.0 Mild Hybrid Lounge 3dr,11200,Manual
+3.0088980151,Hatchback,Grey,Petrol,Manchester,FIAT,7558,500 HATCHBACK 1.0 Mild Hybrid Lounge 3dr,11200,Manual
+3.7289527721,Hatchback,Red,Petrol,Wakefield,VAUXHALL,24438,CORSA HATCHBACK SPECIAL EDS 1.4 [75] Griffin 5dr,11200,Manual
+5.8097193703,Hatchback,Grey,Petrol,Northampton,PEUGEOT,48279,308 HATCHBACK 1.2 PureTech 130 GT Line 5dr,11200,Manual
+5.3333333333,Hatchback,Black,Petrol,Warrington,VOLKSWAGEN,11305,UP HATCHBACK 1.0 90PS High Up 5dr,11200,Manual
+8.1149897331,Estate,Blue,Petrol,Warrington,SKODA,33890,FABIA ESTATE 1.2 TSI SE 5dr DSG,11200,Automatic
+5.18275154,Hatchback,Cream,Diesel,Swindon,RENAULT,38728,CAPTUR DIESEL HATCHBACK 1.5 dCi 90 Dynamique S Nav 5dr,11200,Manual
+7.8494182067,Hatchback,White,Petrol,Wakefield,NISSAN,62458,QASHQAI HATCHBACK 1.2 DiG-T Tekna [Non-Panoramic] 5dr,11200,Manual
+3.1540041068,Hatchback,Black,Petrol,Manchester,TOYOTA,10717,AYGO HATCHBACK 1.0 VVT-i X-Trend 5dr,11250,Manual
+2.8090349076,Hatchback,Grey,Petrol,Norwich,VAUXHALL,32144,CORSA HATCHBACK 1.2 SE 5dr,11250,Manual
+3.1321013005,Hatchback,Grey,Petrol,Norwich,FIAT,13018,500 HATCHBACK 1.2 Rock Star 3dr,11250,Manual
+3.4031485284,Hatchback,Black,Petrol,Wakefield,KIA,19833,PICANTO HATCHBACK 1.25 3 5dr,11250,Manual
+3.4743326489,Hatchback,Grey,Petrol,Wakefield,CITROEN,16889,C3 HATCHBACK 1.2 PureTech 82 Feel 5dr,11250,Manual
+4.3039014374,Hatchback,Mauve,Petrol,Swindon,TOYOTA,18130,AYGO HATCHBACK 1.0 VVT-i X-Cite 5 5dr,11250,Manual
+3.8576317591,Hatchback,Grey,Petrol,Wakefield,FIAT,11182,500 HATCHBACK 1.2 Rock Star 3dr,11250,Manual
+2.0670773443,Hatchback,Red,Petrol,Nottingham,SUZUKI,24936,SWIFT HATCHBACK 1.2 Dualjet 83 12V Hybrid SZ-L 5dr,11250,Manual
+4.8131416838,Hatchback,Grey,Petrol,Manchester,FORD,10600,KA+ HATCHBACK 1.2 85 Active 5dr,11250,Manual
+3.7262149213,Hatchback,White,Petrol,Northampton,FORD,46088,FIESTA HATCHBACK 1.0 EcoBoost Active 1 5dr,11250,Manual
+4.8158795346,Hatchback,Grey,Diesel,Cardiff,FORD,46980,FIESTA DIESEL HATCHBACK 1.5 TDCi 120 Titanium 5dr,11250,Manual
+4.0684462697,Hatchback,Black,Petrol,Sheffield,SKODA,26979,FABIA HATCHBACK SPECIAL EDITIONS 1.0 MPI 75 Colour Edition 5dr,11250,Manual
+4.3148528405,Hatchback,Red,Petrol,Cardiff,SUZUKI,12956,SWIFT HATCHBACK SPECIAL EDITIONS 1.2 Dualjet Attitude 5dr,11250,Manual
+4.3148528405,Hatchback,Silver,Petrol,Norwich,SUZUKI,19715,SWIFT HATCHBACK SPECIAL EDITIONS 1.2 Dualjet Attitude 5dr,11250,Manual
+4.3805612594,Hatchback,Red,Petrol,Swindon,FORD,45613,FIESTA HATCHBACK 1.0 EcoBoost 125 Titanium 3dr,11250,Manual
+4.3148528405,Hatchback,Grey,Petrol,Wakefield,VAUXHALL,13360,CORSA HATCHBACK 1.4 SRi Nav 5dr,11250,Manual
+3.8247775496,Hatchback,Red,Petrol,Doncaster,VAUXHALL,17427,ADAM HATCHBACK SPECIAL EDS 1.2i Griffin 3dr,11250,Manual
+4.3121149897,Hatchback,Black,Diesel,Swindon,VAUXHALL,39343,ASTRA DIESEL HATCHBACK 1.6 CDTi 16V ecoTEC Tech Line Nav 5dr,11250,Manual
+4.3121149897,Hatchback,Red,Petrol,Northampton,VAUXHALL,13582,ADAM HATCHBACK SPECIAL EDS 1.2i Griffin 3dr,11250,Manual
+6.5817932923,Estate,White,Diesel,Manchester,MINI,61037,CLUBMAN DIESEL ESTATE 2.0 Cooper D 6dr,11250,Manual
+3.3894592745,Hatchback,Blue,Diesel,Nottingham,CITROEN,60890,C3 AIRCROSS DIESEL HATCHBACK 1.5 BlueHDi Flair 5dr [6 speed],11250,Manual
+5.3196440794,Hatchback,Red,Diesel,Wolverhampton,RENAULT,35696,CAPTUR DIESEL HATCHBACK 1.5 dCi 90 Dynamique Nav 5dr,11250,Manual
+5.8042436687,Hatchback,Blue,Petrol,Swindon,SKODA,46206,OCTAVIA HATCHBACK 1.0 TSI SE Technology 5dr,11250,Manual
+5.1362080767,Hatchback,Grey,Petrol,Norwich,FORD,36049,FIESTA HATCHBACK 1.0 EcoBoost 125 Titanium 5dr,11250,Manual
+5.2320328542,Hatchback,Grey,Petrol,Nottingham,CITROEN,10939,C3 HATCHBACK 1.2 PureTech 82 Flair 5dr,11250,Manual
+6.5817932923,FourByFour,Grey,Petrol,Doncaster,SUZUKI,59028,VITARA ESTATE 1.6 SZ-T ALLGRIP 5dr,11250,Manual
